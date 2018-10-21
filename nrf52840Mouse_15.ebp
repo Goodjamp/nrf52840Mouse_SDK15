@@ -171,6 +171,8 @@
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\nfc\ndef\conn_hand_parser\ac_rec_parser" />
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\libraries\stack_guard" />
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\libraries\log\src" />
+					<Add directory="..\..\nrf52840Mouse_15" />
+					<Add directory="..\nrf52840Mouse_15" />
 				</Compiler>
 				<Assembler>
 					<Add option="--defsym,BOARD_PCA10056" />
@@ -452,6 +454,18 @@
 		<Unit filename="nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\nrf_common.ld" />
 		<Unit filename="nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\system_nrf52840.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orderProcessing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="orderProcessing.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="systemTime.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="systemTime.h">
+			<Option target="Release" />
 		</Unit>
 		<Extensions>
 			<code_completion />
