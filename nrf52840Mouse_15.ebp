@@ -171,8 +171,7 @@
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\nfc\ndef\conn_hand_parser\ac_rec_parser" />
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\libraries\stack_guard" />
 					<Add directory="nRF5_SDK_15.2.0_9412b96\components\libraries\log\src" />
-					<Add directory="..\..\nrf52840Mouse_15" />
-					<Add directory="..\nrf52840Mouse_15" />
+					<Add directory="..\nrf52840mouse_sdk15" />
 				</Compiler>
 				<Assembler>
 					<Add option="--defsym,BOARD_PCA10056" />

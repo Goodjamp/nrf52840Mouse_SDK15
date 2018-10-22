@@ -1,5 +1,5 @@
-cscope 15 $HOME\Desktop\nrf52840Mouse_15\nrf52840Mouse_15"               0000811850
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_advertising\ble_advertising.c
+cscope 15 C:\Private\Programing\Nordic\nrf52840mouse_sdk15"               0000812173
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_advertising\ble_advertising.c
 
 40 
 	~"sdk_comm⁄.h
@@ -2485,7 +2485,7 @@ NULL
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c
 
 40 
 	~"bÀ_lök_˘x_m™agî.h
@@ -2619,7 +2619,7 @@ NRF_SUCCESS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_bas\ble_bas.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_bas\ble_bas.c
 
 44 
 	~"sdk_comm⁄.h
@@ -3725,7 +3725,7 @@ NRF_ERROR_INVALID_STATE
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_dis\ble_dis.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_dis\ble_dis.c
 
 44 
 	~"sdk_comm⁄.h
@@ -4689,7 +4689,7 @@ NRF_SUCCESS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_hids\ble_hids.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_hids\ble_hids.c
 
 44 
 	~"sdk_comm⁄.h
@@ -10527,7 +10527,7 @@ NRF_SUCCESS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_advdata.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_advdata.c
 
 40 
 	~"bÀ_advd©a.h
@@ -13355,7 +13355,7 @@ p_èrgë_≠≥¨™˚
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_params.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_params.c
 
 40 
 	~"sdk_comm⁄.h
@@ -14921,7 +14921,7 @@ bÀ_evt_h™dÀr
 NULL
 );
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_state.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_state.c
 
 40 
 	~"bÀ_c⁄n_°©e.h
@@ -16385,7 +16385,7 @@ p_c⁄ãxt
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_srv_common.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_srv_common.c
 
 45 
 	~"bÀ_§v_comm⁄.h
@@ -17335,7 +17335,7 @@ p_des¸_h™dÀ
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_gatt\nrf_ble_gatt.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_gatt\nrf_ble_gatt.c
 
 41 
 	~"sdk_comm⁄.h
@@ -19083,7 +19083,7 @@ NRF_ERROR_BUSY
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_qwr\nrf_ble_qwr.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_qwr\nrf_ble_qwr.c
 
 40 
 	~"sdk_comm⁄.h
@@ -20697,7 +20697,7 @@ nb_wrôãn_h™dÀs
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\auth_status_tracker.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\auth_status_tracker.c
 
 40 
 	~"sdk_comm⁄.h
@@ -21769,7 +21769,7 @@ is_a˘ive
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatt_cache_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatt_cache_manager.c
 
 40 
 	~"sdk_comm⁄.h
@@ -23779,7 +23779,7 @@ m_Êag_£rvi˚_ch™ged_≥ndög
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatts_cache_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatts_cache_manager.c
 
 40 
 	~"sdk_comm⁄.h
@@ -24837,7 +24837,7 @@ NULL
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\id_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\id_manager.c
 
 40 
 	~"sdk_comm⁄.h
@@ -27151,7 +27151,7 @@ IM_ADDR_CIPHERTEXT_LENGTH
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_data_storage.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_data_storage.c
 
 40 
 	~"sdk_comm⁄.h
@@ -29351,7 +29351,7 @@ m_moduÀ_öôülized
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_database.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_database.c
 
 40 
 	~"sdk_comm⁄.h
@@ -31443,7 +31443,7 @@ p_wrôe_buf„r_ªc‹d
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_id.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_id.c
 
 40 
 	~"sdk_comm⁄.h
@@ -31995,7 +31995,7 @@ n_ids
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager.c
 
 40 
 	~"sdk_comm⁄.h
@@ -32080,7 +32080,7 @@ PM_LOG_LEVEL
 	)
 
 59 
-	#NRF_LOG_INFO_COLOR
+	#DEBUG_LOG_COLOR
  
 PM_LOG_INFO_COLOR
 
@@ -35789,7 +35789,7 @@ NRF_ERROR_INTERNAL
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager_handler.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager_handler.c
 
 40 
 	~"≥î_m™agî_h™dÀr.h
@@ -37775,7 +37775,7 @@ c⁄n_h™dÀ
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\pm_buffer.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\pm_buffer.c
 
 40 
 	~"sdk_comm⁄.h
@@ -38263,7 +38263,7 @@ id
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_dispatcher.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_dispatcher.c
 
 40 
 	~"sdk_comm⁄.h
@@ -41489,7 +41489,7 @@ g≠_evt
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_manager.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_manager.c
 
 40 
 	~"sdk_comm⁄.h
@@ -43457,7 +43457,7 @@ f‹˚_ª∑úög
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\boards\boards.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\boards\boards.c
 
 40 
 	~"bﬂrds.h
@@ -44127,7 +44127,7 @@ BSP_INIT_BUTTONS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic\nrf_atomic.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic\nrf_atomic.c
 
 40 
 	~"ƒf_©omic.h
@@ -45985,7 +45985,7 @@ p_d©a
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_fifo\nrf_atfifo.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_fifo\nrf_atfifo.c
 
 41 
 	~<°rög.h
@@ -46693,7 +46693,7 @@ p_log
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_flags\nrf_atflags.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_flags\nrf_atflags.c
 
 41 
 	~"ƒf.h
@@ -47141,7 +47141,7 @@ i
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\balloc\nrf_balloc.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\balloc\nrf_balloc.c
 
 40 
 	~"sdk_comm⁄.h
@@ -48483,7 +48483,7 @@ p_block
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp.c
 
 40 
 	~"b•.h
@@ -50435,7 +50435,7 @@ buâ⁄_idx
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp_btn_ble.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp_btn_ble.c
 
 40 
 	~"b•_bä_bÀ.h
@@ -50995,7 +50995,7 @@ m_num_c⁄√˘i⁄s
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\button\app_button.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\button\app_button.c
 
 40 
 	~"sdk_comm⁄.h
@@ -51591,7 +51591,7 @@ APP_BUTTON_ACTIVE_HIGH
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\crc16\crc16.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\crc16\crc16.c
 
 40 
 	~"sdk_comm⁄.h
@@ -51683,7 +51683,7 @@ uöt8_t
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\experimental_section_vars\nrf_section_iter.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\experimental_section_vars\nrf_section_iter.c
 
 41 
 	~"sdk_comm⁄.h
@@ -51993,7 +51993,7 @@ p_ôî
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fds\fds.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fds\fds.c
 
 40 
 	~"sdk_comm⁄.h
@@ -58815,7 +58815,7 @@ FDS_SUCCESS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage.c
 
 40 
 	~"sdk_c⁄fig.h
@@ -59647,7 +59647,7 @@ p_Êash_öfo
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage_sd.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage_sd.c
 
 41 
 	~"sdk_comm⁄.h
@@ -61385,7 +61385,7 @@ wm≠
 is_busy
 
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\hardfault\hardfault_implementation.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\hardfault\hardfault_implementation.c
 
 40 
 	~"sdk_comm⁄.h
@@ -61691,7 +61691,7 @@ p_°ack_addªss
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_rtt.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_rtt.c
 
 40 
 	~"sdk_comm⁄.h
@@ -61941,7 +61941,7 @@ put
 ƒf_log_backíd_πt_∑nic_£t
 ,
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_serial.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_serial.c
 
 40 
 	~"sdk_comm⁄.h
@@ -62335,7 +62335,7 @@ p_msg
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_uart.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_uart.c
 
 40 
 	~"sdk_comm⁄.h
@@ -62689,7 +62689,7 @@ put
 ƒf_log_backíd_u¨t_∑nic_£t
 ,
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_default_backends.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_default_backends.c
 
 41 
 	~"sdk_comm⁄.h
@@ -62831,7 +62831,7 @@ u¨t_log_backíd
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_frontend.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_frontend.c
 
 40 
 	~"sdk_comm⁄.h
@@ -68933,7 +68933,7 @@ m_sub_log_°©
 log_cmd
 );
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_str_formatter.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_str_formatter.c
 
 40 
 	~"sdk_comm⁄.h
@@ -69715,7 +69715,7 @@ m_‰eq
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\memobj\nrf_memobj.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\memobj\nrf_memobj.c
 
 41 
 	~"ƒf_memobj.h
@@ -70695,7 +70695,7 @@ off£t
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\pwr_mgmt\nrf_pwr_mgmt.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\pwr_mgmt\nrf_pwr_mgmt.c
 
 40 
 	~"sdk_comm⁄.h
@@ -72003,7 +72003,7 @@ m_sysoff_mtx
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\ringbuf\nrf_ringbuf.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\ringbuf\nrf_ringbuf.c
 
 40 
 	~"ƒf_rögbuf.h
@@ -73013,7 +73013,7 @@ NRF_SUCCESS
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\scheduler\app_scheduler.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\scheduler\app_scheduler.c
 
 40 
 	~"sdk_comm⁄.h
@@ -73741,7 +73741,7 @@ m_queue_°¨t_ödex
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\sensorsim\sensorsim.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\sensorsim\sensorsim.c
 
 40 
 	~"£ns‹sim.h
@@ -73971,7 +73971,7 @@ is_ö¸ósög
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\strerror\nrf_strerror.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\strerror\nrf_strerror.c
 
 41 
 	~"sdk_comm⁄.h
@@ -74379,7 +74379,7 @@ NULL
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\timer\app_timer.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\timer\app_timer.c
 
 40 
 	~"sdk_comm⁄.h
@@ -77381,7 +77381,7 @@ TASKS_START
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error.c
 
 49 
 	~"ƒf.h
@@ -77647,7 +77647,7 @@ lo›
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_handler_gcc.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_handler_gcc.c
 
 40 
 	~"sdk_comm⁄.h
@@ -77805,7 +77805,7 @@ nŸ
 suµ‹ãd
 
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_weak.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_weak.c
 
 40 
 	~"≠p_îr‹.h
@@ -78007,7 +78007,7 @@ pc
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_util_platform.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_util_platform.c
 
 40 
 	~"≠p_utû_∂©f‹m.h
@@ -78257,7 +78257,7 @@ APP_IRQ_PRIORITY_THREAD
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\nrf_assert.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\nrf_assert.c
 
 40 
 	~"ƒf_as£π.h
@@ -78321,7 +78321,7 @@ as£π_öfo
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh.c
 
 41 
 	~"sdk_comm⁄.h
@@ -79327,7 +79327,7 @@ NRF_SDH_DISPATCH_MODEL
 NRF_SDH_DISPATCH_MODEL_POLLING
 )
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_ble.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_ble.c
 
 41 
 	~"sdk_comm⁄.h
@@ -80317,7 +80317,7 @@ h™dÀr
 NULL
 ,
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_soc.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_soc.c
 
 41 
 	~"sdk_comm⁄.h
@@ -80555,7 +80555,7 @@ h™dÀr
 NULL
 ,
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\main.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\main.c
 
 55 
 	~<°döt.h
@@ -80691,7 +80691,7 @@ NULL
 
 91 
 	#DEVICE_NAME
- "nRF5_Mou£"
+ "N‹dik_ADV_upd©e"
 
 	)
 
@@ -81291,103 +81291,103 @@ bÀ_g≠_adv_d©a_t
 p_√w_advd©a_buf
 );
 
-234 
+240 
 	~"fds.h
 "
 
-236 
+242 
 	~"‹dîPro˚ssög.h
 "
 
-237 
+243 
 	~"sy°emTime.h
 "
 
-239 
+245 
 	#DETECTED_DEV_FREE
  0xFF
 
 	)
 
-240 
+246 
 	#DIRECT_CONN_QUANTITY
  0x3
 
 	)
 
-242 
+248 
 	#FILE_ORDER
  0xBAAB
 
 	)
 
-243 
+249 
 	#RECORD_KEY_ORDER
  0xABBA
 
 	)
 
-245 
+251 
 	#APP_ADV_GLOBAL_INTERVAL
  0x0023
 
 	)
 
-246 
+252 
 	#APP_ADV_GLOBAL_TIMEOUT
- 60
+ 6000
 
 	)
 
-249 
+255 
 	#APP_ADV_FAST_SCANING_INTERVAL
  0x0023
 
 	)
 
-250 
+256 
 	#APP_ADV_FAST_SCANING_TIMEOUT
  10
 
 	)
 
-252 
+258 
 	#APP_ADV_FAST_CONNECT_INTERVAL
  0x0023
 
 	)
 
-253 
+259 
 	#APP_ADV_FAST_CONNECT_TIMEOUT
  10
 
 	)
 
-255 
+261 
 	#APP_ADV_FAST_SEARCH_INTERVAL
  0x0140
 
 	)
 
-256 
+262 
 	#APP_ADV_FAST_SEARCH_TIMEOUT
  60
 
 	)
 
-258 
+264 
 	#ORDER_FLASHE_PAGE
  254
 
 	)
 
-260 
+266 
 	#ADV_RECONNECT_SCAN_TIMEOUT
  10000
 
 	)
 
-262 
+268 
 	#GET_PAGE_ADDRESS
 (
 X
@@ -81397,81 +81397,133 @@ uöt32_t
 
 	)
 
-267 
+271 
+	#DEBUG_ENABLEx
+
+
+	)
+
+272 #ifde‡ 
+DEBUG_ENABLE
+
+
+273 
+	#DEBUG_LOG
+(...Ë
+	`NRF_LOG_INFO
+(
+__VA_ARGS__
+)
+
+	)
+
+275 
+	#DEBUG_LOG
+(...)
+
+	)
+
+278 
+	#USER_INFO_ENABLE
+
+
+	)
+
+279 #ifde‡
+USER_INFO_ENABLE
+
+
+280 
+	#USER_INFO
+(...Ë
+	`NRF_LOG_INFO
+(
+__VA_ARGS__
+)
+
+	)
+
+282 
+	#USER_INFO
+(...)
+
+	)
+
+291 
 	mADV_PROC_START_CONNECT
 ,
 
-268 
+292 
 	mADV_PROC_STOP_ADV
 ,
 
-269 
+293 
 	mADV_PROC_CONNECT_PREV
 ,
 
-270 
+294 
 	mADV_PROC_CONNECT
 
 
-271 }
+295 }
 	tƒfBLEAdvEvT
 ;
 
-275 
+299 
 	mDEV_SCANNING
 ,
 
-276 
+300 
 	mDEV_CONNECTION
 ,
 
-277 }
+301 }
 	tc⁄nPha£
 ;
 
-281 
+305 
 	mADV_IDLE
 ,
 
-282 
+306 
 	mADV_ADD_NEW
 ,
 
-283 
+307 
 	mADV_RECONNECT_SCAN
 ,
 
-284 
+308 
 	mADV_RECONNECT_CONNECT
 ,
 
-285 }
+309 }
 	tadvTy≥T
 ;
 
-289 
+313 
 	mCONNECTION_CONNECT
  = 0x0,
 
-290 
+314 
 	mCONNECTION_START_DISCONNECT
  = 0x1,
 
-291 
+315 
 	mCONNECTION_DISCONNECT
  = 0x2,
 
-292 }
+316 }
 	tc⁄√˘i⁄SèãT
 ;
 
-297 
+321 
 c⁄nPha£
  
 	mpha£
 ;
 
-298 
+322 
 uöt16_t
  
 	mli°Dëe˘edDev
@@ -81479,29 +81531,43 @@ uöt16_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-299 
+323 
 uöt8_t
  
 	mqu™tôyDëe˘edDev
 ;
 
-300 
+324 
 uöt8_t
  
 	mc⁄√˘C¡
 ;
 
-301 
+325 
 uöt8_t
  
 	mlo›C¡
 ;
 
-302 }
+326 
+pm_≥î_id_t
+ 
+	mm_whôñi°_≥îs
+[
+BLE_GAP_WHITELIST_ADDR_MAX_COUNT
+];
+
+327 
+uöt32_t
+ 
+	mm_whôñi°_≥î_˙t
+;
+
+328 }
 	gadvDúOrdC⁄nSèã
  =
 
-304 .
+330 .
 li°Dëe˘edDev
  = {[0 ... 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
@@ -81509,135 +81575,135 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 DETECTED_DEV_FREE
 }
 
-307 
+333 
 ‹dîT
  
 	gdevi˚Ordî
 ;
 
-308 
+334 
 timîCÆlbacT
  
 	g°›SˇnAdvTimîCÆlback
 ;
 
-309 
+335 
 timîCÆlbacT
  
 	gswôchToC⁄nAdvTimîCÆlback
 ;
 
-311 
+337 
 boﬁ
  
 	misDñëeB⁄ds
 ;
 
-312 
+338 
 boﬁ
  
 	misRólAdv
 ;
 
-313 
+339 
 boﬁ
  
 	misAµAdv
 ;
 
-314 
+340 
 boﬁ
  
 	misPªvC⁄n
 ;
 
-315 
+341 
 uöt16_t
  
 	mc⁄√˘i⁄H™dÀr
 ;
 
-316 
+342 
 advTy≥T
  
 	mcuºítAdvTy≥
 ;
 
-317 
+343 
 c⁄√˘i⁄SèãT
  
 	mc⁄√˘Sèã
 ;
 
-318 } 
+344 } 
 	g≠pSèã
  =
 
-320 .
+346 .
 isDñëeB⁄ds
  = 
 Ál£
 ,
 
-321 .
+347 .
 	gisRólAdv
  = 
 Ál£
 ,
 
-322 .
+348 .
 	gisAµAdv
  = 
 Ál£
 ,
 
-323 .
+349 .
 	gisPªvC⁄n
  = 
 Ál£
 ,
 
-324 .
+350 .
 	gc⁄√˘i⁄H™dÀr
  = 
 BLE_CONN_HANDLE_INVALID
 ,
 
-325 .
+351 .
 	gcuºítAdvTy≥
  = 
 ADV_IDLE
 ,
 
-326 .
+352 .
 	gc⁄√˘Sèã
  = 
 CONNECTION_DISCONNECT
 ,
 
-328 
+354 
 uöt32_t
  
 	gsˇnögTimeout
 ;
 
-330 
+356 
 boﬁ
  
 	$≠pAdvGëPªvC⁄n
 ()
 
-332  
+358  
 ≠pSèã
 .
 isPªvC⁄n
 ;
 
-333 
+359 
 	}
 }
 
-336 
+362 
 	$≠pAdvSëPªvC⁄n
 (
 boﬁ
@@ -81645,7 +81711,7 @@ boﬁ
 ¥evC⁄nSë
 )
 
-338 
+364 
 ≠pSèã
 .
 isPªvC⁄n
@@ -81653,43 +81719,43 @@ isPªvC⁄n
 ¥evC⁄nSë
 ;
 
-339 
+365 
 	}
 }
 
-342 
+368 
 advTy≥T
  
 	$≠pAdvGëCuºítTy≥
 ()
 
-344  
+370  
 ≠pSèã
 .
 cuºítAdvTy≥
 ;
 
-345 
+371 
 	}
 }
 
-348 
+374 
 boﬁ
  
 	$≠pAdvGëSèã
 ()
 
-350  
+376  
 ≠pSèã
 .
 isAµAdv
 ;
 
-351 
+377 
 	}
 }
 
-354 
+380 
 	$≠pAdvSëRólSèã
 (
 boﬁ
@@ -81697,7 +81763,7 @@ boﬁ
 °©e
 )
 
-356 
+382 
 ≠pSèã
 .
 isRólAdv
@@ -81705,11 +81771,11 @@ isRólAdv
 °©e
 ;
 
-357 
+383 
 	}
 }
 
-360 
+386 
 	$≠pC⁄√˘SëSèã
 (
 c⁄√˘i⁄SèãT
@@ -81721,13 +81787,13 @@ uöt16_t
 c⁄√˘i⁄H™dÀr
 )
 
-362 
+388 
 ≠pSèã
 .
 c⁄√˘i⁄H™dÀr
  = connectionHandler;
 
-363 
+389 
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81735,81 +81801,131 @@ c⁄√˘Sèã
 c⁄nSèã
 ;
 
-364 
+390 
 	}
 }
 
-366 
-uöt16_t
+393 
+uöt32_t
  
-	$≠pGëBLEPìrs
+	$≠pGëQu™tôyBLEPìrs
 ()
 
-368 
+395 
 pm_≥î_id_t
  
-˙tPìrs
+≥îLi°
 [
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-369 
+396 
 uöt32_t
  
-m_whôñi°_≥îs
+qu™tôyPìrs
  = 0;
 
-370 
-uöt32_t
- 
-pC¡
- = 0;
-
-371 
+397 
 	`mem£t
 (
-˙tPìrs
+≥îLi°
 , 
 PM_PEER_ID_INVALID
-, (
-m_whôñi°_≥îs
-));
+, (peerList));
 
-372 
-pC¡
+398 
+qu™tôyPìrs
  = ((
-˙tPìrs
+≥îLi°
 Ë/ (
 pm_≥î_id_t
 ));
 
-373 
+399 
 	`≥î_li°_gë
 (
-˙tPìrs
+≥îLi°
 , &
-pC¡
+qu™tôyPìrs
 );
 
-374  
-pC¡
+400  
+qu™tôyPìrs
 ;
 
-375 
+401 
 	}
 }
 
-379 
+403 
+	$≠pUpd©eBLELi°Pìrs
+()
+
+405 
+	`mem£t
+(
+advDúOrdC⁄nSèã
+.
+m_whôñi°_≥îs
+, 
+PM_PEER_ID_INVALID
+, (advDirOrdConnState.m_whitelist_peers));
+
+406 
+advDúOrdC⁄nSèã
+.
+m_whôñi°_≥î_˙t
+ = ◊dvDúOrdC⁄nSèã.
+m_whôñi°_≥îs
+Ë/ (
+pm_≥î_id_t
+);
+
+407 
+	`≥î_li°_gë
+(
+advDúOrdC⁄nSèã
+.
+m_whôñi°_≥îs
+, &advDúOrdC⁄nSèã.
+m_whôñi°_≥î_˙t
+);
+
+408 
+uöt32_t
+ 
+˙t
+ = 0; c¡ < 
+advDúOrdC⁄nSèã
+.
+m_whôñi°_≥î_˙t
+; cnt++)
+
+410 
+	`DEBUG_LOG
+("Pì∏ID %d", 
+advDúOrdC⁄nSèã
+.
+m_whôñi°_≥îs
+[
+˙t
+]);
+
+412 
+	}
+}
+
+415 
 	$≠pDisc⁄√˘
 ()
 
-381 
+417 
 ªt_code_t
  
 ªt
 ;
 
-382 if(
+418 if(
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81817,15 +81933,15 @@ c⁄√˘Sèã
 CONNECTION_CONNECT
 )
 
-384 
-	`NRF_LOG_INFO
+420 
+	`DEBUG_LOG
 ("DISCONNECT: disconnected");
 
-387 
-	`NRF_LOG_INFO
+423 
+	`DEBUG_LOG
 ("DISCONNECT: start disconnect");
 
-388 
+424 
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81833,7 +81949,7 @@ c⁄√˘Sèã
 CONNECTION_START_DISCONNECT
 ;
 
-389 
+425 
 ≠pSèã
 .
 isRólAdv
@@ -81841,7 +81957,7 @@ isRólAdv
 åue
 ;
 
-390 
+426 
 ªt
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -81853,205 +81969,163 @@ c⁄√˘i⁄H™dÀr
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-391 
-	`NRF_LOG_INFO
+427 
+	`DEBUG_LOG
 ("DISCONNECT:Ñë = %d", 
 ªt
 );
 
-392 
+428 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-393 
-	`NRF_LOG_INFO
+429 
+	`DEBUG_LOG
 ("DISCONNECT: ok");
 
-394 
+430 
 	}
 }
 
-397 
+433 
 	$≠pAdvSt›
 ()
 
-399 
+435 
 ªt_code_t
  
 ªt
 ;
 
-400 
-	`NRF_LOG_INFO
+436 
+	`DEBUG_LOG
 ("ADV STOP:");
 
-401 
+437 
 ≠pSèã
 .
 c⁄√˘Sèã
 )
 
-403 
+439 
 CONNECTION_CONNECT
 :
-
-404 
-≠pSèã
-.
-isAµAdv
- = 
-Ál£
-;
-
-405 
-	`NRF_LOG_INFO
-("ADV STOP:álready stoped");
-
-407 
-CONNECTION_START_DISCONNECT
-:
-
-408 
-≠pSèã
-.
-isAµAdv
- = 
-Ál£
-;
-
-409 
-	`NRF_LOG_INFO
-("ADV STOP: disconnectedÖrocess");
-
-411 
-CONNECTION_DISCONNECT
-:
-
-412 
-≠pSèã
-.
-isAµAdv
- = 
-Ál£
-;
-
-413 if(!
-≠pSèã
-.
-isRólAdv
-)
-
-415 
-	`NRF_LOG_INFO
-("ADV STOP: current stop");
-
-418 
-≠pSèã
-.
-isRólAdv
- = 
-Ál£
-;
-
-419 
-ªt
- = 
-	`sd_bÀ_g≠_adv_°›
-();
-
-420 
-	`NRF_LOG_INFO
-("ADV STOP:Ñë = %d", 
-ªt
-);
-
-421 
-	`APP_ERROR_CHECK
-(
-ªt
-);
-
-422 
-	`NRF_LOG_INFO
-("ADV STOP: ok");
-
-427 
-	`NRF_LOG_INFO
-("ADV STOP: ok");
-
-429 
-	}
-}
-
-432 
-	$≠pAdvSèπ
-()
-
-434 
-ªt_code_t
- 
-ªt
-;
-
-435 
-≠pSèã
-.
-c⁄√˘Sèã
-)
-
-437 
-CONNECTION_CONNECT
-:
-
-439 
-≠pSèã
-.
-isAµAdv
- = 
-åue
-;
 
 440 
-	`NRF_LOG_INFO
-("ADV START: disconnect connection");
-
-442 
-	`≠pDisc⁄√˘
-();
-
-444 
-CONNECTION_START_DISCONNECT
-:
-
-445 
 ≠pSèã
 .
 isAµAdv
  = 
-åue
+Ál£
 ;
 
-446 
-	`NRF_LOG_INFO
-("ADV START: wait disconnect");
+441 
+	`DEBUG_LOG
+("ADV STOP:álready stoped");
 
-448 
+443 
+CONNECTION_START_DISCONNECT
+:
+
+444 
+≠pSèã
+.
+isAµAdv
+ = 
+Ál£
+;
+
+445 
+	`DEBUG_LOG
+("ADV STOP: disconnectedÖrocess");
+
+447 
 CONNECTION_DISCONNECT
 :
 
-449 if(
+448 
+≠pSèã
+.
+isAµAdv
+ = 
+Ál£
+;
+
+449 if(!
 ≠pSèã
 .
 isRólAdv
 )
 
 451 
-	`NRF_LOG_INFO
-("ADV START:Ñunning state");
+	`DEBUG_LOG
+("ADV STOP: current stop");
 
 454 
+≠pSèã
+.
+isRólAdv
+ = 
+Ál£
+;
+
+455 
+ªt
+ = 
+	`sd_bÀ_g≠_adv_°›
+(
+m_advîtisög
+.
+adv_h™dÀ
+);
+
+457 
+	`DEBUG_LOG
+("ADV STOP:Ñë = %d", 
+ªt
+);
+
+458 
+	`APP_ERROR_CHECK
+(
+ªt
+);
+
+459 
+	`DEBUG_LOG
+("ADV STOP: ok");
+
+464 
+	`DEBUG_LOG
+("ADV STOP: ok");
+
+465 
+	}
+}
+
+468 
+	$≠pAdvSèπ
+()
+
+470 
+ªt_code_t
+ 
+ªt
+;
+
+471 
+≠pSèã
+.
+c⁄√˘Sèã
+)
+
+473 
+CONNECTION_CONNECT
+:
+
+475 
 ≠pSèã
 .
 isAµAdv
@@ -82059,7 +82133,53 @@ isAµAdv
 åue
 ;
 
-455 
+476 
+	`DEBUG_LOG
+("ADV START: disconnect connection");
+
+478 
+	`≠pDisc⁄√˘
+();
+
+480 
+CONNECTION_START_DISCONNECT
+:
+
+481 
+≠pSèã
+.
+isAµAdv
+ = 
+åue
+;
+
+482 
+	`DEBUG_LOG
+("ADV START: wait disconnect");
+
+484 
+CONNECTION_DISCONNECT
+:
+
+485 if(
+≠pSèã
+.
+isRólAdv
+)
+
+487 
+	`DEBUG_LOG
+("ADV START:Ñunning state");
+
+490 
+≠pSèã
+.
+isAµAdv
+ = 
+åue
+;
+
+491 
 ≠pSèã
 .
 isRólAdv
@@ -82067,11 +82187,11 @@ isRólAdv
 åue
 ;
 
-456 
-	`NRF_LOG_INFO
+492 
+	`DEBUG_LOG
 ("ADV START: start");
 
-457 
+493 
 ªt
  = 
 	`bÀ_advîtisög_°¨t
@@ -82081,27 +82201,27 @@ m_advîtisög
 BLE_ADV_MODE_FAST
 );
 
-458 
-	`NRF_LOG_INFO
+494 
+	`DEBUG_LOG
 ("ADV START:Ñë = %d", 
 ªt
 );
 
-459 
+495 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-463 
-	`NRF_LOG_INFO
+499 
+	`DEBUG_LOG
 ("ADV START: ok");
 
-464 
+500 
 	}
 }
 
-505 
+541 
 	$advîtisög_öô
 (
 uöt16_t
@@ -82115,37 +82235,37 @@ boﬁ
 whôñi°E«bÀd
 )
 
-507 
+543 
 ªt_code_t
  
 îr_code
 ;
 
-508 
+544 
 uöt8_t
  
 adv_Êags
 ;
 
-509 
+545 
 bÀ_advîtisög_öô_t
  
 öô
 ;
 
-511 
+547 
 	`mem£t
 (&
 öô
 , 0, (init));
 
-513 
+549 
 adv_Êags
  = 
 BLE_GAP_ADV_FLAGS_LE_ONLY_LIMITED_DISC_MODE
 ;
 
-514 
+550 
 öô
 .
 advd©a
@@ -82155,7 +82275,7 @@ advd©a
 BLE_ADVDATA_FULL_NAME
 ;
 
-515 
+551 
 öô
 .
 advd©a
@@ -82165,7 +82285,7 @@ advd©a
 åue
 ;
 
-516 
+552 
 öô
 .
 advd©a
@@ -82175,7 +82295,7 @@ advd©a
 adv_Êags
 ;
 
-517 
+553 
 öô
 .
 advd©a
@@ -82187,7 +82307,7 @@ uuid_˙t
 m_adv_uuids
 ) / (m_adv_uuids[0]);
 
-518 
+554 
 öô
 .
 advd©a
@@ -82199,7 +82319,7 @@ p_uuids
 m_adv_uuids
 ;
 
-520 
+556 
 öô
 .
 c⁄fig
@@ -82209,7 +82329,7 @@ bÀ_adv_⁄_disc⁄√˘_dißbÀd
 Ál£
 ;
 
-521 
+557 
 öô
 .
 c⁄fig
@@ -82219,7 +82339,7 @@ bÀ_adv_whôñi°_íabÀd
 whôñi°E«bÀd
 ;
 
-522 
+558 
 öô
 .
 c⁄fig
@@ -82229,7 +82349,7 @@ bÀ_adv_dúe˘ed_high_duty_íabÀd
 Ál£
 ;
 
-523 
+559 
 öô
 .
 c⁄fig
@@ -82239,7 +82359,7 @@ bÀ_adv_dúe˘ed_íabÀd
 Ál£
 ;
 
-524 
+560 
 öô
 .
 c⁄fig
@@ -82247,7 +82367,7 @@ c⁄fig
 bÀ_adv_dúe˘ed_öãrvÆ
  = 0;
 
-525 
+561 
 öô
 .
 c⁄fig
@@ -82255,7 +82375,7 @@ c⁄fig
 bÀ_adv_dúe˘ed_timeout
  = 0;
 
-526 
+562 
 öô
 .
 c⁄fig
@@ -82265,7 +82385,7 @@ bÀ_adv_Á°_íabÀd
 åue
 ;
 
-527 
+563 
 öô
 .
 c⁄fig
@@ -82275,7 +82395,7 @@ bÀ_adv_Á°_öãrvÆ
 öãrvÆMSec⁄ds
 ;
 
-528 
+564 
 öô
 .
 c⁄fig
@@ -82285,7 +82405,7 @@ bÀ_adv_Á°_timeout
 ≥riodSec⁄ds
 ;
 
-529 
+565 
 öô
 .
 c⁄fig
@@ -82295,7 +82415,7 @@ bÀ_adv_¶ow_íabÀd
 Ál£
 ;
 
-530 
+566 
 öô
 .
 c⁄fig
@@ -82305,7 +82425,7 @@ bÀ_adv_¶ow_öãrvÆ
 APP_ADV_SLOW_INTERVAL
 ;
 
-531 
+567 
 öô
 .
 c⁄fig
@@ -82315,7 +82435,7 @@ bÀ_adv_¶ow_timeout
 APP_ADV_SLOW_DURATION
 ;
 
-533 
+569 
 öô
 .
 evt_h™dÀr
@@ -82323,7 +82443,7 @@ evt_h™dÀr
 ⁄_adv_evt
 ;
 
-534 
+570 
 öô
 .
 îr‹_h™dÀr
@@ -82331,7 +82451,7 @@ evt_h™dÀr
 bÀ_advîtisög_îr‹_h™dÀr
 ;
 
-536 
+572 
 îr_code
  = 
 	`bÀ_advîtisög_öô
@@ -82341,13 +82461,13 @@ m_advîtisög
 öô
 );
 
-537 
+573 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-539 
+575 
 	`bÀ_advîtisög_c⁄n_cfg_èg_£t
 (&
 m_advîtisög
@@ -82355,11 +82475,11 @@ m_advîtisög
 APP_BLE_CONN_CFG_TAG
 );
 
-541 #i‡
+577 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-542 
+578 
 öô
 .
 advd©a
@@ -82369,7 +82489,7 @@ p_m™uf_•ecific_d©a
 m_•_m™uf_advd©a
 ;
 
-543 
+579 
 	`•_advd©a_¥ï¨e
 (&
 öô
@@ -82379,11 +82499,11 @@ advd©a
 m_•_advd©a_buf
 );
 
-545 
+581 
 	}
 }
 
-559 
+584 
 boﬁ
  
 	$≠pPìrGëIdInLi°
@@ -82393,13 +82513,13 @@ pm_≥î_id_t
 ≥îIdIn
 )
 
-561 
+586 
 pm_≥î_id_t
  
 ≥î_id
 ;
 
-563 
+588 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
@@ -82407,37 +82527,37 @@ pm_≥î_id_t
 PM_PEER_ID_INVALID
 );
 
-565 
+590 
 ≥î_id
  !
 PM_PEER_ID_INVALID
  )
 
-567 if–
+592 if–
 ≥îIdIn
  =
 ≥î_id
 )
 
-569  
+594  
 åue
 ;
 
-571 
+596 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
 (peer_id);
 
-573  
+598  
 Ál£
 ;
 
-574 
+599 
 	}
 }
 
-577 
+602 
 	$≠pAdvSëSèπ
 (
 advTy≥T
@@ -82449,39 +82569,25 @@ uöt16_t
 ≥îId
 )
 
-579 
+604 
 ªt_code_t
  
 ªt
 ;
 
-580 
-pm_≥î_id_t
- 
-m_whôñi°_≥îs
-[
-BLE_GAP_WHITELIST_ADDR_MAX_COUNT
-];
-
-581 
-uöt32_t
- 
-m_whôñi°_≥î_˙t
-;
-
-583 
+606 
 advTy≥
 )
 
-585 
+608 
 ADV_IDLE
 :
 
-586 
-	`NRF_LOG_INFO
+609 
+	`DEBUG_LOG
 ("ADV idle");
 
-587 
+610 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82489,25 +82595,25 @@ cuºítAdvTy≥
 ADV_IDLE
 ;
 
-588 
+611 
 	`≠pAdvSt›
 ();
 
-590 
+613 
 ADV_ADD_NEW
 :
 
-591 
-	`NRF_LOG_INFO
+614 
+	`DEBUG_LOG
 ("ADVáddÇew");
 
-592 
+615 
 	`timîSt›
 (
 °›SˇnAdvTimîCÆlback
 );
 
-593 
+616 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82515,49 +82621,35 @@ cuºítAdvTy≥
 ADV_ADD_NEW
 ;
 
-594 
+617 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  = 0;
 
-596 
+619 
 ADV_RECONNECT_SCAN
 :
 
-597 
-	`mem£t
-(
-m_whôñi°_≥îs
-, 
-PM_PEER_ID_INVALID
-, (m_whitelist_peers));
+620 
+	`≠pUpd©eBLELi°Pìrs
+();
 
-598 
-m_whôñi°_≥î_˙t
- = ((
-m_whôñi°_≥îs
-Ë/ (
-pm_≥î_id_t
-));
-
-599 
-	`≥î_li°_gë
-(
-m_whôñi°_≥îs
-, &
-m_whôñi°_≥î_˙t
-);
-
-601 
-	`NRF_LOG_INFO
+622 
+	`DEBUG_LOG
 ("AdvÑec⁄: %d", 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
 );
 
-603 if(
+624 if(
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  == 0)
 
-605 
+626 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82565,7 +82657,13 @@ cuºítAdvTy≥
 ADV_ADD_NEW
 ;
 
-609 
+630 
+advDúOrdC⁄nSèã
+.
+lo›C¡
+ = 0;
+
+631 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82573,7 +82671,7 @@ cuºítAdvTy≥
 ADV_RECONNECT_SCAN
 ;
 
-610 
+632 
 	`timîRun
 (
 °›SˇnAdvTimîCÆlback
@@ -82581,17 +82679,17 @@ ADV_RECONNECT_SCAN
 ADV_RECONNECT_SCAN_TIMEOUT
 );
 
-611 
+633 
 sˇnögTimeout
  = 
 	`gëTime
 ();
 
-614 
+636 
 ADV_RECONNECT_CONNECT
 :
 
-615 
+637 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82599,83 +82697,95 @@ cuºítAdvTy≥
 ADV_RECONNECT_CONNECT
 ;
 
-617 
-	`NRF_LOG_INFO
+639 
+	`DEBUG_LOG
 ("AdvÑecon conn");
 
-618 
+640 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥îs
 [0] = 
 ≥îId
 ;
 
-619 
+641 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  = 1;
 
-624 
+646 
 	`≠pAdvSt›
 ();
 
-626 
+648 
 ªt
  = 
 	`pm_whôñi°_£t
 ((
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  =0 ) ? (
 NULL
-Ë: (
+Ë: (advDúOrdC⁄nSèã.
 m_whôñi°_≥îs
 ),
 
-627 (
+649 (
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
- == 0 ) ? (0) : (m_whitelist_peer_cnt));
+ == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-628 
+650 
 ªt
  = 
 	`pm_devi˚_idítôõs_li°_£t
 ((
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  =0 ) ? (
 NULL
-Ë: (
+Ë: (advDúOrdC⁄nSèã.
 m_whôñi°_≥îs
 ),
 
-629 (
+651 (
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
- == 0 ) ? (0) : (m_whitelist_peer_cnt));
+ == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-630 
-	`NRF_LOG_INFO
+652 
+	`DEBUG_LOG
 ("ªà%d", 
 ªt
 );
 
-632 i‡(
+654 i‡(
 ªt
  !
 NRF_ERROR_NOT_SUPPORTED
 )
 
-634 
+656 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-636 
+658 
 	`≠pAdvSèπ
 ();
 
-637 
+659 
 	}
 }
 
-640 
+662 
 	$≠pAdvAddNew
 (
 ƒfBLEAdvEvT
@@ -82687,47 +82797,47 @@ pm_≥î_id_t
 ≥îId
 )
 
-642 
+664 
 öEv
 )
 
-644 
+666 
 ADV_PROC_START_CONNECT
 :
 
-646 
+668 
 ADV_PROC_STOP_ADV
 :
 
-648 
+670 
 ADV_PROC_CONNECT_PREV
 :
 
-649 
-	`NRF_LOG_INFO
+671 
+	`DEBUG_LOG
 ("Disconnect old dev");
 
-650 
+672 
 	`≠pDisc⁄√˘
 ();
 
-652 
+674 
 ADV_PROC_CONNECT
 :
 
-653 
-	`NRF_LOG_INFO
+675 
+	`DEBUG_LOG
 ("No device onÅheÜist");
 
-654 
+676 
 	`≠pAdvSt›
 ();
 
-658 
+679 
 	}
 }
 
-661 
+682 
 	$≠pAdvDúe˘Proc
 (
 ƒfBLEAdvEvT
@@ -82739,57 +82849,61 @@ pm_≥î_id_t
 ≥îId
 )
 
-663 
+684 
 ªt_code_t
  
 îr_code
 ;
 
-664 
+685 
 öEv
 )
 
-666 
+687 
 ADV_PROC_START_CONNECT
 :
 
-667 
-	`NRF_LOG_INFO
+688 
+	`DEBUG_LOG
 ("CONNECT");
 
-668 
+689 
 advDúOrdC⁄nSèã
 .
 pha£
 )
 
-670 
+691 
 DEV_SCANNING
 :
 
-672 
+693 
 uöt8_t
  
 pos
 ;
 
-674 
-	`NRF_LOG_INFO
+695 
+	`DEBUG_LOG
 ("_SCANNING_");
 
-676 
+697 
 uöt8_t
  
 ˙t
  = 0;
 
-677 ; 
+698 ; 
 ˙t
  < 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
 ; cnt++)
 
-679 if(
+700 if(
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥îs
 [
 ˙t
@@ -82797,37 +82911,49 @@ m_whôñi°_≥îs
 ≥îId
 )
 
-685 if(
+705 if(
 ˙t
  < 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
 )
 
-687 
-	`NRF_LOG_INFO
+707 
+	`DEBUG_LOG
 ("ªmovêdev %d", 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥îs
 [
 ˙t
 ] );
 
-688 ; 
+708 ; 
 ˙t
  < (
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  - 1); cnt++)
 
-690 
+710 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥îs
 [
 ˙t
-] = m_whitelist_peers[cnt+1];
+] =ádvDirOrdConnState.m_whitelist_peers[cnt+1];
 
-692 
+712 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
 --;
 
-693 
+713 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥îs
 [
 ˙t
@@ -82835,67 +82961,77 @@ m_whôñi°_≥îs
 PM_PEER_ID_INVALID
 ;
 
-694 
-	`NRF_LOG_INFO
+714 
+	`DEBUG_LOG
 ("PDL qu™ %d", 
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
 );
 
-697 
+716 
 îr_code
  = 
 	`pm_whôñi°_£t
 ((
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  =0 ) ? (
 NULL
-Ë: (
+Ë: (advDúOrdC⁄nSèã.
 m_whôñi°_≥îs
 ),
 
-698 (
+717 (
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
- == 0 ) ? (0) : (m_whitelist_peer_cnt));
+ == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-699 
+718 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-702 
+721 
 îr_code
  = 
 	`pm_devi˚_idítôõs_li°_£t
 ((
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
  =0 ) ? (
 NULL
-Ë: (
+Ë: (advDúOrdC⁄nSèã.
 m_whôñi°_≥îs
 ),
 
-703 (
+722 (
+advDúOrdC⁄nSèã
+.
 m_whôñi°_≥î_˙t
- == 0 ) ? (0) : (m_whitelist_peer_cnt));
+ == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-704 
+723 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-707 
+726 
 	`≠pDisc⁄√˘
 ();
 
-709 
-	`NRF_LOG_INFO
+727 
+	`DEBUG_LOG
 ("--------Dev i¿li° ? %d", 
 ≥îId
 );
 
-710 if(
+728 if(
 	`‹dîGëPos
 (
 devi˚Ordî
@@ -82905,15 +83041,15 @@ devi˚Ordî
 pos
 ))
 
-712 
-	`NRF_LOG_INFO
+730 
+	`DEBUG_LOG
 ("Dev föd %d %d ", 
 ≥îId
 , 
 pos
 );
 
-713 if(
+731 if(
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -82923,11 +83059,13 @@ pos
 DETECTED_DEV_FREE
 )
 
-715 
-	`NRF_LOG_INFO
-("Dev save");
+733 
+	`USER_INFO
+("Devi˚ föd,Öì∏%d", 
+≥îId
+);
 
-716 
+734 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -82937,13 +83075,13 @@ pos
 ≥îId
 ;
 
-717 
+735 
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
 ++;
 
-720 if(
+738 if(
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
@@ -82953,97 +83091,97 @@ qu™tôyDëe˘edDev
 devi˚Ordî
 ))
 
-722 
-	`NRF_LOG_INFO
-("---------SCANED TIME = %d", 
+740 
+	`USER_INFO
+("TŸÆ sˇ¿timê(msË%d", 
 	`gëTime
 (Ë- 
 sˇnögTimeout
 );
 
-723 
+741 
 	`≠pAdvSt›
 ();
 
-727 
+745 
 DEV_CONNECTION
 :
 
-729 
-	`NRF_LOG_INFO
+747 
+	`DEBUG_LOG
 ("_CONNECTION_");
 
-730 
+748 
 	`≠pAdvSt›
 ();
 
-734 
+752 
 ADV_PROC_STOP_ADV
 :
 
-735 
-	`NRF_LOG_INFO
+753 
+	`DEBUG_LOG
 ("STOP_ADV");
 
-736 
+754 
 advDúOrdC⁄nSèã
 .
 pha£
 )
 
-738 
+756 
 DEV_SCANNING
 :
 
-740 
+758 
 uöt8_t
  
 ˙t_1
  = 0;
 
-741 
+759 
 uöt8_t
  
 ˙t_2
  = 0;
 
-742 
-	`NRF_LOG_INFO
+760 
+	`DEBUG_LOG
 ("_SCANNING_");
 
-743 
-	`NRF_LOG_INFO
+761 
+	`DEBUG_LOG
 ("Föd %d", 
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
 );
 
-745 if(
+763 if(
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
  == 0)
 
-747 
+765 
 	`≠pAdvSëSèπ
 (
 ADV_RECONNECT_SCAN
  , 0);
 
-751 
+769 
 ˙t_1
  = 0; c¡_1 < 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
  - 1; cnt_1++)
 
-753 
+771 
 ˙t_2
  = 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 -1; cnt_2 > 0; cnt_2--)
 
-755 if(
+773 if(
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83053,7 +83191,7 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
  &&
 
-756 
+774 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83063,7 +83201,7 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 )
 
-758 
+776 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83071,7 +83209,7 @@ li°Dëe˘edDev
 ˙t_2
  - 1] =ádvDirOrdConnState.listDetectedDev[cnt_2 ];
 
-759 
+777 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83081,17 +83219,17 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 ;
 
-764 
+781 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
  = 0;
 
-765 
-	`NRF_LOG_INFO
+782 
+	`DEBUG_LOG
 ("+++++++++");
 
-766 
+783 
 	`≠pAdvSëSèπ
 (
 ADV_RECONNECT_CONNECT
@@ -83103,11 +83241,11 @@ li°Dëe˘edDev
 c⁄√˘C¡
 ]);
 
-767 
-	`NRF_LOG_INFO
+784 
+	`DEBUG_LOG
 ("---------");
 
-768 
+785 
 advDúOrdC⁄nSèã
 .
 pha£
@@ -83115,15 +83253,15 @@ pha£
 DEV_CONNECTION
 ;
 
-771 
+788 
 DEV_CONNECTION
 :
 
-777 
-	`NRF_LOG_INFO
+793 
+	`DEBUG_LOG
 ("_CONNECTION_");
 
-778 if(
+794 if(
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
@@ -83131,13 +83269,13 @@ c⁄√˘C¡
 qu™tôyDëe˘edDev
 )
 
-781 
+797 
 advDúOrdC⁄nSèã
 .
 lo›C¡
 ++;
 
-783 if(
+799 if(
 advDúOrdC⁄nSèã
 .
 lo›C¡
@@ -83145,7 +83283,11 @@ lo›C¡
 DIRECT_CONN_QUANTITY
 )
 
-789 
+805 
+	`≠pUpd©eBLELi°Pìrs
+();
+
+806 
 	`mem£t
 (
 advDúOrdC⁄nSèã
@@ -83155,13 +83297,13 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 , (advDirOrdConnState.listDetectedDev));
 
-790 
+807 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
  = 0;
 
-791 
+808 
 advDúOrdC⁄nSèã
 .
 pha£
@@ -83169,19 +83311,19 @@ pha£
 DEV_SCANNING
 ;
 
-792 
+809 
 	`≠pAdvSëSèπ
 (
 ADV_RECONNECT_SCAN
 , 0);
 
-795 
+812 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
 ++;
 
-796 
+813 
 	`≠pAdvSëSèπ
 (
 ADV_RECONNECT_CONNECT
@@ -83193,11 +83335,11 @@ li°Dëe˘edDev
 c⁄√˘C¡
 ]);
 
-803 
+820 
 	}
 }
 
-806 
+823 
 	$≠pAdvPro˚ssög
 (
 ƒfBLEAdvEvT
@@ -83209,21 +83351,21 @@ pm_≥î_id_t
 ≥îId
 )
 
-808 
+825 
 ≠pSèã
 .
 cuºítAdvTy≥
 )
 
-810 
+827 
 ADV_ADD_NEW
 :
 
-811 
-	`NRF_LOG_INFO
+828 
+	`DEBUG_LOG
 ("ADV_ADD_NEW");
 
-812 
+829 
 	`≠pAdvAddNew
 (
 öEv
@@ -83231,15 +83373,15 @@ ADV_ADD_NEW
 ≥îId
 );
 
-814 
+831 
 ADV_RECONNECT_SCAN
 :
 
-815 
-	`NRF_LOG_INFO
+832 
+	`DEBUG_LOG
 ("ADV_SCAN");
 
-816 
+833 
 	`≠pAdvDúe˘Proc
 (
 öEv
@@ -83247,15 +83389,15 @@ ADV_RECONNECT_SCAN
 ≥îId
 );
 
-818 
+835 
 ADV_RECONNECT_CONNECT
 :
 
-819 
-	`NRF_LOG_INFO
+836 
+	`DEBUG_LOG
 ("ADV_CONNECT");
 
-820 
+837 
 	`≠pAdvDúe˘Proc
 (
 öEv
@@ -83263,73 +83405,77 @@ ADV_RECONNECT_CONNECT
 ≥îId
 );
 
-825 
+840 
+	`DEBUG_LOG
+("ADV_error");
+
+843 
 	}
 }
 
-828 
+846 
 	$≠pAdvSˇnSt›CB
 ()
 
-830 
-	`NRF_LOG_INFO
+848 
+	`DEBUG_LOG
 ("Stop Scan");
 
-831 
+849 
 	`≠pAdvSt›
 ();
 
-832 
+850 
 	`≠pAdvPro˚ssög
 (
 ADV_PROC_STOP_ADV
 , 0);
 
-833 
+851 
 	}
 }
 
-837 
+855 
 	$dñëe_b⁄ds
 ()
 
-839 
+857 
 ªt_code_t
  
 îr_code
 ;
 
-841 
-	`NRF_LOG_INFO
+859 
+	`DEBUG_LOG
 ("Erase bonds!");
 
-843 
+861 
 îr_code
  = 
 	`pm_≥îs_dñëe
 ();
 
-844 
-	`NRF_LOG_INFO
+862 
+	`DEBUG_LOG
 ("DELETE ERR %d", 
 îr_code
 );
 
-845 
+863 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-846 
+864 
 	}
 }
 
-849 
+867 
 	$≠pPro˚ssög
 ()
 
-852 if(
+870 if(
 ≠pSèã
 .
 isAµAdv
@@ -83337,21 +83483,21 @@ isAµAdv
 isRólAdv
 )
 
-854 if(
+872 if(
 ≠pSèã
 .
 isAµAdv
 )
 
-856 
+874 
 	`≠pAdvSèπ
 ();
 
-860 
+878 
 	`≠pAdvSt›
 ();
 
-865 if(
+882 if(
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -83361,7 +83507,7 @@ c⁄√˘Sèã
 CONNECTION_DISCONNECT
 )
 
-867 
+884 
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -83369,43 +83515,33 @@ isDñëeB⁄ds
 Ál£
 ;
 
-868 
+885 
 	`timîSt›
 (
 °›SˇnAdvTimîCÆlback
 );
 
-869 
-	`NRF_LOG_INFO
+886 
+	`DEBUG_LOG
 ("Clear bonds");
 
-870 
+887 
 	`≠pAdvSëSèπ
 (
 ADV_IDLE
 , 0);
 
-871 
+888 
 	`dñëe_b⁄ds
 ();
 
-872 
-	`advîtisög_öô
-(
-APP_ADV_GLOBAL_INTERVAL
-, 
-APP_ADV_GLOBAL_TIMEOUT
-, 
-åue
-);
-
-873 
+890 
 	`‹dîCÀ™
 (
 devi˚Ordî
 );
 
-874 
+891 
 	`‹dîWrôeFœsh
 (
 devi˚Ordî
@@ -83415,17 +83551,17 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-875 
-	`NRF_LOG_INFO
+892 
+	`DEBUG_LOG
 ("NummÖìr†%d", 
-	`≠pGëBLEPìrs
+	`≠pGëQu™tôyBLEPìrs
 ());
 
-877 
+894 
 	}
 }
 
-880 
+897 
 	$ÊashMemWrôeByãs
 (
 uöt32_t
@@ -83439,19 +83575,19 @@ buf„r
 buf„rSize
 )
 
-882 
+899 
 fds_ªc‹d_t
  
 ªc‹d
 ;
 
-883 
+900 
 fds_ªc‹d_desc_t
  
 ªc‹d_desc
 ;
 
-885 
+902 
 ªc‹d
 .
 fûe_id
@@ -83459,7 +83595,7 @@ fûe_id
 FILE_ORDER
 ;
 
-886 
+903 
 ªc‹d
 .
 key
@@ -83467,7 +83603,7 @@ key
 RECORD_KEY_ORDER
 ;
 
-887 
+904 
 ªc‹d
 .
 d©a
@@ -83477,7 +83613,7 @@ p_d©a
 buf„r
 ;
 
-888 
+905 
 ªc‹d
 .
 d©a
@@ -83487,19 +83623,19 @@ d©a
 buf„rSize
 + 3) / 4;
 
-889 
+906 
 ªt_code_t
  
 ªt
 ;
 
-890 
+907 
 fds_föd_tokí_t
  
 ·ok
 ;
 
-893 
+910 
 	`mem£t
 (&
 ·ok
@@ -83507,7 +83643,7 @@ fds_föd_tokí_t
 fds_föd_tokí_t
 ));
 
-896 
+912 
 	`fds_ªc‹d_föd
 (
 FILE_ORDER
@@ -83521,7 +83657,7 @@ RECORD_KEY_ORDER
 FDS_SUCCESS
 )
 
-898 
+914 
 ªt
  = 
 	`fds_ªc‹d_dñëe
@@ -83529,13 +83665,13 @@ FDS_SUCCESS
 ªc‹d_desc
 );
 
-899 i‡(
+915 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-904 
+920 
 ªt
  = 
 	`fds_ªc‹d_wrôe
@@ -83545,17 +83681,17 @@ FDS_SUCCESS
 ªc‹d
 );
 
-905 i‡(
+921 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-909 
+925 
 	}
 }
 
-912 
+928 
 	$ÊashMemRódByãs
 (
 uöt32_t
@@ -83569,25 +83705,25 @@ buf„r
 buf„rSize
 )
 
-914 
+930 
 fds_Êash_ªc‹d_t
  
 Êash_ªc‹d
 ;
 
-915 
+931 
 fds_ªc‹d_desc_t
  
 ªc‹d_desc
 ;
 
-916 
+932 
 fds_föd_tokí_t
  
 ·ok
 ;
 
-919 
+935 
 	`mem£t
 (&
 ·ok
@@ -83595,7 +83731,7 @@ fds_föd_tokí_t
 fds_föd_tokí_t
 ));
 
-922 
+938 
 	`fds_ªc‹d_föd
 (
 FILE_ORDER
@@ -83609,11 +83745,11 @@ RECORD_KEY_ORDER
 FDS_SUCCESS
 )
 
-924 
-	`NRF_LOG_INFO
+940 
+	`DEBUG_LOG
 ("Read start");
 
-925 i‡(
+941 i‡(
 	`fds_ªc‹d_›í
 (&
 ªc‹d_desc
@@ -83623,7 +83759,7 @@ FDS_SUCCESS
 FDS_SUCCESS
 )
 
-930 
+946 
 	`mem˝y
 (
 buf„r
@@ -83637,7 +83773,7 @@ p_d©a
 buf„rSize
 );
 
-934 i‡(
+949 i‡(
 	`fds_ªc‹d_˛o£
 (&
 ªc‹d_desc
@@ -83645,15 +83781,15 @@ buf„rSize
 FDS_SUCCESS
 )
 
-939 
-	`NRF_LOG_INFO
+954 
+	`DEBUG_LOG
 ("Read End");
 
-940 
+955 
 	}
 }
 
-949 
+964 
 	$≥î_li°_gë
 (
 pm_≥î_id_t
@@ -83665,19 +83801,19 @@ uöt32_t
 p_size
 )
 
-951 
+966 
 pm_≥î_id_t
  
 ≥î_id
 ;
 
-952 
+967 
 uöt32_t
  
 ≥îs_to_c›y
 ;
 
-954 
+969 
 ≥îs_to_c›y
  = (*
 p_size
@@ -83685,13 +83821,13 @@ p_size
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ) ?
 
-955 *
+970 *
 p_size
  : 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-957 
+972 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
@@ -83699,11 +83835,11 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 PM_PEER_ID_INVALID
 );
 
-958 *
+973 *
 p_size
  = 0;
 
-960 (
+975 (
 ≥î_id
  !
 PM_PEER_ID_INVALID
@@ -83711,7 +83847,7 @@ PM_PEER_ID_INVALID
 ≥îs_to_c›y
 --))
 
-962 
+977 
 p_≥îs
 [(*
 p_size
@@ -83719,17 +83855,17 @@ p_size
 ≥î_id
 ;
 
-963 
+978 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
 (peer_id);
 
-965 
+980 
 	}
 }
 
-982 
+997 
 	$as£π_ƒf_ˇŒback
 (
 uöt16_t
@@ -83741,7 +83877,7 @@ uöt8_t
 p_fûe_«me
 )
 
-984 
+999 
 	`≠p_îr‹_h™dÀr
 (
 DEAD_BEEF
@@ -83751,11 +83887,11 @@ löe_num
 p_fûe_«me
 );
 
-985 
+1000 
 	}
 }
 
-992 
+1007 
 	$whôñi°_£t
 (
 pm_≥î_id_li°_skù_t
@@ -83763,7 +83899,7 @@ pm_≥î_id_li°_skù_t
 skù
 )
 
-994 
+1009 
 pm_≥î_id_t
  
 ≥î_ids
@@ -83771,7 +83907,7 @@ pm_≥î_id_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-995 
+1010 
 uöt32_t
  
 ≥î_id_cou¡
@@ -83779,7 +83915,7 @@ uöt32_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-997 
+1012 
 ªt_code_t
  
 îr_code
@@ -83795,25 +83931,25 @@ PM_PEER_ID_INVALID
 skù
 );
 
-998 
+1013 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1000 
-	`NRF_LOG_INFO
+1015 
+	`DEBUG_LOG
 ("\tm_whitelist_peer_cnt %d, MAX_PEERS_WLIST %d",
 
-1001 
+1016 
 ≥î_id_cou¡
  + 1,
 
-1002 
+1017 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 );
 
-1004 
+1019 
 îr_code
  = 
 	`pm_whôñi°_£t
@@ -83823,17 +83959,17 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ≥î_id_cou¡
 );
 
-1005 
+1020 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1006 
+1021 
 	}
 }
 
-1013 
+1028 
 	$idítôõs_£t
 (
 pm_≥î_id_li°_skù_t
@@ -83841,7 +83977,7 @@ pm_≥î_id_li°_skù_t
 skù
 )
 
-1015 
+1030 
 pm_≥î_id_t
  
 ≥î_ids
@@ -83849,7 +83985,7 @@ pm_≥î_id_t
 BLE_GAP_DEVICE_IDENTITIES_MAX_COUNT
 ];
 
-1016 
+1031 
 uöt32_t
  
 ≥î_id_cou¡
@@ -83857,7 +83993,7 @@ uöt32_t
 BLE_GAP_DEVICE_IDENTITIES_MAX_COUNT
 ;
 
-1018 
+1033 
 ªt_code_t
  
 îr_code
@@ -83873,13 +84009,13 @@ PM_PEER_ID_INVALID
 skù
 );
 
-1019 
+1034 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1021 
+1036 
 îr_code
  = 
 	`pm_devi˚_idítôõs_li°_£t
@@ -83889,17 +84025,17 @@ skù
 ≥î_id_cou¡
 );
 
-1022 
+1037 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1023 
+1038 
 	}
 }
 
-1028 
+1043 
 	$advîtisög_°¨t
 (
 boﬁ
@@ -83907,23 +84043,23 @@ boﬁ
 îa£_b⁄ds
 )
 
-1030 i‡(
+1045 i‡(
 îa£_b⁄ds
  =
 åue
 )
 
-1032 
+1047 
 	`dñëe_b⁄ds
 ();
 
-1037 
+1052 
 	`whôñi°_£t
 (
 PM_PEER_ID_LIST_SKIP_NO_ID_ADDR
 );
 
-1039 
+1054 
 ªt_code_t
  
 ªt
@@ -83935,17 +84071,17 @@ m_advîtisög
 BLE_ADV_MODE_FAST
 );
 
-1040 
+1055 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1042 
+1057 
 	}
 }
 
-1054 
+1069 
 	$£rvi˚_îr‹_h™dÀr
 (
 uöt32_t
@@ -83953,17 +84089,17 @@ uöt32_t
 ƒf_îr‹
 )
 
-1056 
+1071 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1057 
+1072 
 	}
 }
 
-1064 
+1079 
 	$bÀ_advîtisög_îr‹_h™dÀr
 (
 uöt32_t
@@ -83971,33 +84107,33 @@ uöt32_t
 ƒf_îr‹
 )
 
-1066 
+1081 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1067 
+1082 
 	}
 }
 
-1072 
+1087 
 	$b©ãry_Àvñ_upd©e
 ()
 
-1074 
+1089 
 ªt_code_t
  
 îr_code
 ;
 
-1075 
+1090 
 uöt8_t
  
 b©ãry_Àvñ
 ;
 
-1077 
+1092 
 b©ãry_Àvñ
  = (
 uöt8_t
@@ -84009,7 +84145,7 @@ m_b©ãry_sim_°©e
 m_b©ãry_sim_cfg
 );
 
-1079 
+1094 
 îr_code
  = 
 	`bÀ_bas_b©ãry_Àvñ_upd©e
@@ -84021,95 +84157,95 @@ b©ãry_Àvñ
 BLE_CONN_HANDLE_ALL
 );
 
-1080 i‡((
+1095 i‡((
 îr_code
  !
 NRF_SUCCESS
 ) &&
 
-1081 (
+1096 (
 îr_code
  !
 NRF_ERROR_BUSY
 ) &&
 
-1082 (
+1097 (
 îr_code
  !
 NRF_ERROR_RESOURCES
 ) &&
 
-1083 (
+1098 (
 îr_code
  !
 NRF_ERROR_FORBIDDEN
 ) &&
 
-1084 (
+1099 (
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 ) &&
 
-1085 (
+1100 (
 îr_code
  !
 BLE_ERROR_GATTS_SYS_ATTR_MISSING
 )
 
-1088 
+1103 
 	`APP_ERROR_HANDLER
 (
 îr_code
 );
 
-1090 
+1105 
 	}
 }
 
-1100 
+1115 
 	$b©ãry_Àvñ_mós_timeout_h™dÀr
 (* 
 p_c⁄ãxt
 )
 
-1102 
+1117 
 	`UNUSED_PARAMETER
 (
 p_c⁄ãxt
 );
 
-1103 
+1118 
 	`b©ãry_Àvñ_upd©e
 ();
 
-1104 
+1119 
 	}
 }
 
-1111 
+1126 
 	$timîs_öô
 ()
 
-1113 
+1128 
 ªt_code_t
  
 îr_code
 ;
 
-1115 
+1130 
 îr_code
  = 
 	`≠p_timî_öô
 ();
 
-1116 
+1131 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1119 
+1134 
 îr_code
  = 
 	`≠p_timî_¸óã
@@ -84117,53 +84253,53 @@ p_c⁄ãxt
 m_b©ãry_timî_id
 ,
 
-1120 
+1135 
 APP_TIMER_MODE_REPEATED
 ,
 
-1121 
+1136 
 b©ãry_Àvñ_mós_timeout_h™dÀr
 );
 
-1122 
+1137 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1123 
+1138 
 	}
 }
 
-1131 
+1146 
 	$g≠_∑øms_öô
 ()
 
-1133 
+1148 
 ªt_code_t
  
 îr_code
 ;
 
-1134 
+1149 
 bÀ_g≠_c⁄n_∑øms_t
  
 g≠_c⁄n_∑øms
 ;
 
-1135 
+1150 
 bÀ_g≠_c⁄n_£c_mode_t
  
 £c_mode
 ;
 
-1137 
+1152 
 	`BLE_GAP_CONN_SEC_MODE_SET_OPEN
 (&
 £c_mode
 );
 
-1139 
+1154 
 îr_code
  = 
 	`sd_bÀ_g≠_devi˚_«me_£t
@@ -84171,25 +84307,25 @@ bÀ_g≠_c⁄n_£c_mode_t
 £c_mode
 ,
 
-1140 (c⁄° 
+1155 (c⁄° 
 uöt8_t
  *)
 DEVICE_NAME
 ,
 
-1141 
+1156 
 	`°æí
 (
 DEVICE_NAME
 ));
 
-1142 
+1157 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1144 
+1159 
 îr_code
  = 
 	`sd_bÀ_g≠_≠≥¨™˚_£t
@@ -84197,19 +84333,19 @@ DEVICE_NAME
 BLE_APPEARANCE_HID_MOUSE
 );
 
-1145 
+1160 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1147 
+1162 
 	`mem£t
 (&
 g≠_c⁄n_∑øms
 , 0, (gap_conn_params));
 
-1149 
+1164 
 g≠_c⁄n_∑øms
 .
 mö_c⁄n_öãrvÆ
@@ -84217,7 +84353,7 @@ mö_c⁄n_öãrvÆ
 MIN_CONN_INTERVAL
 ;
 
-1150 
+1165 
 g≠_c⁄n_∑øms
 .
 max_c⁄n_öãrvÆ
@@ -84225,7 +84361,7 @@ max_c⁄n_öãrvÆ
 MAX_CONN_INTERVAL
 ;
 
-1151 
+1166 
 g≠_c⁄n_∑øms
 .
 ¶ave_œãncy
@@ -84233,7 +84369,7 @@ g≠_c⁄n_∑øms
 SLAVE_LATENCY
 ;
 
-1152 
+1167 
 g≠_c⁄n_∑øms
 .
 c⁄n_sup_timeout
@@ -84241,7 +84377,7 @@ c⁄n_sup_timeout
 CONN_SUP_TIMEOUT
 ;
 
-1154 
+1169 
 îr_code
  = 
 	`sd_bÀ_g≠_µ˝_£t
@@ -84249,21 +84385,21 @@ CONN_SUP_TIMEOUT
 g≠_c⁄n_∑øms
 );
 
-1155 
+1170 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1156 
+1171 
 	}
 }
 
-1161 
+1176 
 	$g©t_öô
 ()
 
-1163 
+1178 
 ªt_code_t
  
 îr_code
@@ -84275,17 +84411,17 @@ m_g©t
 NULL
 );
 
-1164 
+1179 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1165 
+1180 
 	}
 }
 
-1175 
+1190 
 	$ƒf_qwr_îr‹_h™dÀr
 (
 uöt32_t
@@ -84293,33 +84429,33 @@ uöt32_t
 ƒf_îr‹
 )
 
-1177 
+1192 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1178 
+1193 
 	}
 }
 
-1183 
+1198 
 	$qwr_öô
 ()
 
-1185 
+1200 
 ªt_code_t
  
 îr_code
 ;
 
-1186 
+1201 
 ƒf_bÀ_qwr_öô_t
  
 qwr_öô_obj
  = {0};
 
-1188 
+1203 
 qwr_öô_obj
 .
 îr‹_h™dÀr
@@ -84327,7 +84463,7 @@ qwr_öô_obj
 ƒf_qwr_îr‹_h™dÀr
 ;
 
-1190 
+1205 
 îr_code
  = 
 	`ƒf_bÀ_qwr_öô
@@ -84337,39 +84473,39 @@ m_qwr
 qwr_öô_obj
 );
 
-1191 
+1206 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1192 
+1207 
 	}
 }
 
-1197 
+1212 
 	$dis_öô
 ()
 
-1199 
+1214 
 ªt_code_t
  
 îr_code
 ;
 
-1200 
+1215 
 bÀ_dis_öô_t
  
 dis_öô_obj
 ;
 
-1201 
+1216 
 bÀ_dis_≤p_id_t
  
 ≤p_id
 ;
 
-1203 
+1218 
 ≤p_id
 .
 víd‹_id_sour˚
@@ -84377,7 +84513,7 @@ víd‹_id_sour˚
 PNP_ID_VENDOR_ID_SOURCE
 ;
 
-1204 
+1219 
 ≤p_id
 .
 víd‹_id
@@ -84385,7 +84521,7 @@ víd‹_id
 PNP_ID_VENDOR_ID
 ;
 
-1205 
+1220 
 ≤p_id
 .
 ¥odu˘_id
@@ -84393,7 +84529,7 @@ PNP_ID_VENDOR_ID
 PNP_ID_PRODUCT_ID
 ;
 
-1206 
+1221 
 ≤p_id
 .
 ¥odu˘_vîsi⁄
@@ -84401,13 +84537,13 @@ PNP_ID_PRODUCT_ID
 PNP_ID_PRODUCT_VERSION
 ;
 
-1208 
+1223 
 	`mem£t
 (&
 dis_öô_obj
 , 0, (dis_init_obj));
 
-1210 
+1225 
 	`bÀ_§v_ascii_to_utf8
 (&
 dis_öô_obj
@@ -84417,7 +84553,7 @@ m™uÁ˘_«me_°r
 MANUFACTURER_NAME
 );
 
-1211 
+1226 
 dis_öô_obj
 .
 p_≤p_id
@@ -84425,7 +84561,7 @@ p_≤p_id
 ≤p_id
 ;
 
-1213 
+1228 
 dis_öô_obj
 .
 dis_ch¨_rd_£c
@@ -84433,7 +84569,7 @@ dis_ch¨_rd_£c
 SEC_JUST_WORKS
 ;
 
-1215 
+1230 
 îr_code
  = 
 	`bÀ_dis_öô
@@ -84441,39 +84577,39 @@ SEC_JUST_WORKS
 dis_öô_obj
 );
 
-1216 
+1231 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1217 
+1232 
 	}
 }
 
-1222 
+1237 
 	$bas_öô
 ()
 
-1224 
+1239 
 ªt_code_t
  
 îr_code
 ;
 
-1225 
+1240 
 bÀ_bas_öô_t
  
 bas_öô_obj
 ;
 
-1227 
+1242 
 	`mem£t
 (&
 bas_öô_obj
 , 0, (bas_init_obj));
 
-1229 
+1244 
 bas_öô_obj
 .
 evt_h™dÀr
@@ -84481,7 +84617,7 @@ evt_h™dÀr
 NULL
 ;
 
-1230 
+1245 
 bas_öô_obj
 .
 suµ‹t_nŸifiˇti⁄
@@ -84489,7 +84625,7 @@ suµ‹t_nŸifiˇti⁄
 åue
 ;
 
-1231 
+1246 
 bas_öô_obj
 .
 p_ªp‹t_ªf
@@ -84497,13 +84633,13 @@ p_ªp‹t_ªf
 NULL
 ;
 
-1232 
+1247 
 bas_öô_obj
 .
 öôül_b©t_Àvñ
  = 100;
 
-1234 
+1249 
 bas_öô_obj
 .
 bl_rd_£c
@@ -84511,7 +84647,7 @@ bl_rd_£c
 SEC_JUST_WORKS
 ;
 
-1235 
+1250 
 bas_öô_obj
 .
 bl_cccd_wr_£c
@@ -84519,7 +84655,7 @@ bl_cccd_wr_£c
 SEC_JUST_WORKS
 ;
 
-1236 
+1251 
 bas_öô_obj
 .
 bl_ªp‹t_rd_£c
@@ -84527,7 +84663,7 @@ bl_ªp‹t_rd_£c
 SEC_JUST_WORKS
 ;
 
-1238 
+1253 
 îr_code
  = 
 	`bÀ_bas_öô
@@ -84537,45 +84673,45 @@ m_bas
 bas_öô_obj
 );
 
-1239 
+1254 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1240 
+1255 
 	}
 }
 
-1245 
+1260 
 	$hids_öô
 ()
 
-1247 
+1262 
 ªt_code_t
  
 îr_code
 ;
 
-1248 
+1263 
 bÀ_hids_öô_t
  
 hids_öô_obj
 ;
 
-1249 
+1264 
 bÀ_hids_öp_ªp_öô_t
  * 
 p_öput_ªp‹t
 ;
 
-1250 
+1265 
 uöt8_t
  
 hid_öfo_Êags
 ;
 
-1252 
+1267 
 bÀ_hids_öp_ªp_öô_t
  
 öp_ªp_¨øy
@@ -84583,19 +84719,19 @@ bÀ_hids_öp_ªp_öô_t
 INPUT_REPORT_COUNT
 ];
 
-1253 
+1268 
 uöt8_t
  
 ªp_m≠_d©a
 [] =
 
-1333 
+1348 
 	`mem£t
 (
 öp_ªp_¨øy
 , 0, (inp_rep_array));
 
-1335 
+1350 
 p_öput_ªp‹t
  = &
 öp_ªp_¨øy
@@ -84603,7 +84739,7 @@ p_öput_ªp‹t
 INPUT_REP_BUTTONS_INDEX
 ];
 
-1336 
+1351 
 p_öput_ªp‹t
 ->
 max_Àn
@@ -84611,7 +84747,7 @@ max_Àn
 INPUT_REP_BUTTONS_LEN
 ;
 
-1337 
+1352 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84621,7 +84757,7 @@ p_öput_ªp‹t
 INPUT_REP_REF_BUTTONS_ID
 ;
 
-1338 
+1353 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84631,7 +84767,7 @@ p_öput_ªp‹t
 BLE_HIDS_REP_TYPE_INPUT
 ;
 
-1340 
+1355 
 p_öput_ªp‹t
 ->
 £c
@@ -84641,7 +84777,7 @@ cccd_wr
 SEC_JUST_WORKS
 ;
 
-1341 
+1356 
 p_öput_ªp‹t
 ->
 £c
@@ -84651,7 +84787,7 @@ wr
 SEC_JUST_WORKS
 ;
 
-1342 
+1357 
 p_öput_ªp‹t
 ->
 £c
@@ -84661,7 +84797,7 @@ rd
 SEC_JUST_WORKS
 ;
 
-1344 
+1359 
 p_öput_ªp‹t
  = &
 öp_ªp_¨øy
@@ -84669,7 +84805,7 @@ p_öput_ªp‹t
 INPUT_REP_MOVEMENT_INDEX
 ];
 
-1345 
+1360 
 p_öput_ªp‹t
 ->
 max_Àn
@@ -84677,7 +84813,7 @@ max_Àn
 INPUT_REP_MOVEMENT_LEN
 ;
 
-1346 
+1361 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84687,7 +84823,7 @@ p_öput_ªp‹t
 INPUT_REP_REF_MOVEMENT_ID
 ;
 
-1347 
+1362 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84697,7 +84833,7 @@ p_öput_ªp‹t
 BLE_HIDS_REP_TYPE_INPUT
 ;
 
-1349 
+1364 
 p_öput_ªp‹t
 ->
 £c
@@ -84707,7 +84843,7 @@ cccd_wr
 SEC_JUST_WORKS
 ;
 
-1350 
+1365 
 p_öput_ªp‹t
 ->
 £c
@@ -84717,7 +84853,7 @@ wr
 SEC_JUST_WORKS
 ;
 
-1351 
+1366 
 p_öput_ªp‹t
 ->
 £c
@@ -84727,7 +84863,7 @@ rd
 SEC_JUST_WORKS
 ;
 
-1353 
+1368 
 p_öput_ªp‹t
  = &
 öp_ªp_¨øy
@@ -84735,7 +84871,7 @@ p_öput_ªp‹t
 INPUT_REP_MPLAYER_INDEX
 ];
 
-1354 
+1369 
 p_öput_ªp‹t
 ->
 max_Àn
@@ -84743,7 +84879,7 @@ max_Àn
 INPUT_REP_MEDIA_PLAYER_LEN
 ;
 
-1355 
+1370 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84753,7 +84889,7 @@ p_öput_ªp‹t
 INPUT_REP_REF_MPLAYER_ID
 ;
 
-1356 
+1371 
 p_öput_ªp‹t
 ->
 ªp_ªf
@@ -84763,7 +84899,7 @@ p_öput_ªp‹t
 BLE_HIDS_REP_TYPE_INPUT
 ;
 
-1358 
+1373 
 p_öput_ªp‹t
 ->
 £c
@@ -84773,7 +84909,7 @@ cccd_wr
 SEC_JUST_WORKS
 ;
 
-1359 
+1374 
 p_öput_ªp‹t
 ->
 £c
@@ -84783,7 +84919,7 @@ wr
 SEC_JUST_WORKS
 ;
 
-1360 
+1375 
 p_öput_ªp‹t
 ->
 £c
@@ -84793,7 +84929,7 @@ rd
 SEC_JUST_WORKS
 ;
 
-1362 
+1377 
 hid_öfo_Êags
  = 
 HID_INFO_FLAG_REMOTE_WAKE_MSK
@@ -84801,13 +84937,13 @@ HID_INFO_FLAG_REMOTE_WAKE_MSK
 HID_INFO_FLAG_NORMALLY_CONNECTABLE_MSK
 ;
 
-1364 
+1379 
 	`mem£t
 (&
 hids_öô_obj
 , 0, (hids_init_obj));
 
-1366 
+1381 
 hids_öô_obj
 .
 evt_h™dÀr
@@ -84815,7 +84951,7 @@ evt_h™dÀr
 ⁄_hids_evt
 ;
 
-1367 
+1382 
 hids_öô_obj
 .
 îr‹_h™dÀr
@@ -84823,7 +84959,7 @@ hids_öô_obj
 £rvi˚_îr‹_h™dÀr
 ;
 
-1368 
+1383 
 hids_öô_obj
 .
 is_kb
@@ -84831,7 +84967,7 @@ is_kb
 Ál£
 ;
 
-1369 
+1384 
 hids_öô_obj
 .
 is_mou£
@@ -84839,7 +84975,7 @@ is_mou£
 åue
 ;
 
-1370 
+1385 
 hids_öô_obj
 .
 öp_ªp_cou¡
@@ -84847,7 +84983,7 @@ hids_öô_obj
 INPUT_REPORT_COUNT
 ;
 
-1371 
+1386 
 hids_öô_obj
 .
 p_öp_ªp_¨øy
@@ -84855,13 +84991,13 @@ p_öp_ªp_¨øy
 öp_ªp_¨øy
 ;
 
-1372 
+1387 
 hids_öô_obj
 .
 ouç_ªp_cou¡
  = 0;
 
-1373 
+1388 
 hids_öô_obj
 .
 p_ouç_ªp_¨øy
@@ -84869,13 +85005,13 @@ p_ouç_ªp_¨øy
 NULL
 ;
 
-1374 
+1389 
 hids_öô_obj
 .
 „©uª_ªp_cou¡
  = 0;
 
-1375 
+1390 
 hids_öô_obj
 .
 p_„©uª_ªp_¨øy
@@ -84883,7 +85019,7 @@ p_„©uª_ªp_¨øy
 NULL
 ;
 
-1376 
+1391 
 hids_öô_obj
 .
 ªp_m≠
@@ -84893,7 +85029,7 @@ d©a_Àn
 ªp_m≠_d©a
 );
 
-1377 
+1392 
 hids_öô_obj
 .
 ªp_m≠
@@ -84903,7 +85039,7 @@ p_d©a
 ªp_m≠_d©a
 ;
 
-1378 
+1393 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -84913,7 +85049,7 @@ bcd_hid
 BASE_USB_HID_SPEC_VERSION
 ;
 
-1379 
+1394 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -84921,7 +85057,7 @@ hid_öf‹m©i⁄
 b_cou¡ry_code
  = 0;
 
-1380 
+1395 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -84931,13 +85067,13 @@ hid_öf‹m©i⁄
 hid_öfo_Êags
 ;
 
-1381 
+1396 
 hids_öô_obj
 .
 ö˛uded_£rvi˚s_cou¡
  = 0;
 
-1382 
+1397 
 hids_öô_obj
 .
 p_ö˛uded_£rvi˚s_¨øy
@@ -84945,7 +85081,7 @@ p_ö˛uded_£rvi˚s_¨øy
 NULL
 ;
 
-1384 
+1399 
 hids_öô_obj
 .
 ªp_m≠
@@ -84955,7 +85091,7 @@ rd_£c
 SEC_JUST_WORKS
 ;
 
-1385 
+1400 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -84965,7 +85101,7 @@ rd_£c
 SEC_JUST_WORKS
 ;
 
-1387 
+1402 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -84975,7 +85111,7 @@ cccd_wr
 SEC_JUST_WORKS
 ;
 
-1388 
+1403 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -84985,7 +85121,7 @@ wr
 SEC_JUST_WORKS
 ;
 
-1389 
+1404 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -84995,7 +85131,7 @@ rd
 SEC_JUST_WORKS
 ;
 
-1391 
+1406 
 hids_öô_obj
 .
 ¥Ÿocﬁ_mode_rd_£c
@@ -85003,7 +85139,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1392 
+1407 
 hids_öô_obj
 .
 ¥Ÿocﬁ_mode_wr_£c
@@ -85011,7 +85147,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1393 
+1408 
 hids_öô_obj
 .
 ˘æ_poöt_wr_£c
@@ -85019,7 +85155,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1395 
+1410 
 îr_code
  = 
 	`bÀ_hids_öô
@@ -85029,45 +85165,45 @@ m_hids
 hids_öô_obj
 );
 
-1396 
+1411 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1397 
+1412 
 	}
 }
 
-1402 
+1417 
 	$£rvi˚s_öô
 ()
 
-1404 
+1419 
 	`qwr_öô
 ();
 
-1405 
+1420 
 	`dis_öô
 ();
 
-1406 
+1421 
 	`bas_öô
 ();
 
-1407 
+1422 
 	`hids_öô
 ();
 
-1408 
+1423 
 	}
 }
 
-1413 
+1428 
 	$£ns‹_simuœt‹_öô
 ()
 
-1415 
+1430 
 m_b©ãry_sim_cfg
 .
 mö
@@ -85075,7 +85211,7 @@ mö
 MIN_BATTERY_LEVEL
 ;
 
-1416 
+1431 
 m_b©ãry_sim_cfg
 .
 max
@@ -85083,7 +85219,7 @@ max
 MAX_BATTERY_LEVEL
 ;
 
-1417 
+1432 
 m_b©ãry_sim_cfg
 .
 ö¸
@@ -85091,7 +85227,7 @@ m_b©ãry_sim_cfg
 BATTERY_LEVEL_INCREMENT
 ;
 
-1418 
+1433 
 m_b©ãry_sim_cfg
 .
 °¨t_©_max
@@ -85099,7 +85235,7 @@ m_b©ãry_sim_cfg
 åue
 ;
 
-1420 
+1435 
 	`£ns‹sim_öô
 (&
 m_b©ãry_sim_°©e
@@ -85107,11 +85243,11 @@ m_b©ãry_sim_°©e
 m_b©ãry_sim_cfg
 );
 
-1421 
+1436 
 	}
 }
 
-1428 
+1443 
 	$c⁄n_∑øms_îr‹_h™dÀr
 (
 uöt32_t
@@ -85119,39 +85255,39 @@ uöt32_t
 ƒf_îr‹
 )
 
-1430 
+1445 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1431 
+1446 
 	}
 }
 
-1436 
+1451 
 	$c⁄n_∑øms_öô
 ()
 
-1438 
+1453 
 ªt_code_t
  
 îr_code
 ;
 
-1439 
+1454 
 bÀ_c⁄n_∑øms_öô_t
  
 ˝_öô
 ;
 
-1441 
+1456 
 	`mem£t
 (&
 ˝_öô
 , 0, (cp_init));
 
-1443 
+1458 
 ˝_öô
 .
 p_c⁄n_∑øms
@@ -85159,7 +85295,7 @@ p_c⁄n_∑øms
 NULL
 ;
 
-1444 
+1459 
 ˝_öô
 .
 fú°_c⁄n_∑øms_upd©e_dñay
@@ -85167,7 +85303,7 @@ fú°_c⁄n_∑øms_upd©e_dñay
 FIRST_CONN_PARAMS_UPDATE_DELAY
 ;
 
-1445 
+1460 
 ˝_öô
 .
 √xt_c⁄n_∑øms_upd©e_dñay
@@ -85175,7 +85311,7 @@ FIRST_CONN_PARAMS_UPDATE_DELAY
 NEXT_CONN_PARAMS_UPDATE_DELAY
 ;
 
-1446 
+1461 
 ˝_öô
 .
 max_c⁄n_∑øms_upd©e_cou¡
@@ -85183,7 +85319,7 @@ max_c⁄n_∑øms_upd©e_cou¡
 MAX_CONN_PARAM_UPDATE_COUNT
 ;
 
-1447 
+1462 
 ˝_öô
 .
 °¨t_⁄_nŸify_cccd_h™dÀ
@@ -85191,7 +85327,7 @@ MAX_CONN_PARAM_UPDATE_COUNT
 BLE_GATT_HANDLE_INVALID
 ;
 
-1448 
+1463 
 ˝_öô
 .
 disc⁄√˘_⁄_Áû
@@ -85199,7 +85335,7 @@ disc⁄√˘_⁄_Áû
 Ál£
 ;
 
-1449 
+1464 
 ˝_öô
 .
 evt_h™dÀr
@@ -85207,7 +85343,7 @@ evt_h™dÀr
 NULL
 ;
 
-1450 
+1465 
 ˝_öô
 .
 îr‹_h™dÀr
@@ -85215,7 +85351,7 @@ NULL
 c⁄n_∑øms_îr‹_h™dÀr
 ;
 
-1452 
+1467 
 îr_code
  = 
 	`bÀ_c⁄n_∑øms_öô
@@ -85223,27 +85359,27 @@ c⁄n_∑øms_îr‹_h™dÀr
 ˝_öô
 );
 
-1453 
+1468 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1454 
+1469 
 	}
 }
 
-1459 
+1474 
 	$timîs_°¨t
 ()
 
-1461 
+1476 
 ªt_code_t
  
 îr_code
 ;
 
-1463 
+1478 
 îr_code
  = 
 	`≠p_timî_°¨t
@@ -85255,27 +85391,27 @@ BATTERY_LEVEL_MEAS_INTERVAL
 NULL
 );
 
-1464 
+1479 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1465 
+1480 
 	}
 }
 
-1472 
+1487 
 	$¶ìp_mode_íãr
 ()
 
-1474 
+1489 
 ªt_code_t
  
 îr_code
 ;
 
-1476 
+1491 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -85283,41 +85419,41 @@ NULL
 BSP_INDICATE_IDLE
 );
 
-1477 
+1492 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1480 
+1495 
 îr_code
  = 
 	`b•_bä_bÀ_¶ìp_mode_¥ï¨e
 ();
 
-1481 
+1496 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1484 
+1499 
 îr_code
  = 
 	`sd_powî_sy°em_off
 ();
 
-1485 
+1500 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1486 
+1501 
 	}
 }
 
-1496 
+1511 
 	$⁄_hids_evt
 (
 bÀ_hids_t
@@ -85329,69 +85465,69 @@ bÀ_hids_evt_t
 p_evt
 )
 
-1498 
+1513 
 p_evt
 ->
 evt_ty≥
 )
 
-1500 
+1515 
 BLE_HIDS_EVT_BOOT_MODE_ENTERED
 :
 
-1501 
+1516 
 m_ö_boŸ_mode
  = 
 åue
 ;
 
-1504 
+1519 
 BLE_HIDS_EVT_REPORT_MODE_ENTERED
 :
 
-1505 
+1520 
 m_ö_boŸ_mode
  = 
 Ál£
 ;
 
-1508 
+1523 
 BLE_HIDS_EVT_NOTIF_ENABLED
 :
 
-1515 
+1530 
 	}
 }
 
-1523 
+1538 
 	$bÀ_°ack_öô
 ()
 
-1525 
+1540 
 ªt_code_t
  
 îr_code
 ;
 
-1527 
+1542 
 îr_code
  = 
 	`ƒf_sdh_íabÀ_ªque°
 ();
 
-1528 
+1543 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1532 
+1547 
 uöt32_t
  
 øm_°¨t
  = 0;
 
-1533 
+1548 
 îr_code
  = 
 	`ƒf_sdh_bÀ_deÁu…_cfg_£t
@@ -85401,13 +85537,13 @@ APP_BLE_CONN_CFG_TAG
 øm_°¨t
 );
 
-1534 
+1549 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1537 
+1552 
 îr_code
  = 
 	`ƒf_sdh_bÀ_íabÀ
@@ -85415,13 +85551,13 @@ APP_BLE_CONN_CFG_TAG
 øm_°¨t
 );
 
-1538 
+1553 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1541 
+1556 
 	`NRF_SDH_BLE_OBSERVER
 (
 m_bÀ_ob£rvî
@@ -85433,39 +85569,39 @@ bÀ_evt_h™dÀr
 NULL
 );
 
-1542 
+1557 
 	}
 }
 
-1547 
+1562 
 	$≥î_m™agî_öô
 ()
 
-1549 
+1564 
 bÀ_g≠_£c_∑øms_t
  
 £c_∑øm
 ;
 
-1550 
+1565 
 ªt_code_t
  
 îr_code
 ;
 
-1552 
+1567 
 îr_code
  = 
 	`pm_öô
 ();
 
-1553 
+1568 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1555 
+1570 
 	`mem£t
 (&
 £c_∑øm
@@ -85473,7 +85609,7 @@ bÀ_g≠_£c_∑øms_t
 bÀ_g≠_£c_∑øms_t
 ));
 
-1558 
+1573 
 £c_∑øm
 .
 b⁄d
@@ -85481,7 +85617,7 @@ b⁄d
 SEC_PARAM_BOND
 ;
 
-1559 
+1574 
 £c_∑øm
 .
 môm
@@ -85489,7 +85625,7 @@ môm
 SEC_PARAM_MITM
 ;
 
-1560 
+1575 
 £c_∑øm
 .
 Àsc
@@ -85497,7 +85633,7 @@ SEC_PARAM_MITM
 SEC_PARAM_LESC
 ;
 
-1561 
+1576 
 £c_∑øm
 .
 key¥ess
@@ -85505,7 +85641,7 @@ key¥ess
 SEC_PARAM_KEYPRESS
 ;
 
-1562 
+1577 
 £c_∑øm
 .
 io_ˇps
@@ -85513,7 +85649,7 @@ io_ˇps
 SEC_PARAM_IO_CAPABILITIES
 ;
 
-1563 
+1578 
 £c_∑øm
 .
 oob
@@ -85521,7 +85657,7 @@ oob
 SEC_PARAM_OOB
 ;
 
-1564 
+1579 
 £c_∑øm
 .
 mö_key_size
@@ -85529,7 +85665,7 @@ mö_key_size
 SEC_PARAM_MIN_KEY_SIZE
 ;
 
-1565 
+1580 
 £c_∑øm
 .
 max_key_size
@@ -85537,7 +85673,7 @@ max_key_size
 SEC_PARAM_MAX_KEY_SIZE
 ;
 
-1566 
+1581 
 £c_∑øm
 .
 kdi°_own
@@ -85545,7 +85681,7 @@ kdi°_own
 íc
  = 1;
 
-1567 
+1582 
 £c_∑øm
 .
 kdi°_own
@@ -85553,7 +85689,7 @@ kdi°_own
 id
  = 1;
 
-1568 
+1583 
 £c_∑øm
 .
 kdi°_≥î
@@ -85561,7 +85697,7 @@ kdi°_≥î
 íc
  = 1;
 
-1569 
+1584 
 £c_∑øm
 .
 kdi°_≥î
@@ -85569,7 +85705,7 @@ kdi°_≥î
 id
  = 1;
 
-1571 
+1586 
 îr_code
  = 
 	`pm_£c_∑øms_£t
@@ -85577,13 +85713,13 @@ id
 £c_∑øm
 );
 
-1572 
+1587 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1574 
+1589 
 îr_code
  = 
 	`pm_ªgi°î
@@ -85591,21 +85727,21 @@ id
 pm_evt_h™dÀr
 );
 
-1575 
+1590 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1576 
+1591 
 	}
 }
 
-1579 #i‡
+1594 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-1586 
+1601 
 	$•_advd©a_¥ï¨e
 (
 bÀ_advd©a_t
@@ -85613,13 +85749,13 @@ bÀ_advd©a_t
 p_√w_advd©a
 ,
 
-1587 
+1602 
 bÀ_g≠_adv_d©a_t
  * c⁄° 
 p_√w_advd©a_buf
 )
 
-1589 
+1604 
 ªt_code_t
  
 ªt
@@ -85629,7 +85765,7 @@ p_√w_advd©a_buf
 p_√w_advd©a
 ,
 
-1590 
+1605 
 p_√w_advd©a_buf
 ->
 adv_d©a
@@ -85637,7 +85773,7 @@ adv_d©a
 p_d©a
 ,
 
-1591 &
+1606 &
 p_√w_advd©a_buf
 ->
 adv_d©a
@@ -85645,13 +85781,13 @@ adv_d©a
 Àn
 );
 
-1592 
+1607 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1594 i‡(
+1609 i‡(
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85661,7 +85797,7 @@ p_d©a
 NULL
 )
 
-1596 
+1611 
 ªt
  = 
 	`bÀ_advd©a_ícode
@@ -85669,7 +85805,7 @@ NULL
 p_√w_advd©a
 ,
 
-1597 
+1612 
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85677,7 +85813,7 @@ sˇn_r•_d©a
 p_d©a
 ,
 
-1598 &
+1613 &
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85685,21 +85821,21 @@ sˇn_r•_d©a
 Àn
 );
 
-1599 
+1614 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1601 
+1616 
 	}
 }
 
-1652 
+1667 
 	$scheduÀr_öô
 ()
 
-1654 
+1669 
 	`APP_SCHED_INIT
 (
 SCHED_MAX_EVENT_DATA_SIZE
@@ -85707,11 +85843,11 @@ SCHED_MAX_EVENT_DATA_SIZE
 SCHED_QUEUE_SIZE
 );
 
-1655 
+1670 
 	}
 }
 
-1663 
+1678 
 	$mou£_movemít_£nd
 (
 öt16_t
@@ -85721,29 +85857,29 @@ x_dñè
 y_dñè
 )
 
-1665 
+1680 
 ªt_code_t
  
 îr_code
 ;
 
-1667 i‡(
+1682 i‡(
 m_ö_boŸ_mode
 )
 
-1669 
+1684 
 x_dñè
  = 
 	`MIN
 (x_delta, 0x00ff);
 
-1670 
+1685 
 y_dñè
  = 
 	`MIN
 (y_delta, 0x00ff);
 
-1672 
+1687 
 îr_code
  = 
 	`bÀ_hids_boŸ_mou£_öp_ªp_£nd
@@ -85751,27 +85887,27 @@ y_dñè
 m_hids
 ,
 
-1674 (
+1689 (
 öt8_t
 )
 x_dñè
 ,
 
-1675 (
+1690 (
 öt8_t
 )
 y_dñè
 ,
 
-1677 
+1692 
 NULL
 ,
 
-1678 
+1693 
 m_c⁄n_h™dÀ
 );
 
-1682 
+1697 
 uöt8_t
  
 buf„r
@@ -85779,31 +85915,31 @@ buf„r
 INPUT_REP_MOVEMENT_LEN
 ];
 
-1684 
+1699 
 	`APP_ERROR_CHECK_BOOL
 (
 INPUT_REP_MOVEMENT_LEN
  == 3);
 
-1686 
+1701 
 x_dñè
  = 
 	`MIN
 (x_delta, 0x0fff);
 
-1687 
+1702 
 y_dñè
  = 
 	`MIN
 (y_delta, 0x0fff);
 
-1689 
+1704 
 buf„r
 [0] = 
 x_dñè
  & 0x00ff;
 
-1690 
+1705 
 buf„r
 [1] = ((
 y_dñè
@@ -85811,13 +85947,13 @@ y_dñè
 x_dñè
  & 0x0f00) >> 8);
 
-1691 
+1706 
 buf„r
 [2] = (
 y_dñè
  & 0x0ff0) >> 4;
 
-1693 
+1708 
 îr_code
  = 
 	`bÀ_hids_öp_ªp_£nd
@@ -85825,63 +85961,63 @@ y_dñè
 m_hids
 ,
 
-1694 
+1709 
 INPUT_REP_MOVEMENT_INDEX
 ,
 
-1695 
+1710 
 INPUT_REP_MOVEMENT_LEN
 ,
 
-1696 
+1711 
 buf„r
 ,
 
-1697 
+1712 
 m_c⁄n_h™dÀ
 );
 
-1700 i‡((
+1715 i‡((
 îr_code
  !
 NRF_SUCCESS
 ) &&
 
-1701 (
+1716 (
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 ) &&
 
-1702 (
+1717 (
 îr_code
  !
 NRF_ERROR_RESOURCES
 ) &&
 
-1703 (
+1718 (
 îr_code
  !
 NRF_ERROR_BUSY
 ) &&
 
-1704 (
+1719 (
 îr_code
  !
 BLE_ERROR_GATTS_SYS_ATTR_MISSING
 )
 
-1707 
+1722 
 	`APP_ERROR_HANDLER
 (
 îr_code
 );
 
-1709 
+1724 
 	}
 }
 
-1716 
+1731 
 	$b•_evít_h™dÀr
 (
 b•_evít_t
@@ -85889,29 +86025,29 @@ b•_evít_t
 evít
 )
 
-1718 
+1733 
 ªt_code_t
  
 îr_code
 ;
 
-1720 
+1735 
 evít
 )
 
-1722 
+1737 
 BSP_EVENT_SLEEP
 :
 
-1723 
+1738 
 	`¶ìp_mode_íãr
 ();
 
-1726 
+1741 
 BSP_EVENT_DISCONNECT
 :
 
-1727 
+1742 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -85919,33 +86055,33 @@ BSP_EVENT_DISCONNECT
 m_c⁄n_h™dÀ
 ,
 
-1728 
+1743 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-1729 i‡(
+1744 i‡(
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 )
 
-1731 
+1746 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1735 
+1750 
 BSP_EVENT_WHITELIST_OFF
 :
 
-1736 i‡(
+1751 i‡(
 m_c⁄n_h™dÀ
  =
 BLE_CONN_HANDLE_INVALID
 )
 
-1738 
+1753 
 îr_code
  = 
 	`bÀ_advîtisög_ª°¨t_wôhout_whôñi°
@@ -85953,59 +86089,59 @@ BLE_CONN_HANDLE_INVALID
 m_advîtisög
 );
 
-1739 i‡(
+1754 i‡(
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 )
 
-1741 
+1756 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1746 
+1761 
 BSP_EVENT_KEY_0
 :
 
-1747 i‡(
+1762 i‡(
 m_c⁄n_h™dÀ
  !
 BLE_CONN_HANDLE_INVALID
 )
 
-1749 
+1764 
 	`mou£_movemít_£nd
 (-
 MOVEMENT_SPEED
 , 0);
 
-1753 
+1768 
 BSP_EVENT_KEY_1
 :
 
-1754 i‡(
+1769 i‡(
 m_c⁄n_h™dÀ
  !
 BLE_CONN_HANDLE_INVALID
 )
 
-1756 
+1771 
 	`mou£_movemít_£nd
 (0, -
 MOVEMENT_SPEED
 );
 
-1760 
+1775 
 BSP_EVENT_KEY_2
 :
 
-1761 
-	`NRF_LOG_INFO
+1776 
+	`DEBUG_LOG
 ("Clearáll bonds");
 
-1762 
+1777 
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -86013,25 +86149,25 @@ isDñëeB⁄ds
 åue
 ;
 
-1766 
+1781 
 BSP_EVENT_KEY_3
 :
 
-1767 
-	`NRF_LOG_INFO
+1782 
+	`DEBUG_LOG
 ("ADD_NEWádv start");
 
-1768 
+1783 
 	`≠pAdvSëSèπ
 (
 ADV_ADD_NEW
 , 0);
 
-1774 
+1789 
 	}
 }
 
-1781 
+1796 
 	$buâ⁄s_Àds_öô
 (
 boﬁ
@@ -86039,19 +86175,19 @@ boﬁ
 p_îa£_b⁄ds
 )
 
-1783 
+1798 
 ªt_code_t
  
 îr_code
 ;
 
-1784 
+1799 
 b•_evít_t
  
 °¨tup_evít
 ;
 
-1786 
+1801 
 îr_code
  = 
 	`b•_öô
@@ -86063,13 +86199,13 @@ BSP_INIT_BUTTONS
 b•_evít_h™dÀr
 );
 
-1788 
+1803 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1790 
+1805 
 îr_code
  = 
 	`b•_bä_bÀ_öô
@@ -86079,13 +86215,13 @@ NULL
 °¨tup_evít
 );
 
-1791 
+1806 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1793 *
+1808 *
 p_îa£_b⁄ds
  = (
 °¨tup_evít
@@ -86093,15 +86229,15 @@ p_îa£_b⁄ds
 BSP_EVENT_CLEAR_BONDING_DATA
 );
 
-1794 
+1809 
 	}
 }
 
-1799 
+1814 
 	$log_öô
 ()
 
-1801 
+1816 
 ªt_code_t
  
 îr_code
@@ -86111,69 +86247,69 @@ BSP_EVENT_CLEAR_BONDING_DATA
 NULL
 );
 
-1802 
+1817 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1804 
+1819 
 	`NRF_LOG_DEFAULT_BACKENDS_INIT
 ();
 
-1805 
+1820 
 	}
 }
 
-1810 
+1825 
 	$powî_m™agemít_öô
 ()
 
-1812 
+1827 
 ªt_code_t
  
 îr_code
 ;
 
-1813 
+1828 
 îr_code
  = 
 	`ƒf_pwr_mgmt_öô
 ();
 
-1814 
+1829 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1815 
+1830 
 	}
 }
 
-1822 
+1837 
 	$idÀ_°©e_h™dÀ
 ()
 
-1824 
+1839 
 	`≠p_sched_execuã
 ();
 
-1825 i‡(
+1840 i‡(
 	`NRF_LOG_PROCESS
 (Ë=
 Ál£
 )
 
-1827 
+1842 
 	`ƒf_pwr_mgmt_run
 ();
 
-1829 
+1844 
 	}
 }
 
-1834 
+1849 
 	$fds_evt_h™dÀr
 (
 fds_evt_t
@@ -86181,59 +86317,59 @@ fds_evt_t
 p_fds_evt
 )
 
-1836 
+1851 
 p_fds_evt
 ->
 id
 )
 
-1838 
+1853 
 FDS_EVT_INIT
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_INIT"); ;
 
-1839 
+1854 
 FDS_EVT_WRITE
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_WRITE"); ;
 
-1840 
+1855 
 FDS_EVT_UPDATE
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_UPDATE"); ;
 
-1841 
+1856 
 FDS_EVT_DEL_RECORD
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_DEL_RECORD"); ;
 
-1842 
+1857 
 FDS_EVT_DEL_FILE
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_DEL_FILE"); ;
 
-1843 
+1858 
 FDS_EVT_GC
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("FDS_EVT_GC"); ;
 
-1846 
+1860 
 p_fds_evt
 ->
 id
 )
 
-1848 
+1862 
 FDS_EVT_INIT
 :
 
-1849 i‡(
+1863 i‡(
 p_fds_evt
 ->
 ªsu…
@@ -86241,33 +86377,33 @@ p_fds_evt
 FDS_SUCCESS
 )
 
-1857 
+1871 
 	}
 }
 
-1864 
+1878 
 	$maö
 ()
 
-1866 
+1880 
 boﬁ
  
 îa£_b⁄ds
 ;
 
-1869 
+1883 
 	`log_öô
 ();
 
-1870 
-	`NRF_LOG_INFO
-("Gerasimchuk started.");
+1884 
+	`USER_INFO
+("APPLICATION STARTED");
 
-1872 
+1886 
 	`öôU£rTimî
 ();
 
-1873 
+1887 
 °›SˇnAdvTimîCÆlback
  = 
 	`timîGëCÆlback
@@ -86275,13 +86411,13 @@ boﬁ
 ≠pAdvSˇnSt›CB
 );
 
-1874 
+1888 
 devi˚Ordî
  = 
 	`‹dîMÆloc
 ();
 
-1876 
+1890 
 ªt_code_t
  
 ªt
@@ -86291,25 +86427,37 @@ devi˚Ordî
 fds_evt_h™dÀr
 );
 
-1877 i‡(
+1891 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-1881 
+1893 
+	`APP_ERROR_CHECK
+(
+ªt
+);
+
+1895 
 ªt
  = 
 	`fds_öô
 ();
 
-1882 i‡(
+1896 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-1887 
+1898 
+	`APP_ERROR_CHECK
+(
+ªt
+);
+
+1901 
 	`‹dîRódFœsh
 (
 devi˚Ordî
@@ -86319,15 +86467,15 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-1888 
-	`NRF_LOG_INFO
-("Ordî iãm†%d", 
+1902 
+	`USER_INFO
+("Qu™tôy iãm†ö ordî = %d", 
 	`‹dîGëQu™tôy
 (
 devi˚Ordî
 ));
 
-1889 
+1903 
 uöt8_t
  
 ˙t
@@ -86335,9 +86483,9 @@ uöt8_t
 ORDER_ITEM_QUANTITY
 ; cnt++ )
 
-1891 
-	`NRF_LOG_INFO
-("ôem = %d \n", 
+1905 
+	`USER_INFO
+("ôem = %d", 
 	`‹dîGëIãm
 (
 devi˚Ordî
@@ -86345,57 +86493,57 @@ devi˚Ordî
 ˙t
 ));
 
-1894 
+1908 
 	`timîs_öô
 ();
 
-1895 
+1909 
 	`buâ⁄s_Àds_öô
 (&
 îa£_b⁄ds
 );
 
-1896 
+1910 
 	`powî_m™agemít_öô
 ();
 
-1897 
+1911 
 	`bÀ_°ack_öô
 ();
 
-1898 
+1912 
 	`scheduÀr_öô
 ();
 
-1899 
+1913 
 	`g≠_∑øms_öô
 ();
 
-1900 
+1914 
 	`g©t_öô
 ();
 
-1902 
+1916 
 	`£rvi˚s_öô
 ();
 
-1903 
+1917 
 	`£ns‹_simuœt‹_öô
 ();
 
-1904 
+1918 
 	`c⁄n_∑øms_öô
 ();
 
-1905 
+1919 
 	`≥î_m™agî_öô
 ();
 
-1909 
+1923 
 	`timîs_°¨t
 ();
 
-1911 
+1925 
 	`advîtisög_öô
 (
 APP_ADV_GLOBAL_INTERVAL
@@ -86405,29 +86553,29 @@ APP_ADV_GLOBAL_TIMEOUT
 åue
 );
 
-1912 
+1926 
 	`≠pAdvSëSèπ
 (
 ADV_RECONNECT_SCAN
 , 0);
 
-1918 
+1932 
 	`idÀ_°©e_h™dÀ
 ();
 
-1921 
+1935 
 	`≠pPro˚ssög
 ();
 
-1922 
+1936 
 	`u£rPro˚ssögTimîCÆlbackFun
 ();
 
-1925 
+1939 
 	}
 }
 
-1933 
+1947 
 	$bÀ_evt_h™dÀr
 (
 bÀ_evt_t
@@ -86437,141 +86585,141 @@ p_bÀ_evt
 p_c⁄ãxt
 )
 
-1935 
+1949 
 ªt_code_t
  
 îr_code
 ;
 
-1937 
+1951 
 p_bÀ_evt
 ->
 hódî
 .
 evt_id
 )
-
-1939 
-BLE_GAP_EVT_CONNECTED
-: 
-	`NRF_LOG_INFO
-("CONNECTED"); ;
-
-1940 
-BLE_GAP_EVT_DISCONNECTED
-: 
-	`NRF_LOG_INFO
-("DISCONNECTED"); ;
-
-1941 
-BLE_GAP_EVT_CONN_PARAM_UPDATE
-: 
-	`NRF_LOG_INFO
-("CONN_PARAM_UPDATE"); ;
-
-1942 
-BLE_GAP_EVT_SEC_PARAMS_REQUEST
-: 
-	`NRF_LOG_INFO
-("SEC_PARAMS_REQUEST"); ;
-
-1943 
-BLE_GAP_EVT_SEC_INFO_REQUEST
-: 
-	`NRF_LOG_INFO
-("SEC_INFO_REQUEST"); ;
-
-1944 
-BLE_GAP_EVT_PASSKEY_DISPLAY
-: 
-	`NRF_LOG_INFO
-("PASSKEY_DISPLAY"); ;
-
-1945 
-BLE_GAP_EVT_KEY_PRESSED
-: 
-	`NRF_LOG_INFO
-("KEY_PRESSED"); ;
-
-1946 
-BLE_GAP_EVT_AUTH_KEY_REQUEST
-: 
-	`NRF_LOG_INFO
-("AUTH_KEY_REQUEST"); ;
-
-1947 
-BLE_GAP_EVT_LESC_DHKEY_REQUEST
-: 
-	`NRF_LOG_INFO
-("LESC_DHKEY_REQUEST"); ;
-
-1948 
-BLE_GAP_EVT_AUTH_STATUS
-: 
-	`NRF_LOG_INFO
-("AUTH_STATUS"); ;
-
-1949 
-BLE_GAP_EVT_CONN_SEC_UPDATE
-: 
-	`NRF_LOG_INFO
-("CONN_SEC_UPDATE"); ;
-
-1950 
-BLE_GAP_EVT_TIMEOUT
-: 
-	`NRF_LOG_INFO
-("TIMEOUT"); ;
-
-1951 
-BLE_GAP_EVT_RSSI_CHANGED
-: 
-	`NRF_LOG_INFO
-("RSSI_CHANGED"); ;
-
-1952 
-BLE_GAP_EVT_ADV_REPORT
-: 
-	`NRF_LOG_INFO
-("ADV_REPORT"); ;
 
 1953 
-BLE_GAP_EVT_SEC_REQUEST
+BLE_GAP_EVT_CONNECTED
 : 
-	`NRF_LOG_INFO
-("SEC_REQUEST"); ;
+	`DEBUG_LOG
+("CONNECTED"); ;
 
 1954 
-BLE_GAP_EVT_CONN_PARAM_UPDATE_REQUEST
+BLE_GAP_EVT_DISCONNECTED
 : 
-	`NRF_LOG_INFO
-("CONN_PARAM_UPDATE_REQUEST"); ;
+	`DEBUG_LOG
+("DISCONNECTED"); ;
 
 1955 
-BLE_GAP_EVT_SCAN_REQ_REPORT
+BLE_GAP_EVT_CONN_PARAM_UPDATE
 : 
-	`NRF_LOG_INFO
-("SCAN_REQ_REPORT"); ;
+	`DEBUG_LOG
+("CONN_PARAM_UPDATE"); ;
 
 1956 
-BLE_GAP_EVT_PHY_UPDATE
+BLE_GAP_EVT_SEC_PARAMS_REQUEST
 : 
-	`NRF_LOG_INFO
-("PHY_UPDATE"); ;
+	`DEBUG_LOG
+("SEC_PARAMS_REQUEST"); ;
 
 1957 
-BLE_GAP_EVT_DATA_LENGTH_UPDATE_REQUEST
+BLE_GAP_EVT_SEC_INFO_REQUEST
 : 
-	`NRF_LOG_INFO
-("DATA_LENGTH_UPDATE_REQUEST"); ;
+	`DEBUG_LOG
+("SEC_INFO_REQUEST"); ;
 
 1958 
+BLE_GAP_EVT_PASSKEY_DISPLAY
+: 
+	`DEBUG_LOG
+("PASSKEY_DISPLAY"); ;
+
+1959 
+BLE_GAP_EVT_KEY_PRESSED
+: 
+	`DEBUG_LOG
+("KEY_PRESSED"); ;
+
+1960 
+BLE_GAP_EVT_AUTH_KEY_REQUEST
+: 
+	`DEBUG_LOG
+("AUTH_KEY_REQUEST"); ;
+
+1961 
+BLE_GAP_EVT_LESC_DHKEY_REQUEST
+: 
+	`DEBUG_LOG
+("LESC_DHKEY_REQUEST"); ;
+
+1962 
+BLE_GAP_EVT_AUTH_STATUS
+: 
+	`DEBUG_LOG
+("AUTH_STATUS"); ;
+
+1963 
+BLE_GAP_EVT_CONN_SEC_UPDATE
+: 
+	`DEBUG_LOG
+("CONN_SEC_UPDATE"); ;
+
+1964 
+BLE_GAP_EVT_TIMEOUT
+: 
+	`DEBUG_LOG
+("TIMEOUT"); ;
+
+1965 
+BLE_GAP_EVT_RSSI_CHANGED
+: 
+	`DEBUG_LOG
+("RSSI_CHANGED"); ;
+
+1966 
+BLE_GAP_EVT_ADV_REPORT
+: 
+	`DEBUG_LOG
+("ADV_REPORT"); ;
+
+1967 
+BLE_GAP_EVT_SEC_REQUEST
+: 
+	`DEBUG_LOG
+("SEC_REQUEST"); ;
+
+1968 
+BLE_GAP_EVT_CONN_PARAM_UPDATE_REQUEST
+: 
+	`DEBUG_LOG
+("CONN_PARAM_UPDATE_REQUEST"); ;
+
+1969 
+BLE_GAP_EVT_SCAN_REQ_REPORT
+: 
+	`DEBUG_LOG
+("SCAN_REQ_REPORT"); ;
+
+1970 
+BLE_GAP_EVT_PHY_UPDATE
+: 
+	`DEBUG_LOG
+("PHY_UPDATE"); ;
+
+1971 
+BLE_GAP_EVT_DATA_LENGTH_UPDATE_REQUEST
+: 
+	`DEBUG_LOG
+("DATA_LENGTH_UPDATE_REQUEST"); ;
+
+1972 
 BLE_GAP_EVT_DATA_LENGTH_UPDATE
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("DATA_LENGTH_UPDATE"); ;
 
-1962 
+1976 
 p_bÀ_evt
 ->
 hódî
@@ -86579,11 +86727,11 @@ hódî
 evt_id
 )
 
-1964 
+1978 
 BLE_GAP_EVT_CONNECTED
 :
 
-1965 
+1979 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -86591,13 +86739,13 @@ BLE_GAP_EVT_CONNECTED
 BSP_INDICATE_CONNECTED
 );
 
-1966 
+1980 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1967 
+1981 
 m_c⁄n_h™dÀ
  = 
 p_bÀ_evt
@@ -86609,7 +86757,7 @@ g≠_evt
 c⁄n_h™dÀ
 ;
 
-1968 
+1982 
 îr_code
  = 
 	`ƒf_bÀ_qwr_c⁄n_h™dÀ_assign
@@ -86619,31 +86767,31 @@ m_qwr
 m_c⁄n_h™dÀ
 );
 
-1969 
+1983 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1971 if(
+1985 if(
 	`≠pAdvGëPªvC⁄n
 ())
 
-1973 
-	`NRF_LOG_INFO
+1987 
+	`DEBUG_LOG
 ("CON:Årue");
 
-1976 
-	`NRF_LOG_INFO
+1990 
+	`DEBUG_LOG
 ("CON: false");
 
-1978 
+1992 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-1979 
+1993 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_CONNECT
@@ -86651,27 +86799,27 @@ CONNECTION_CONNECT
 m_c⁄n_h™dÀ
 );
 
-1980 
+1994 
 	`≠pAdvPro˚ssög
 (
 ADV_PROC_CONNECT
 ,0);
 
-1984 
+1998 
 BLE_GAP_EVT_DISCONNECTED
 :
 
-1985 
-	`NRF_LOG_INFO
+1999 
+	`DEBUG_LOG
 ("Disconnected");
 
-1987 
+2001 
 	`≠pAdvSëPªvC⁄n
 (
 Ál£
 );
 
-1988 
+2002 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_DISCONNECT
@@ -86679,39 +86827,39 @@ CONNECTION_DISCONNECT
 BLE_CONN_HANDLE_INVALID
 );
 
-1991 
+2005 
 m_c⁄n_h™dÀ
  = 
 BLE_CONN_HANDLE_INVALID
 ;
 
-1994 
+2008 
 BLE_GAP_EVT_PHY_UPDATE_REQUEST
 :
 
-1996 
+2010 
 	`NRF_LOG_DEBUG
 ("PHY updateÑequest.");
 
-1997 
+2011 
 bÀ_g≠_phys_t
  c⁄° 
 phys
  =
 
-1999 .
+2013 .
 rx_phys
  = 
 BLE_GAP_PHY_AUTO
 ,
 
-2000 .
+2014 .
 tx_phys
  = 
 BLE_GAP_PHY_AUTO
 ,
 
-2002 
+2016 
 îr_code
  = 
 	`sd_bÀ_g≠_phy_upd©e
@@ -86727,21 +86875,21 @@ c⁄n_h™dÀ
 phys
 );
 
-2003 
+2017 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2006 
+2020 
 BLE_GATTC_EVT_TIMEOUT
 :
 
-2008 
+2022 
 	`NRF_LOG_DEBUG
 ("GATT Client Timeout.");
 
-2009 
+2023 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -86755,25 +86903,25 @@ g©tc_evt
 c⁄n_h™dÀ
 ,
 
-2010 
+2024 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-2011 
+2025 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2014 
+2028 
 BLE_GATTS_EVT_TIMEOUT
 :
 
-2016 
+2030 
 	`NRF_LOG_DEBUG
 ("GATT Server Timeout.");
 
-2017 
+2031 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -86787,21 +86935,21 @@ g©ts_evt
 c⁄n_h™dÀ
 ,
 
-2018 
+2032 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-2019 
+2033 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2026 
+2040 
 	}
 }
 
-2034 
+2048 
 	$pm_evt_h™dÀr
 (
 pm_evt_t
@@ -86809,169 +86957,169 @@ pm_evt_t
 p_evt
 )
 
-2036 
+2050 
 	`pm_h™dÀr_⁄_pm_evt
 (
 p_evt
 );
 
-2037 
+2051 
 	`pm_h™dÀr_Êash_˛ón
 (
 p_evt
 );
 
-2039 
+2053 
 p_evt
 ->
 evt_id
 )
-
-2041 
-PM_EVT_BONDED_PEER_CONNECTED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_BONDED_PEER_CONNECTED"); ;
-
-2042 
-PM_EVT_CONN_SEC_START
-: 
-	`NRF_LOG_INFO
-("PM_EVT_CONN_SEC_START"); ;
-
-2043 
-PM_EVT_CONN_SEC_SUCCEEDED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_CONN_SEC_SUCCEEDED"); ;
-
-2044 
-PM_EVT_CONN_SEC_FAILED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_CONN_SEC_FAILED"); ;
-
-2045 
-PM_EVT_CONN_SEC_CONFIG_REQ
-: 
-	`NRF_LOG_INFO
-("PM_EVT_CONN_SEC_CONFIG_REQ"); ;
-
-2046 
-PM_EVT_CONN_SEC_PARAMS_REQ
-: 
-	`NRF_LOG_INFO
-("PM_EVT_CONN_SEC_PARAMS_REQ"); ;
-
-2047 
-PM_EVT_STORAGE_FULL
-: 
-	`NRF_LOG_INFO
-("PM_EVT_STORAGE_FULL"); ;
-
-2048 
-PM_EVT_ERROR_UNEXPECTED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_ERROR_UNEXPECTED"); ;
-
-2049 
-PM_EVT_PEER_DATA_UPDATE_SUCCEEDED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEER_DATA_UPDATE_SUCCEEDED"); ;
-
-2050 
-PM_EVT_PEER_DATA_UPDATE_FAILED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEER_DATA_UPDATE_FAILED"); ;
-
-2051 
-PM_EVT_PEER_DELETE_SUCCEEDED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEER_DELETE_SUCCEEDED"); ;
-
-2052 
-PM_EVT_PEER_DELETE_FAILED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEER_DELETE_FAILED"); ;
-
-2053 
-PM_EVT_PEERS_DELETE_SUCCEEDED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEERS_DELETE_SUCCEEDED"); ;
-
-2054 
-PM_EVT_PEERS_DELETE_FAILED
-: 
-	`NRF_LOG_INFO
-("PM_EVT_PEERS_DELETE_FAILED"); ;
 
 2055 
-PM_EVT_LOCAL_DB_CACHE_APPLIED
+PM_EVT_BONDED_PEER_CONNECTED
 : 
-	`NRF_LOG_INFO
-("PM_EVT_LOCAL_DB_CACHE_APPLIED"); ;
+	`DEBUG_LOG
+("PM_EVT_BONDED_PEER_CONNECTED"); ;
 
 2056 
-PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED
+PM_EVT_CONN_SEC_START
 : 
-	`NRF_LOG_INFO
-("PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED"); ;
+	`DEBUG_LOG
+("PM_EVT_CONN_SEC_START"); ;
 
 2057 
-PM_EVT_SERVICE_CHANGED_IND_SENT
+PM_EVT_CONN_SEC_SUCCEEDED
 : 
-	`NRF_LOG_INFO
-("PM_EVT_SERVICE_CHANGED_IND_SENT"); ;
+	`DEBUG_LOG
+("PM_EVT_CONN_SEC_SUCCEEDED"); ;
 
 2058 
-PM_EVT_SERVICE_CHANGED_IND_CONFIRMED
+PM_EVT_CONN_SEC_FAILED
 : 
-	`NRF_LOG_INFO
-("PM_EVT_SERVICE_CHANGED_IND_CONFIRMED"); ;
+	`DEBUG_LOG
+("PM_EVT_CONN_SEC_FAILED"); ;
 
 2059 
+PM_EVT_CONN_SEC_CONFIG_REQ
+: 
+	`DEBUG_LOG
+("PM_EVT_CONN_SEC_CONFIG_REQ"); ;
+
+2060 
+PM_EVT_CONN_SEC_PARAMS_REQ
+: 
+	`DEBUG_LOG
+("PM_EVT_CONN_SEC_PARAMS_REQ"); ;
+
+2061 
+PM_EVT_STORAGE_FULL
+: 
+	`DEBUG_LOG
+("PM_EVT_STORAGE_FULL"); ;
+
+2062 
+PM_EVT_ERROR_UNEXPECTED
+: 
+	`DEBUG_LOG
+("PM_EVT_ERROR_UNEXPECTED"); ;
+
+2063 
+PM_EVT_PEER_DATA_UPDATE_SUCCEEDED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEER_DATA_UPDATE_SUCCEEDED"); ;
+
+2064 
+PM_EVT_PEER_DATA_UPDATE_FAILED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEER_DATA_UPDATE_FAILED"); ;
+
+2065 
+PM_EVT_PEER_DELETE_SUCCEEDED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEER_DELETE_SUCCEEDED"); ;
+
+2066 
+PM_EVT_PEER_DELETE_FAILED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEER_DELETE_FAILED"); ;
+
+2067 
+PM_EVT_PEERS_DELETE_SUCCEEDED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEERS_DELETE_SUCCEEDED"); ;
+
+2068 
+PM_EVT_PEERS_DELETE_FAILED
+: 
+	`DEBUG_LOG
+("PM_EVT_PEERS_DELETE_FAILED"); ;
+
+2069 
+PM_EVT_LOCAL_DB_CACHE_APPLIED
+: 
+	`DEBUG_LOG
+("PM_EVT_LOCAL_DB_CACHE_APPLIED"); ;
+
+2070 
+PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED
+: 
+	`DEBUG_LOG
+("PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED"); ;
+
+2071 
+PM_EVT_SERVICE_CHANGED_IND_SENT
+: 
+	`DEBUG_LOG
+("PM_EVT_SERVICE_CHANGED_IND_SENT"); ;
+
+2072 
+PM_EVT_SERVICE_CHANGED_IND_CONFIRMED
+: 
+	`DEBUG_LOG
+("PM_EVT_SERVICE_CHANGED_IND_CONFIRMED"); ;
+
+2073 
 PM_EVT_SLAVE_SECURITY_REQ
 : 
-	`NRF_LOG_INFO
+	`DEBUG_LOG
 ("PM_EVT_SLAVE_SECURITY_REQ"); ;
 
-2064 
+2078 
 p_evt
 ->
 evt_id
 )
 
-2067 
+2081 
 PM_EVT_BONDED_PEER_CONNECTED
 :
 
-2069 
-	`NRF_LOG_INFO
+2083 
+	`DEBUG_LOG
 ("Pªv c⁄: %d", 
 p_evt
 ->
 ≥î_id
 );
 
-2071 
+2085 
 	`≠pAdvSëPªvC⁄n
 (
 åue
 );
 
-2072 
+2086 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-2073 
+2087 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_CONNECT
@@ -86981,7 +87129,7 @@ p_evt
 c⁄n_h™dÀ
 );
 
-2074 
+2088 
 	`≠pAdvPro˚ssög
 (
 ADV_PROC_START_CONNECT
@@ -86991,15 +87139,15 @@ p_evt
 ≥î_id
 );
 
-2079 
+2093 
 PM_EVT_CONN_SEC_SUCCEEDED
 :
 
-2081 
-	`NRF_LOG_INFO
+2095 
+	`DEBUG_LOG
 ("Connection secured:Ñole: %d, conn_handle: 0x%x,Örocedure: %d.",
 
-2082 
+2096 
 	`bÀ_c⁄n_°©e_rﬁe
 (
 p_evt
@@ -87007,13 +87155,13 @@ p_evt
 c⁄n_h™dÀ
 ),
 
-2083 
+2097 
 p_evt
 ->
 c⁄n_h™dÀ
 ,
 
-2084 
+2098 
 p_evt
 ->
 ∑øms
@@ -87023,7 +87171,7 @@ c⁄n_£c_suc˚eded
 ¥o˚duª
 );
 
-2087 
+2101 
 	`‹dîSëFú°
 (
 devi˚Ordî
@@ -87033,7 +87181,7 @@ p_evt
 ≥î_id
 );
 
-2088 
+2102 
 	`‹dîWrôeFœsh
 (
 devi˚Ordî
@@ -87043,29 +87191,29 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-2093 
+2107 
 PM_EVT_CONN_SEC_FAILED
 :
 
-2095 
+2109 
 	`≠pAdvSèπ
 ();
 
-2099 
+2113 
 PM_EVT_PEERS_DELETE_SUCCEEDED
 :
 
-2100 
+2114 
 	`advîtisög_°¨t
 (
 Ál£
 );
 
-2103 
+2117 
 PM_EVT_PEER_DATA_UPDATE_SUCCEEDED
 :
 
-2104 i‡–
+2118 i‡–
 p_evt
 ->
 ∑øms
@@ -87075,7 +87223,7 @@ p_evt
 Êash_ch™ged
 
 
-2105 && (
+2119 && (
 p_evt
 ->
 ∑øms
@@ -87087,21 +87235,21 @@ d©a_id
 PM_PEER_DATA_ID_BONDING
 ))
 
-2107 
-	`NRF_LOG_INFO
+2121 
+	`DEBUG_LOG
 ("New Bond,áddÅheÖeerÅoÅhe whitelist ifÖossible");
 
-2110 
+2124 
 	`whôñi°_£t
 (
 PM_PEER_ID_LIST_SKIP_NO_ID_ADDR
 );
 
-2117 
+2131 
 	}
 }
 
-2127 
+2141 
 	$⁄_adv_evt
 (
 bÀ_adv_evt_t
@@ -87109,19 +87257,19 @@ bÀ_adv_evt_t
 bÀ_adv_evt
 )
 
-2129 
+2143 
 ªt_code_t
  
 îr_code
 ;
 
-2131 
-	`NRF_LOG_INFO
+2145 
+	`DEBUG_LOG
 ("ADV_EV %d", 
 bÀ_adv_evt
 );
 
-2133 if–(
+2147 if–(
 	`≠pAdvGëSèã
 (Ë=
 Ál£
@@ -87131,27 +87279,27 @@ bÀ_adv_evt
 BLE_ADV_EVT_IDLE
 ))
 
-2135 
-	`NRF_LOG_INFO
+2149 
+	`DEBUG_LOG
 ("Stop Adv");
 
-2136 
+2150 
 	`≠pAdvSt›
 ();
 
-2140 
+2154 
 bÀ_adv_evt
 )
 
-2142 
+2156 
 BLE_ADV_EVT_DIRECTED_HIGH_DUTY
 :
 
-2143 
-	`NRF_LOG_INFO
+2157 
+	`DEBUG_LOG
 ("Directedádvertising.");
 
-2144 
+2158 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87159,25 +87307,25 @@ BLE_ADV_EVT_DIRECTED_HIGH_DUTY
 BSP_INDICATE_ADVERTISING_DIRECTED
 );
 
-2145 
+2159 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2148 
+2162 
 BLE_ADV_EVT_FAST
 :
 
-2149 
-	`NRF_LOG_INFO
+2163 
+	`DEBUG_LOG
 ("Fastádvertising.");
 
-2150 #i‡
+2164 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-2151 
+2165 
 îr_code
  = 
 	`bÀ_advîtisög_advd©a_upd©e
@@ -87189,13 +87337,13 @@ m_•_advd©a_buf
 Ál£
 );
 
-2152 
+2166 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2154 
+2168 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87203,84 +87351,26 @@ m_•_advd©a_buf
 BSP_INDICATE_ADVERTISING
 );
 
-2155 
+2169 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2158 
+2172 
 BLE_ADV_EVT_SLOW
 :
 
-2159 
-	`NRF_LOG_INFO
+2173 
+	`DEBUG_LOG
 ("Slowádvertising.");
 
-2160 
+2174 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
 (
 BSP_INDICATE_ADVERTISING_SLOW
-);
-
-2161 
-	`APP_ERROR_CHECK
-(
-îr_code
-);
-
-2164 
-BLE_ADV_EVT_FAST_WHITELIST
-:
-
-2165 
-	`NRF_LOG_INFO
-("Fastádvertising with whitelist.");
-
-2166 
-îr_code
- = 
-	`b•_ödiˇti⁄_£t
-(
-BSP_INDICATE_ADVERTISING_WHITELIST
-);
-
-2167 
-	`APP_ERROR_CHECK
-(
-îr_code
-);
-
-2170 
-BLE_ADV_EVT_SLOW_WHITELIST
-:
-
-2171 
-	`NRF_LOG_INFO
-("Slowádvertising with whitelist.");
-
-2172 
-îr_code
- = 
-	`b•_ödiˇti⁄_£t
-(
-BSP_INDICATE_ADVERTISING_WHITELIST
-);
-
-2173 
-	`APP_ERROR_CHECK
-(
-îr_code
-);
-
-2174 
-îr_code
- = 
-	`bÀ_advîtisög_ª°¨t_wôhout_whôñi°
-(&
-m_advîtisög
 );
 
 2175 
@@ -87290,10 +87380,68 @@ m_advîtisög
 );
 
 2178 
-BLE_ADV_EVT_IDLE
+BLE_ADV_EVT_FAST_WHITELIST
 :
 
 2179 
+	`DEBUG_LOG
+("Fastádvertising with whitelist.");
+
+2180 
+îr_code
+ = 
+	`b•_ödiˇti⁄_£t
+(
+BSP_INDICATE_ADVERTISING_WHITELIST
+);
+
+2181 
+	`APP_ERROR_CHECK
+(
+îr_code
+);
+
+2184 
+BLE_ADV_EVT_SLOW_WHITELIST
+:
+
+2185 
+	`DEBUG_LOG
+("Slowádvertising with whitelist.");
+
+2186 
+îr_code
+ = 
+	`b•_ödiˇti⁄_£t
+(
+BSP_INDICATE_ADVERTISING_WHITELIST
+);
+
+2187 
+	`APP_ERROR_CHECK
+(
+îr_code
+);
+
+2188 
+îr_code
+ = 
+	`bÀ_advîtisög_ª°¨t_wôhout_whôñi°
+(&
+m_advîtisög
+);
+
+2189 
+	`APP_ERROR_CHECK
+(
+îr_code
+);
+
+2192 
+BLE_ADV_EVT_IDLE
+:
+
+2193 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87301,23 +87449,23 @@ BLE_ADV_EVT_IDLE
 BSP_INDICATE_IDLE
 );
 
-2180 
+2194 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2182 
+2196 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-2187 
+2201 
 BLE_ADV_EVT_WHITELIST_REQUEST
 :
 
-2189 
+2203 
 bÀ_g≠_addr_t
  
 whôñi°_addrs
@@ -87325,7 +87473,7 @@ whôñi°_addrs
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-2190 
+2204 
 bÀ_g≠_úk_t
  
 whôñi°_úks
@@ -87333,7 +87481,7 @@ whôñi°_úks
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-2191 
+2205 
 uöt32_t
  
 addr_˙t
@@ -87341,7 +87489,7 @@ addr_˙t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-2192 
+2206 
 uöt32_t
  
 úk_˙t
@@ -87349,7 +87497,7 @@ uöt32_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-2194 
+2208 
 îr_code
  = 
 	`pm_whôñi°_gë
@@ -87359,57 +87507,9 @@ whôñi°_addrs
 addr_˙t
 ,
 
-2195 
+2209 
 whôñi°_úks
 , &
-úk_˙t
-);
-
-2196 
-	`APP_ERROR_CHECK
-(
-îr_code
-);
-
-2197 
-	`NRF_LOG_DEBUG
-("pm_whitelist_getÑeturns %dáddr in whitelistánd %d irk whitelist",
-
-2198 
-addr_˙t
-,
-
-2199 
-úk_˙t
-);
-
-2202 
-	`idítôõs_£t
-(
-PM_PEER_ID_LIST_SKIP_NO_IRK
-);
-
-2205 
-îr_code
- = 
-	`bÀ_advîtisög_whôñi°_ª∂y
-(&
-m_advîtisög
-,
-
-2206 
-whôñi°_addrs
-,
-
-2207 
-addr_˙t
-,
-
-2208 
-whôñi°_úks
-,
-
-2209 
 úk_˙t
 );
 
@@ -87419,23 +87519,71 @@ whôñi°_úks
 îr_code
 );
 
-2214 
+2211 
+	`NRF_LOG_DEBUG
+("pm_whitelist_get %dáddránd %d irk ",
+
+2212 
+addr_˙t
+,
+
+2213 
+úk_˙t
+);
+
+2216 
+	`idítôõs_£t
+(
+PM_PEER_ID_LIST_SKIP_NO_IRK
+);
+
+2219 
+îr_code
+ = 
+	`bÀ_advîtisög_whôñi°_ª∂y
+(&
+m_advîtisög
+,
+
+2220 
+whôñi°_addrs
+,
+
+2221 
+addr_˙t
+,
+
+2222 
+whôñi°_úks
+,
+
+2223 
+úk_˙t
+);
+
+2224 
+	`APP_ERROR_CHECK
+(
+îr_code
+);
+
+2228 
 BLE_ADV_EVT_PEER_ADDR_REQUEST
 :
 
-2216 
+2230 
 pm_≥î_d©a_b⁄dög_t
  
 ≥î_b⁄dög_d©a
 ;
 
-2219 i‡(
+2233 i‡(
 m_≥î_id
  !
 PM_PEER_ID_INVALID
 )
 
-2222 
+2236 
 îr_code
  = 
 	`pm_≥î_d©a_b⁄dög_lﬂd
@@ -87445,25 +87593,25 @@ m_≥î_id
 ≥î_b⁄dög_d©a
 );
 
-2223 i‡(
+2237 i‡(
 îr_code
  !
 NRF_ERROR_NOT_FOUND
 )
 
-2225 
+2239 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2228 
+2242 
 	`idítôõs_£t
 (
 PM_PEER_ID_LIST_SKIP_ALL
 );
 
-2230 
+2244 
 bÀ_g≠_addr_t
  * 
 p_≥î_addr
@@ -87475,7 +87623,7 @@ p_≥î_addr
 id_addr_öfo
 );
 
-2231 
+2245 
 îr_code
  = 
 	`bÀ_advîtisög_≥î_addr_ª∂y
@@ -87485,17 +87633,17 @@ m_advîtisög
 p_≥î_addr
 );
 
-2232 
+2246 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2242 
+2256 
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\armgcc\ble_app_hids_mouse_gcc_nrf52.ld
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\armgcc\ble_app_hids_mouse_gcc_nrf52.ld
 
 3 
 	$SEARCH_DIR
@@ -88021,7 +88169,7 @@ INSERT
 	gINCLUDE
  "nrf_common.ld"
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\config\sdk_config.h
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\config\sdk_config.h
 
 43 #i‚de‡
 SDK_CONFIG_H
@@ -95801,7 +95949,7 @@ NRF_LOG_BACKEND_RTT_ENABLED
 
 7386 
 	#NRF_LOG_BACKEND_RTT_ENABLED
- 0
+ 1
 
 	)
 
@@ -95811,7 +95959,7 @@ NRF_LOG_BACKEND_RTT_TEMP_BUFFER_SIZE
 
 7395 
 	#NRF_LOG_BACKEND_RTT_TEMP_BUFFER_SIZE
- 64
+ 288
 
 	)
 
@@ -95841,7 +95989,7 @@ NRF_LOG_BACKEND_UART_ENABLED
 
 7419 
 	#NRF_LOG_BACKEND_UART_ENABLED
- 1
+ 0
 
 	)
 
@@ -100085,7 +100233,7 @@ POWER_CONFIG_SOC_OBSERVER_PRIO
 
 	)
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf.c
 
 40 
 	~"sdk_comm⁄.h
@@ -100249,7 +100397,7 @@ p_fmt
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf_format.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf_format.c
 
 59 
 	~"sdk_comm⁄.h
@@ -101417,7 +101565,7 @@ p_˘x
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT.c
 
 86 
 	~"SEGGER_RTT.h
@@ -105551,7 +105699,7 @@ Sètus
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_Syscalls_GCC.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_Syscalls_GCC.c
 
 66 
 	~"sdk_c⁄fig.h
@@ -105683,7 +105831,7 @@ SEGGER_RTT_Wrôe
 	gÀn
 ;
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_printf.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_printf.c
 
 64 
 	~"SEGGER_RTT.h
@@ -106821,7 +106969,7 @@ r
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\utf_converter\utf.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\utf_converter\utf.c
 
 3 
 	~"utf.h
@@ -108149,7 +108297,7 @@ ru√
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_clock.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_clock.c
 
 41 
 	~<n‹dic_comm⁄.h
@@ -110001,7 +110149,7 @@ NRF_CLOCK_LFCLK_Xèl
 NRF_CLOCK_LFCLK_Sy¡h
 
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_uart.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_uart.c
 
 41 
 	~"ƒf_drv_u¨t.h
@@ -110425,7 +110573,7 @@ NULL
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_clock.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_clock.c
 
 41 
 	~<ƒfx.h
@@ -111563,7 +111711,7 @@ NRF_CLOCK_LFCLK_Xèl
 NRF_CLOCK_LFCLK_Sy¡h
 
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_gpiote.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_gpiote.c
 
 40 
 	~<ƒfx.h
@@ -114557,7 +114705,7 @@ toggÀ_mask
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_power_clock.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_power_clock.c
 
 41 
 	~<ƒfx.h
@@ -114595,7 +114743,7 @@ NRFX_CLOCK_ENABLED
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uart.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uart.c
 
 41 
 	~<ƒfx.h
@@ -117247,7 +117395,7 @@ NRFX_UART0_INST_IDX
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uarte.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uarte.c
 
 41 
 	~<ƒfx.h
@@ -119685,7 +119833,7 @@ NRFX_UARTE1_INST_IDX
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\prs\nrfx_prs.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\prs\nrfx_prs.c
 
 41 
 	~<ƒfx.h
@@ -120181,7 +120329,7 @@ acquúed
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\gcc_startup_nrf52840.S
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\gcc_startup_nrf52840.S
 
 23 .
 sy¡ax
@@ -121461,7 +121609,7 @@ IRQ
 	gíd
 
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\nrf_common.ld
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\nrf_common.ld
 
 18 
 OUTPUT_FORMAT
@@ -121923,7 +122071,7 @@ FLASH
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\system_nrf52840.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\system_nrf52840.c
 
 26 
 	~<°döt.h
@@ -122893,7 +123041,7 @@ uöt32_t
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\orderProcessing.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\orderProcessing.c
 
 5 
 	~"°döt.h
@@ -123439,7 +123587,7 @@ uöt8_t
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\orderProcessing.h
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\orderProcessing.h
 
 5 #i‚de‡
 ORDERPROCESSING
@@ -123609,7 +123757,7 @@ buf„r
 buf„rSize
 );
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\systemTime.c
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\systemTime.c
 
 4 
 	~"°döt.h
@@ -124105,7 +124253,7 @@ timîCÆlbackHóp
 	}
 }
 
-	@C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\systemTime.h
+	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\systemTime.h
 
 5 #i‚de‡
 SYSTEMTIME_H_
@@ -124440,88 +124588,88 @@ timîCÆlbacT
 .
 0
 84
-10010
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_advertising\ble_advertising.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_bas\ble_bas.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_dis\ble_dis.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_hids\ble_hids.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_advdata.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_params.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_state.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_srv_common.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_gatt\nrf_ble_gatt.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_qwr\nrf_ble_qwr.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\auth_status_tracker.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatt_cache_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatts_cache_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\id_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_data_storage.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_database.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_id.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager_handler.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\pm_buffer.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_dispatcher.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_manager.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\boards\boards.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic\nrf_atomic.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_fifo\nrf_atfifo.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_flags\nrf_atflags.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\balloc\nrf_balloc.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp_btn_ble.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\button\app_button.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\crc16\crc16.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\experimental_section_vars\nrf_section_iter.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fds\fds.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage_sd.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\hardfault\hardfault_implementation.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_rtt.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_serial.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_uart.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_default_backends.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_frontend.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_str_formatter.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\memobj\nrf_memobj.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\pwr_mgmt\nrf_pwr_mgmt.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\ringbuf\nrf_ringbuf.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\scheduler\app_scheduler.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\sensorsim\sensorsim.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\strerror\nrf_strerror.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\timer\app_timer.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_handler_gcc.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_weak.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_util_platform.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\nrf_assert.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_ble.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_soc.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\main.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\armgcc\ble_app_hids_mouse_gcc_nrf52.ld
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\config\sdk_config.h
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf_format.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_Syscalls_GCC.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_printf.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\external\utf_converter\utf.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_clock.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_uart.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_clock.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_gpiote.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_power_clock.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uart.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uarte.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\prs\nrfx_prs.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\gcc_startup_nrf52840.S
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\nrf_common.ld
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\system_nrf52840.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\orderProcessing.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\orderProcessing.h
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\systemTime.c
-C:\Users\Alex\Desktop\nrf52840Mouse_15\nrf52840Mouse_15\systemTime.h
+9436
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_advertising\ble_advertising.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_bas\ble_bas.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_dis\ble_dis.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_services\ble_hids\ble_hids.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_advdata.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_params.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_conn_state.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\common\ble_srv_common.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_gatt\nrf_ble_gatt.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\nrf_ble_qwr\nrf_ble_qwr.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\auth_status_tracker.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatt_cache_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\gatts_cache_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\id_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_data_storage.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_database.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_id.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\peer_manager_handler.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\pm_buffer.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_dispatcher.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\peer_manager\security_manager.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\boards\boards.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic\nrf_atomic.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_fifo\nrf_atfifo.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\atomic_flags\nrf_atflags.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\balloc\nrf_balloc.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\bsp\bsp_btn_ble.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\button\app_button.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\crc16\crc16.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\experimental_section_vars\nrf_section_iter.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fds\fds.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\fstorage\nrf_fstorage_sd.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\hardfault\hardfault_implementation.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_rtt.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_serial.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_backend_uart.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_default_backends.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_frontend.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\log\src\nrf_log_str_formatter.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\memobj\nrf_memobj.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\pwr_mgmt\nrf_pwr_mgmt.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\ringbuf\nrf_ringbuf.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\scheduler\app_scheduler.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\sensorsim\sensorsim.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\strerror\nrf_strerror.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\timer\app_timer.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_handler_gcc.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_error_weak.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\app_util_platform.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\libraries\util\nrf_assert.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_ble.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\softdevice\common\nrf_sdh_soc.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\main.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\armgcc\ble_app_hids_mouse_gcc_nrf52.ld
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\examples\ble_peripheral\ble_app_hids_mouse\pca10056\s140\config\sdk_config.h
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\fprintf\nrf_fprintf_format.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_Syscalls_GCC.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\segger_rtt\SEGGER_RTT_printf.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\external\utf_converter\utf.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_clock.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\integration\nrfx\legacy\nrf_drv_uart.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_clock.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_gpiote.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_power_clock.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uart.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\nrfx_uarte.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\drivers\src\prs\nrfx_prs.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\gcc_startup_nrf52840.S
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\nrf_common.ld
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\modules\nrfx\mdk\system_nrf52840.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\orderProcessing.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\orderProcessing.h
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\systemTime.c
+C:\Private\Programing\Nordic\nrf52840mouse_sdk15\systemTime.h
 orderProcessing.h
 systemTime.h

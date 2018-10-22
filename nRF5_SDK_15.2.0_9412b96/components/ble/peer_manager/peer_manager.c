@@ -56,7 +56,7 @@
 #define NRF_LOG_MODULE_NAME peer_manager
 #if PM_LOG_ENABLED
     #define NRF_LOG_LEVEL       PM_LOG_LEVEL
-    #define NRF_LOG_INFO_COLOR  PM_LOG_INFO_COLOR
+    #define DEBUG_LOG_COLOR  PM_LOG_INFO_COLOR
     #define NRF_LOG_DEBUG_COLOR PM_LOG_DEBUG_COLOR
 #else
     #define NRF_LOG_LEVEL       0
