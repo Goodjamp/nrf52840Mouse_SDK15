@@ -11,6 +11,7 @@
 				<Option output="bin\Debug\nrf52840Mouse.elf" />
 				<Option object_output="obj\Debug\" />
 				<Option type="0" />
+				<Option create_hex="1" />
 				<Option compiler="armgcc_eb" />
 				<Device>
 					<Add option="$device=cortex-m4" />

@@ -1,4 +1,4 @@
-cscope 15 C:\Private\Programing\Nordic\nrf52840mouse_sdk15"               0000812173
+cscope 15 C:\Private\Programing\Nordic\nrf52840mouse_sdk15"               0000812169
 	@C:\Private\Programing\Nordic\nrf52840mouse_sdk15\nRF5_SDK_15.2.0_9412b96\components\ble\ble_advertising\ble_advertising.c
 
 40 
@@ -81291,103 +81291,67 @@ bÀ_g≠_adv_d©a_t
 p_√w_advd©a_buf
 );
 
-240 
+233 
 	~"fds.h
 "
 
-242 
+235 
 	~"‹dîPro˚ssög.h
 "
 
-243 
+236 
 	~"sy°emTime.h
 "
 
-245 
+238 
 	#DETECTED_DEV_FREE
  0xFF
 
 	)
 
-246 
+239 
 	#DIRECT_CONN_QUANTITY
  0x3
 
 	)
 
-248 
+241 
 	#FILE_ORDER
  0xBAAB
 
 	)
 
-249 
+242 
 	#RECORD_KEY_ORDER
  0xABBA
 
 	)
 
-251 
+244 
 	#APP_ADV_GLOBAL_INTERVAL
  0x0023
 
 	)
 
-252 
+245 
 	#APP_ADV_GLOBAL_TIMEOUT
- 6000
+ 18000
 
 	)
 
-255 
-	#APP_ADV_FAST_SCANING_INTERVAL
- 0x0023
-
-	)
-
-256 
-	#APP_ADV_FAST_SCANING_TIMEOUT
- 10
-
-	)
-
-258 
-	#APP_ADV_FAST_CONNECT_INTERVAL
- 0x0023
-
-	)
-
-259 
-	#APP_ADV_FAST_CONNECT_TIMEOUT
- 10
-
-	)
-
-261 
-	#APP_ADV_FAST_SEARCH_INTERVAL
- 0x0140
-
-	)
-
-262 
-	#APP_ADV_FAST_SEARCH_TIMEOUT
- 60
-
-	)
-
-264 
+247 
 	#ORDER_FLASHE_PAGE
  254
 
 	)
 
-266 
+249 
 	#ADV_RECONNECT_SCAN_TIMEOUT
  10000
 
 	)
 
-268 
+251 
 	#GET_PAGE_ADDRESS
 (
 X
@@ -81397,17 +81361,17 @@ uöt32_t
 
 	)
 
-271 
-	#DEBUG_ENABLEx
+254 
+	#DEBUG_ENABLE
 
 
 	)
 
-272 #ifde‡ 
+255 #ifde‡ 
 DEBUG_ENABLE
 
 
-273 
+256 
 	#DEBUG_LOG
 (...Ë
 	`NRF_LOG_INFO
@@ -81417,23 +81381,23 @@ __VA_ARGS__
 
 	)
 
-275 
+258 
 	#DEBUG_LOG
 (...)
 
 	)
 
-278 
+261 
 	#USER_INFO_ENABLE
 
 
 	)
 
-279 #ifde‡
+262 #ifde‡
 USER_INFO_ENABLE
 
 
-280 
+263 
 	#USER_INFO
 (...Ë
 	`NRF_LOG_INFO
@@ -81443,87 +81407,87 @@ __VA_ARGS__
 
 	)
 
-282 
+265 
 	#USER_INFO
 (...)
 
 	)
 
-291 
-	mADV_PROC_START_CONNECT
+271 
+	mADV_EVT_START_CONNECT
 ,
 
-292 
-	mADV_PROC_STOP_ADV
+272 
+	mADV_EVT_STOP_ADV
 ,
 
-293 
-	mADV_PROC_CONNECT_PREV
+273 
+	mADV_EVT_CONNECT_PREV
 ,
 
-294 
-	mADV_PROC_CONNECT
+274 
+	mADV_EVT_CONNECT
 
 
-295 }
+275 }
 	tƒfBLEAdvEvT
 ;
 
-299 
+279 
 	mDEV_SCANNING
 ,
 
-300 
+280 
 	mDEV_CONNECTION
 ,
 
-301 }
-	tc⁄nPha£
+281 }
+	tadvC⁄nPha£
 ;
 
-305 
+285 
 	mADV_IDLE
 ,
 
-306 
+286 
 	mADV_ADD_NEW
 ,
 
-307 
+287 
 	mADV_RECONNECT_SCAN
 ,
 
-308 
+288 
 	mADV_RECONNECT_CONNECT
 ,
 
-309 }
+289 }
 	tadvTy≥T
 ;
 
-313 
+293 
 	mCONNECTION_CONNECT
  = 0x0,
 
-314 
+294 
 	mCONNECTION_START_DISCONNECT
  = 0x1,
 
-315 
+295 
 	mCONNECTION_DISCONNECT
  = 0x2,
 
-316 }
+296 }
 	tc⁄√˘i⁄SèãT
 ;
 
-321 
-c⁄nPha£
+301 
+advC⁄nPha£
  
 	mpha£
 ;
 
-322 
+302 
 uöt16_t
  
 	mli°Dëe˘edDev
@@ -81531,25 +81495,25 @@ uöt16_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-323 
+303 
 uöt8_t
  
 	mqu™tôyDëe˘edDev
 ;
 
-324 
+304 
 uöt8_t
  
 	mc⁄√˘C¡
 ;
 
-325 
+305 
 uöt8_t
  
 	mlo›C¡
 ;
 
-326 
+306 
 pm_≥î_id_t
  
 	mm_whôñi°_≥îs
@@ -81557,17 +81521,17 @@ pm_≥î_id_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-327 
+307 
 uöt32_t
  
 	mm_whôñi°_≥î_˙t
 ;
 
-328 }
+308 }
 	gadvDúOrdC⁄nSèã
  =
 
-330 .
+310 .
 li°Dëe˘edDev
  = {[0 ... 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
@@ -81575,135 +81539,135 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 DETECTED_DEV_FREE
 }
 
-333 
+313 
 ‹dîT
  
 	gdevi˚Ordî
 ;
 
-334 
+314 
 timîCÆlbacT
  
 	g°›SˇnAdvTimîCÆlback
 ;
 
-335 
+315 
 timîCÆlbacT
  
 	gswôchToC⁄nAdvTimîCÆlback
 ;
 
-337 
+317 
 boﬁ
  
 	misDñëeB⁄ds
 ;
 
-338 
+318 
 boﬁ
  
 	misRólAdv
 ;
 
-339 
+319 
 boﬁ
  
 	misAµAdv
 ;
 
-340 
+320 
 boﬁ
  
 	misPªvC⁄n
 ;
 
-341 
+321 
 uöt16_t
  
 	mc⁄√˘i⁄H™dÀr
 ;
 
-342 
+322 
 advTy≥T
  
 	mcuºítAdvTy≥
 ;
 
-343 
+323 
 c⁄√˘i⁄SèãT
  
 	mc⁄√˘Sèã
 ;
 
-344 } 
+324 } 
 	g≠pSèã
  =
 
-346 .
+326 .
 isDñëeB⁄ds
  = 
 Ál£
 ,
 
-347 .
+327 .
 	gisRólAdv
  = 
 Ál£
 ,
 
-348 .
+328 .
 	gisAµAdv
  = 
 Ál£
 ,
 
-349 .
+329 .
 	gisPªvC⁄n
  = 
 Ál£
 ,
 
-350 .
+330 .
 	gc⁄√˘i⁄H™dÀr
  = 
 BLE_CONN_HANDLE_INVALID
 ,
 
-351 .
+331 .
 	gcuºítAdvTy≥
  = 
 ADV_IDLE
 ,
 
-352 .
+332 .
 	gc⁄√˘Sèã
  = 
 CONNECTION_DISCONNECT
 ,
 
-354 
+334 
 uöt32_t
  
 	gsˇnögTimeout
 ;
 
-356 
+337 
 boﬁ
  
 	$≠pAdvGëPªvC⁄n
 ()
 
-358  
+339  
 ≠pSèã
 .
 isPªvC⁄n
 ;
 
-359 
+340 
 	}
 }
 
-362 
+343 
 	$≠pAdvSëPªvC⁄n
 (
 boﬁ
@@ -81711,7 +81675,7 @@ boﬁ
 ¥evC⁄nSë
 )
 
-364 
+345 
 ≠pSèã
 .
 isPªvC⁄n
@@ -81719,43 +81683,43 @@ isPªvC⁄n
 ¥evC⁄nSë
 ;
 
-365 
+346 
 	}
 }
 
-368 
+349 
 advTy≥T
  
 	$≠pAdvGëCuºítTy≥
 ()
 
-370  
+351  
 ≠pSèã
 .
 cuºítAdvTy≥
 ;
 
-371 
+352 
 	}
 }
 
-374 
+355 
 boﬁ
  
 	$≠pAdvGëSèã
 ()
 
-376  
+357  
 ≠pSèã
 .
 isAµAdv
 ;
 
-377 
+358 
 	}
 }
 
-380 
+361 
 	$≠pAdvSëRólSèã
 (
 boﬁ
@@ -81763,7 +81727,7 @@ boﬁ
 °©e
 )
 
-382 
+363 
 ≠pSèã
 .
 isRólAdv
@@ -81771,11 +81735,11 @@ isRólAdv
 °©e
 ;
 
-383 
+364 
 	}
 }
 
-386 
+367 
 	$≠pC⁄√˘SëSèã
 (
 c⁄√˘i⁄SèãT
@@ -81787,13 +81751,13 @@ uöt16_t
 c⁄√˘i⁄H™dÀr
 )
 
-388 
+369 
 ≠pSèã
 .
 c⁄√˘i⁄H™dÀr
  = connectionHandler;
 
-389 
+370 
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81801,17 +81765,17 @@ c⁄√˘Sèã
 c⁄nSèã
 ;
 
-390 
+371 
 	}
 }
 
-393 
+374 
 uöt32_t
  
 	$≠pGëQu™tôyBLEPìrs
 ()
 
-395 
+376 
 pm_≥î_id_t
  
 ≥îLi°
@@ -81819,13 +81783,13 @@ pm_≥î_id_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-396 
+377 
 uöt32_t
  
 qu™tôyPìrs
  = 0;
 
-397 
+378 
 	`mem£t
 (
 ≥îLi°
@@ -81833,7 +81797,7 @@ qu™tôyPìrs
 PM_PEER_ID_INVALID
 , (peerList));
 
-398 
+379 
 qu™tôyPìrs
  = ((
 ≥îLi°
@@ -81841,7 +81805,7 @@ qu™tôyPìrs
 pm_≥î_id_t
 ));
 
-399 
+380 
 	`≥î_li°_gë
 (
 ≥îLi°
@@ -81849,19 +81813,19 @@ pm_≥î_id_t
 qu™tôyPìrs
 );
 
-400  
+381  
 qu™tôyPìrs
 ;
 
-401 
+382 
 	}
 }
 
-403 
+385 
 	$≠pUpd©eBLELi°Pìrs
 ()
 
-405 
+387 
 	`mem£t
 (
 advDúOrdC⁄nSèã
@@ -81871,7 +81835,7 @@ m_whôñi°_≥îs
 PM_PEER_ID_INVALID
 , (advDirOrdConnState.m_whitelist_peers));
 
-406 
+388 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
@@ -81881,7 +81845,7 @@ m_whôñi°_≥îs
 pm_≥î_id_t
 );
 
-407 
+389 
 	`≥î_li°_gë
 (
 advDúOrdC⁄nSèã
@@ -81891,7 +81855,7 @@ m_whôñi°_≥îs
 m_whôñi°_≥î_˙t
 );
 
-408 
+390 
 uöt32_t
  
 ˙t
@@ -81901,7 +81865,7 @@ advDúOrdC⁄nSèã
 m_whôñi°_≥î_˙t
 ; cnt++)
 
-410 
+392 
 	`DEBUG_LOG
 ("Pì∏ID %d", 
 advDúOrdC⁄nSèã
@@ -81911,21 +81875,21 @@ m_whôñi°_≥îs
 ˙t
 ]);
 
-412 
+394 
 	}
 }
 
-415 
+397 
 	$≠pDisc⁄√˘
 ()
 
-417 
+399 
 ªt_code_t
  
 ªt
 ;
 
-418 if(
+400 if(
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81933,15 +81897,15 @@ c⁄√˘Sèã
 CONNECTION_CONNECT
 )
 
-420 
+402 
 	`DEBUG_LOG
 ("DISCONNECT: disconnected");
 
-423 
+405 
 	`DEBUG_LOG
 ("DISCONNECT: start disconnect");
 
-424 
+406 
 ≠pSèã
 .
 c⁄√˘Sèã
@@ -81949,7 +81913,7 @@ c⁄√˘Sèã
 CONNECTION_START_DISCONNECT
 ;
 
-425 
+407 
 ≠pSèã
 .
 isRólAdv
@@ -81957,7 +81921,7 @@ isRólAdv
 åue
 ;
 
-426 
+408 
 ªt
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -81969,51 +81933,51 @@ c⁄√˘i⁄H™dÀr
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-427 
+409 
 	`DEBUG_LOG
 ("DISCONNECT:Ñë = %d", 
 ªt
 );
 
-428 
+410 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-429 
+411 
 	`DEBUG_LOG
 ("DISCONNECT: ok");
 
-430 
+412 
 	}
 }
 
-433 
+415 
 	$≠pAdvSt›
 ()
 
-435 
+417 
 ªt_code_t
  
 ªt
 ;
 
-436 
+418 
 	`DEBUG_LOG
 ("ADV STOP:");
 
-437 
+419 
 ≠pSèã
 .
 c⁄√˘Sèã
 )
 
-439 
+421 
 CONNECTION_CONNECT
 :
 
-440 
+422 
 ≠pSèã
 .
 isAµAdv
@@ -82021,15 +81985,15 @@ isAµAdv
 Ál£
 ;
 
-441 
+423 
 	`DEBUG_LOG
 ("ADV STOP:álready stoped");
 
-443 
+425 
 CONNECTION_START_DISCONNECT
 :
 
-444 
+426 
 ≠pSèã
 .
 isAµAdv
@@ -82037,15 +82001,15 @@ isAµAdv
 Ál£
 ;
 
-445 
+427 
 	`DEBUG_LOG
 ("ADV STOP: disconnectedÖrocess");
 
-447 
+429 
 CONNECTION_DISCONNECT
 :
 
-448 
+430 
 ≠pSèã
 .
 isAµAdv
@@ -82053,17 +82017,17 @@ isAµAdv
 Ál£
 ;
 
-449 if(!
+431 if(!
 ≠pSèã
 .
 isRólAdv
 )
 
-451 
+433 
 	`DEBUG_LOG
 ("ADV STOP: current stop");
 
-454 
+436 
 ≠pSèã
 .
 isRólAdv
@@ -82071,7 +82035,7 @@ isRólAdv
 Ál£
 ;
 
-455 
+437 
 ªt
  = 
 	`sd_bÀ_g≠_adv_°›
@@ -82081,51 +82045,51 @@ m_advîtisög
 adv_h™dÀ
 );
 
-457 
+439 
 	`DEBUG_LOG
 ("ADV STOP:Ñë = %d", 
 ªt
 );
 
-458 
+440 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-459 
+441 
 	`DEBUG_LOG
 ("ADV STOP: ok");
 
-464 
+446 
 	`DEBUG_LOG
 ("ADV STOP: ok");
 
-465 
+447 
 	}
 }
 
-468 
+450 
 	$≠pAdvSèπ
 ()
 
-470 
+452 
 ªt_code_t
  
 ªt
 ;
 
-471 
+453 
 ≠pSèã
 .
 c⁄√˘Sèã
 )
 
-473 
+455 
 CONNECTION_CONNECT
 :
 
-475 
+457 
 ≠pSèã
 .
 isAµAdv
@@ -82133,19 +82097,19 @@ isAµAdv
 åue
 ;
 
-476 
+458 
 	`DEBUG_LOG
 ("ADV START: disconnect connection");
 
-478 
+459 
 	`≠pDisc⁄√˘
 ();
 
-480 
+461 
 CONNECTION_START_DISCONNECT
 :
 
-481 
+462 
 ≠pSèã
 .
 isAµAdv
@@ -82153,25 +82117,25 @@ isAµAdv
 åue
 ;
 
-482 
+463 
 	`DEBUG_LOG
 ("ADV START: wait disconnect");
 
-484 
+465 
 CONNECTION_DISCONNECT
 :
 
-485 if(
+466 if(
 ≠pSèã
 .
 isRólAdv
 )
 
-487 
+468 
 	`DEBUG_LOG
 ("ADV START:Ñunning state");
 
-490 
+471 
 ≠pSèã
 .
 isAµAdv
@@ -82179,7 +82143,7 @@ isAµAdv
 åue
 ;
 
-491 
+472 
 ≠pSèã
 .
 isRólAdv
@@ -82187,11 +82151,11 @@ isRólAdv
 åue
 ;
 
-492 
+473 
 	`DEBUG_LOG
 ("ADV START: start");
 
-493 
+474 
 ªt
  = 
 	`bÀ_advîtisög_°¨t
@@ -82201,27 +82165,27 @@ m_advîtisög
 BLE_ADV_MODE_FAST
 );
 
-494 
+475 
 	`DEBUG_LOG
 ("ADV START:Ñë = %d", 
 ªt
 );
 
-495 
+476 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-499 
+480 
 	`DEBUG_LOG
 ("ADV START: ok");
 
-500 
+481 
 	}
 }
 
-541 
+522 
 	$advîtisög_öô
 (
 uöt16_t
@@ -82235,37 +82199,37 @@ boﬁ
 whôñi°E«bÀd
 )
 
-543 
+524 
 ªt_code_t
  
 îr_code
 ;
 
-544 
+525 
 uöt8_t
  
 adv_Êags
 ;
 
-545 
+526 
 bÀ_advîtisög_öô_t
  
 öô
 ;
 
-547 
+528 
 	`mem£t
 (&
 öô
 , 0, (init));
 
-549 
+530 
 adv_Êags
  = 
 BLE_GAP_ADV_FLAGS_LE_ONLY_LIMITED_DISC_MODE
 ;
 
-550 
+531 
 öô
 .
 advd©a
@@ -82275,7 +82239,7 @@ advd©a
 BLE_ADVDATA_FULL_NAME
 ;
 
-551 
+532 
 öô
 .
 advd©a
@@ -82285,7 +82249,7 @@ advd©a
 åue
 ;
 
-552 
+533 
 öô
 .
 advd©a
@@ -82295,7 +82259,7 @@ advd©a
 adv_Êags
 ;
 
-553 
+534 
 öô
 .
 advd©a
@@ -82307,7 +82271,7 @@ uuid_˙t
 m_adv_uuids
 ) / (m_adv_uuids[0]);
 
-554 
+535 
 öô
 .
 advd©a
@@ -82319,7 +82283,7 @@ p_uuids
 m_adv_uuids
 ;
 
-556 
+537 
 öô
 .
 c⁄fig
@@ -82329,7 +82293,7 @@ bÀ_adv_⁄_disc⁄√˘_dißbÀd
 Ál£
 ;
 
-557 
+538 
 öô
 .
 c⁄fig
@@ -82339,7 +82303,7 @@ bÀ_adv_whôñi°_íabÀd
 whôñi°E«bÀd
 ;
 
-558 
+539 
 öô
 .
 c⁄fig
@@ -82349,7 +82313,7 @@ bÀ_adv_dúe˘ed_high_duty_íabÀd
 Ál£
 ;
 
-559 
+540 
 öô
 .
 c⁄fig
@@ -82359,7 +82323,7 @@ bÀ_adv_dúe˘ed_íabÀd
 Ál£
 ;
 
-560 
+541 
 öô
 .
 c⁄fig
@@ -82367,7 +82331,7 @@ c⁄fig
 bÀ_adv_dúe˘ed_öãrvÆ
  = 0;
 
-561 
+542 
 öô
 .
 c⁄fig
@@ -82375,7 +82339,7 @@ c⁄fig
 bÀ_adv_dúe˘ed_timeout
  = 0;
 
-562 
+543 
 öô
 .
 c⁄fig
@@ -82385,7 +82349,7 @@ bÀ_adv_Á°_íabÀd
 åue
 ;
 
-563 
+544 
 öô
 .
 c⁄fig
@@ -82395,7 +82359,7 @@ bÀ_adv_Á°_öãrvÆ
 öãrvÆMSec⁄ds
 ;
 
-564 
+545 
 öô
 .
 c⁄fig
@@ -82405,7 +82369,7 @@ bÀ_adv_Á°_timeout
 ≥riodSec⁄ds
 ;
 
-565 
+546 
 öô
 .
 c⁄fig
@@ -82415,7 +82379,7 @@ bÀ_adv_¶ow_íabÀd
 Ál£
 ;
 
-566 
+547 
 öô
 .
 c⁄fig
@@ -82425,7 +82389,7 @@ bÀ_adv_¶ow_öãrvÆ
 APP_ADV_SLOW_INTERVAL
 ;
 
-567 
+548 
 öô
 .
 c⁄fig
@@ -82435,7 +82399,7 @@ bÀ_adv_¶ow_timeout
 APP_ADV_SLOW_DURATION
 ;
 
-569 
+550 
 öô
 .
 evt_h™dÀr
@@ -82443,7 +82407,7 @@ evt_h™dÀr
 ⁄_adv_evt
 ;
 
-570 
+551 
 öô
 .
 îr‹_h™dÀr
@@ -82451,7 +82415,7 @@ evt_h™dÀr
 bÀ_advîtisög_îr‹_h™dÀr
 ;
 
-572 
+553 
 îr_code
  = 
 	`bÀ_advîtisög_öô
@@ -82461,13 +82425,13 @@ m_advîtisög
 öô
 );
 
-573 
+554 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-575 
+556 
 	`bÀ_advîtisög_c⁄n_cfg_èg_£t
 (&
 m_advîtisög
@@ -82475,11 +82439,11 @@ m_advîtisög
 APP_BLE_CONN_CFG_TAG
 );
 
-577 #i‡
+558 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-578 
+559 
 öô
 .
 advd©a
@@ -82489,7 +82453,7 @@ p_m™uf_•ecific_d©a
 m_•_m™uf_advd©a
 ;
 
-579 
+560 
 	`•_advd©a_¥ï¨e
 (&
 öô
@@ -82499,27 +82463,27 @@ advd©a
 m_•_advd©a_buf
 );
 
-581 
+562 
 	}
 }
 
-584 
+565 
 boﬁ
  
-	$≠pPìrGëIdInLi°
+	$≠pPìrGëPìrIdInLi°
 (
 pm_≥î_id_t
  
 ≥îIdIn
 )
 
-586 
+567 
 pm_≥î_id_t
  
 ≥î_id
 ;
 
-588 
+569 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
@@ -82527,38 +82491,38 @@ pm_≥î_id_t
 PM_PEER_ID_INVALID
 );
 
-590 
+571 
 ≥î_id
  !
 PM_PEER_ID_INVALID
  )
 
-592 if–
+573 if–
 ≥îIdIn
  =
 ≥î_id
 )
 
-594  
+575  
 åue
 ;
 
-596 
+577 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
 (peer_id);
 
-598  
+579  
 Ál£
 ;
 
-599 
+580 
 	}
 }
 
-602 
-	$≠pAdvSëSèπ
+583 
+	$≠pAdvRun
 (
 advTy≥T
  
@@ -82569,25 +82533,25 @@ uöt16_t
 ≥îId
 )
 
-604 
+585 
 ªt_code_t
  
 ªt
 ;
 
-606 
+587 
 advTy≥
 )
 
-608 
+589 
 ADV_IDLE
 :
 
-609 
-	`DEBUG_LOG
-("ADV idle");
+590 
+	`USER_INFO
+("ADV go idle");
 
-610 
+591 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82595,25 +82559,25 @@ cuºítAdvTy≥
 ADV_IDLE
 ;
 
-611 
+592 
 	`≠pAdvSt›
 ();
 
-613 
+594 
 ADV_ADD_NEW
 :
 
-614 
-	`DEBUG_LOG
+595 
+	`USER_INFO
 ("ADVáddÇew");
 
-615 
+596 
 	`timîSt›
 (
 °›SˇnAdvTimîCÆlback
 );
 
-616 
+597 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82621,35 +82585,39 @@ cuºítAdvTy≥
 ADV_ADD_NEW
 ;
 
-617 
+598 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  = 0;
 
-619 
+600 
 ADV_RECONNECT_SCAN
 :
 
-620 
+601 
+	`USER_INFO
+("ADV start scan");
+
+602 
 	`≠pUpd©eBLELi°Pìrs
 ();
 
-622 
-	`DEBUG_LOG
-("AdvÑec⁄: %d", 
+603 
+	`USER_INFO
+("Numbî o‡≥î = %d", 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
 );
 
-624 if(
+604 if(
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  == 0)
 
-626 
+606 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82657,13 +82625,13 @@ cuºítAdvTy≥
 ADV_ADD_NEW
 ;
 
-630 
+610 
 advDúOrdC⁄nSèã
 .
 lo›C¡
  = 0;
 
-631 
+611 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82671,7 +82639,7 @@ cuºítAdvTy≥
 ADV_RECONNECT_SCAN
 ;
 
-632 
+612 
 	`timîRun
 (
 °›SˇnAdvTimîCÆlback
@@ -82679,17 +82647,21 @@ ADV_RECONNECT_SCAN
 ADV_RECONNECT_SCAN_TIMEOUT
 );
 
-633 
+613 
 sˇnögTimeout
  = 
 	`gëTime
 ();
 
-636 
+616 
 ADV_RECONNECT_CONNECT
 :
 
-637 
+617 
+	`USER_INFO
+("ADV start connect ");
+
+618 
 ≠pSèã
 .
 cuºítAdvTy≥
@@ -82697,11 +82669,7 @@ cuºítAdvTy≥
 ADV_RECONNECT_CONNECT
 ;
 
-639 
-	`DEBUG_LOG
-("AdvÑecon conn");
-
-640 
+620 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥îs
@@ -82709,17 +82677,17 @@ m_whôñi°_≥îs
 ≥îId
 ;
 
-641 
+621 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  = 1;
 
-646 
+626 
 	`≠pAdvSt›
 ();
 
-648 
+628 
 ªt
  = 
 	`pm_whôñi°_£t
@@ -82733,13 +82701,13 @@ NULL
 m_whôñi°_≥îs
 ),
 
-649 (
+629 (
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-650 
+630 
 ªt
  = 
 	`pm_devi˚_idítôõs_li°_£t
@@ -82753,40 +82721,40 @@ NULL
 m_whôñi°_≥îs
 ),
 
-651 (
+631 (
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-652 
+632 
 	`DEBUG_LOG
 ("ªà%d", 
 ªt
 );
 
-654 i‡(
+634 i‡(
 ªt
  !
 NRF_ERROR_NOT_SUPPORTED
 )
 
-656 
+636 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-658 
+638 
 	`≠pAdvSèπ
 ();
 
-659 
+639 
 	}
 }
 
-662 
-	$≠pAdvAddNew
+642 
+	$≠pAdvIdÀProc
 (
 ƒfBLEAdvEvT
  
@@ -82797,47 +82765,67 @@ pm_≥î_id_t
 ≥îId
 )
 
-664 
-öEv
-)
-
-666 
-ADV_PROC_START_CONNECT
-:
-
-668 
-ADV_PROC_STOP_ADV
-:
-
-670 
-ADV_PROC_CONNECT_PREV
-:
-
-671 
-	`DEBUG_LOG
-("Disconnect old dev");
-
-672 
-	`≠pDisc⁄√˘
-();
-
-674 
-ADV_PROC_CONNECT
-:
-
-675 
-	`DEBUG_LOG
-("No device onÅheÜist");
-
-676 
+644 
 	`≠pAdvSt›
 ();
 
-679 
+645 
 	}
 }
 
-682 
+648 
+	$≠pAdvAddNewProc
+(
+ƒfBLEAdvEvT
+ 
+öEv
+, 
+pm_≥î_id_t
+ 
+≥îId
+)
+
+650 
+öEv
+)
+
+652 
+ADV_EVT_START_CONNECT
+:
+
+654 
+ADV_EVT_STOP_ADV
+:
+
+656 
+ADV_EVT_CONNECT_PREV
+:
+
+657 
+	`DEBUG_LOG
+("Disconnect old device");
+
+658 
+	`≠pDisc⁄√˘
+();
+
+660 
+ADV_EVT_CONNECT
+:
+
+661 
+	`DEBUG_LOG
+("New dev");
+
+662 
+	`≠pAdvSt›
+();
+
+665 
+	}
+}
+
+668 
 	$≠pAdvDúe˘Proc
 (
 ƒfBLEAdvEvT
@@ -82849,51 +82837,51 @@ pm_≥î_id_t
 ≥îId
 )
 
-684 
+670 
 ªt_code_t
  
 îr_code
 ;
 
-685 
+671 
 öEv
 )
 
-687 
-ADV_PROC_START_CONNECT
+673 
+ADV_EVT_START_CONNECT
 :
 
-688 
+674 
 	`DEBUG_LOG
 ("CONNECT");
 
-689 
+675 
 advDúOrdC⁄nSèã
 .
 pha£
 )
 
-691 
+677 
 DEV_SCANNING
 :
 
-693 
+679 
 uöt8_t
  
 pos
 ;
 
-695 
+681 
 	`DEBUG_LOG
 ("_SCANNING_");
 
-697 
+683 
 uöt8_t
  
 ˙t
  = 0;
 
-698 ; 
+684 ; 
 ˙t
  < 
 advDúOrdC⁄nSèã
@@ -82901,7 +82889,7 @@ advDúOrdC⁄nSèã
 m_whôñi°_≥î_˙t
 ; cnt++)
 
-700 if(
+686 if(
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥îs
@@ -82911,7 +82899,7 @@ m_whôñi°_≥îs
 ≥îId
 )
 
-705 if(
+691 if(
 ˙t
  < 
 advDúOrdC⁄nSèã
@@ -82919,7 +82907,7 @@ advDúOrdC⁄nSèã
 m_whôñi°_≥î_˙t
 )
 
-707 
+693 
 	`DEBUG_LOG
 ("ªmovêdev %d", 
 advDúOrdC⁄nSèã
@@ -82929,7 +82917,7 @@ m_whôñi°_≥îs
 ˙t
 ] );
 
-708 ; 
+694 ; 
 ˙t
  < (
 advDúOrdC⁄nSèã
@@ -82937,7 +82925,7 @@ advDúOrdC⁄nSèã
 m_whôñi°_≥î_˙t
  - 1); cnt++)
 
-710 
+696 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥îs
@@ -82945,13 +82933,13 @@ m_whôñi°_≥îs
 ˙t
 ] =ádvDirOrdConnState.m_whitelist_peers[cnt+1];
 
-712 
+698 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
 --;
 
-713 
+699 
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥îs
@@ -82961,7 +82949,7 @@ m_whôñi°_≥îs
 PM_PEER_ID_INVALID
 ;
 
-714 
+700 
 	`DEBUG_LOG
 ("PDL qu™ %d", 
 advDúOrdC⁄nSèã
@@ -82969,7 +82957,7 @@ advDúOrdC⁄nSèã
 m_whôñi°_≥î_˙t
 );
 
-716 
+702 
 îr_code
  = 
 	`pm_whôñi°_£t
@@ -82983,19 +82971,19 @@ NULL
 m_whôñi°_≥îs
 ),
 
-717 (
+703 (
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-718 
+704 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-721 
+707 
 îr_code
  = 
 	`pm_devi˚_idítôõs_li°_£t
@@ -83009,29 +82997,29 @@ NULL
 m_whôñi°_≥îs
 ),
 
-722 (
+708 (
 advDúOrdC⁄nSèã
 .
 m_whôñi°_≥î_˙t
  == 0 ) ? (0) : (advDirOrdConnState.m_whitelist_peer_cnt));
 
-723 
+709 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-726 
+712 
 	`≠pDisc⁄√˘
 ();
 
-727 
+713 
 	`DEBUG_LOG
 ("--------Dev i¿li° ? %d", 
 ≥îId
 );
 
-728 if(
+714 if(
 	`‹dîGëPos
 (
 devi˚Ordî
@@ -83041,7 +83029,7 @@ devi˚Ordî
 pos
 ))
 
-730 
+716 
 	`DEBUG_LOG
 ("Dev föd %d %d ", 
 ≥îId
@@ -83049,7 +83037,7 @@ pos
 pos
 );
 
-731 if(
+717 if(
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83059,13 +83047,13 @@ pos
 DETECTED_DEV_FREE
 )
 
-733 
+719 
 	`USER_INFO
 ("Devi˚ föd,Öì∏%d", 
 ≥îId
 );
 
-734 
+720 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83075,13 +83063,13 @@ pos
 ≥îId
 ;
 
-735 
+721 
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
 ++;
 
-738 if(
+724 if(
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
@@ -83091,7 +83079,7 @@ qu™tôyDëe˘edDev
 devi˚Ordî
 ))
 
-740 
+726 
 	`USER_INFO
 ("TŸÆ sˇ¿timê(msË%d", 
 	`gëTime
@@ -83099,89 +83087,99 @@ devi˚Ordî
 sˇnögTimeout
 );
 
-741 
+727 
 	`≠pAdvSt›
 ();
 
-745 
+731 
 DEV_CONNECTION
 :
 
-747 
+733 
 	`DEBUG_LOG
 ("_CONNECTION_");
 
-748 
+734 
+	`USER_INFO
+("Devi˚ c⁄√˘ed,Öì∏%d", 
+≥îId
+);
+
+735 
 	`≠pAdvSt›
 ();
 
-752 
-ADV_PROC_STOP_ADV
+739 
+ADV_EVT_STOP_ADV
 :
 
-753 
+740 
 	`DEBUG_LOG
 ("STOP_ADV");
 
-754 
+741 
 advDúOrdC⁄nSèã
 .
 pha£
 )
 
-756 
+743 
 DEV_SCANNING
 :
 
-758 
+745 
 uöt8_t
  
 ˙t_1
  = 0;
 
-759 
+746 
 uöt8_t
  
 ˙t_2
  = 0;
 
-760 
+747 
 	`DEBUG_LOG
 ("_SCANNING_");
 
-761 
-	`DEBUG_LOG
-("Föd %d", 
+748 
+	`USER_INFO
+("Stop scanning ");
+
+749 
+	`USER_INFO
+("Föd devi˚†%d", 
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
 );
 
-763 if(
+751 if(
 advDúOrdC⁄nSèã
 .
 qu™tôyDëe˘edDev
  == 0)
 
-765 
-	`≠pAdvSëSèπ
+753 
+	`≠pAdvRun
 (
 ADV_RECONNECT_SCAN
  , 0);
 
-769 
+757 
 ˙t_1
  = 0; c¡_1 < 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
  - 1; cnt_1++)
 
-771 
+759 
 ˙t_2
  = 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 -1; cnt_2 > 0; cnt_2--)
 
-773 if(
+761 if(
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83191,7 +83189,7 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
  &&
 
-774 
+762 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83201,7 +83199,7 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 )
 
-776 
+764 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83209,7 +83207,7 @@ li°Dëe˘edDev
 ˙t_2
  - 1] =ádvDirOrdConnState.listDetectedDev[cnt_2 ];
 
-777 
+765 
 advDúOrdC⁄nSèã
 .
 li°Dëe˘edDev
@@ -83219,18 +83217,18 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 ;
 
-781 
+769 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
  = 0;
 
-782 
+770 
 	`DEBUG_LOG
 ("+++++++++");
 
-783 
-	`≠pAdvSëSèπ
+771 
+	`≠pAdvRun
 (
 ADV_RECONNECT_CONNECT
  , 
@@ -83241,11 +83239,11 @@ li°Dëe˘edDev
 c⁄√˘C¡
 ]);
 
-784 
+772 
 	`DEBUG_LOG
 ("---------");
 
-785 
+773 
 advDúOrdC⁄nSèã
 .
 pha£
@@ -83253,15 +83251,15 @@ pha£
 DEV_CONNECTION
 ;
 
-788 
+776 
 DEV_CONNECTION
 :
 
-793 
+781 
 	`DEBUG_LOG
 ("_CONNECTION_");
 
-794 if(
+782 if(
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
@@ -83269,13 +83267,13 @@ c⁄√˘C¡
 qu™tôyDëe˘edDev
 )
 
-797 
+785 
 advDúOrdC⁄nSèã
 .
 lo›C¡
 ++;
 
-799 if(
+787 if(
 advDúOrdC⁄nSèã
 .
 lo›C¡
@@ -83283,11 +83281,11 @@ lo›C¡
 DIRECT_CONN_QUANTITY
 )
 
-805 
+793 
 	`≠pUpd©eBLELi°Pìrs
 ();
 
-806 
+794 
 	`mem£t
 (
 advDúOrdC⁄nSèã
@@ -83297,13 +83295,13 @@ li°Dëe˘edDev
 DETECTED_DEV_FREE
 , (advDirOrdConnState.listDetectedDev));
 
-807 
+795 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
  = 0;
 
-808 
+796 
 advDúOrdC⁄nSèã
 .
 pha£
@@ -83311,20 +83309,20 @@ pha£
 DEV_SCANNING
 ;
 
-809 
-	`≠pAdvSëSèπ
+797 
+	`≠pAdvRun
 (
 ADV_RECONNECT_SCAN
 , 0);
 
-812 
+800 
 advDúOrdC⁄nSèã
 .
 c⁄√˘C¡
 ++;
 
-813 
-	`≠pAdvSëSèπ
+801 
+	`≠pAdvRun
 (
 ADV_RECONNECT_CONNECT
 , 
@@ -83335,11 +83333,11 @@ li°Dëe˘edDev
 c⁄√˘C¡
 ]);
 
-820 
+808 
 	}
 }
 
-823 
+811 
 	$≠pAdvPro˚ssög
 (
 ƒfBLEAdvEvT
@@ -83351,37 +83349,49 @@ pm_≥î_id_t
 ≥îId
 )
 
-825 
+813 
 ≠pSèã
 .
 cuºítAdvTy≥
 )
 
-827 
+815 
+ADV_IDLE
+:
+
+816 
+	`≠pAdvIdÀProc
+(
+öEv
+, 
+≥îId
+);
+
+818 
 ADV_ADD_NEW
 :
 
-828 
+819 
 	`DEBUG_LOG
 ("ADV_ADD_NEW");
 
-829 
-	`≠pAdvAddNew
+820 
+	`≠pAdvAddNewProc
 (
 öEv
 , 
 ≥îId
 );
 
-831 
+822 
 ADV_RECONNECT_SCAN
 :
 
-832 
+823 
 	`DEBUG_LOG
 ("ADV_SCAN");
 
-833 
+824 
 	`≠pAdvDúe˘Proc
 (
 öEv
@@ -83389,15 +83399,15 @@ ADV_RECONNECT_SCAN
 ≥îId
 );
 
-835 
+826 
 ADV_RECONNECT_CONNECT
 :
 
-836 
+827 
 	`DEBUG_LOG
 ("ADV_CONNECT");
 
-837 
+828 
 	`≠pAdvDúe˘Proc
 (
 öEv
@@ -83405,77 +83415,73 @@ ADV_RECONNECT_CONNECT
 ≥îId
 );
 
-840 
-	`DEBUG_LOG
-("ADV_error");
-
-843 
+831 
 	}
 }
 
-846 
+834 
 	$≠pAdvSˇnSt›CB
 ()
 
-848 
+836 
 	`DEBUG_LOG
 ("Stop Scan");
 
-849 
+837 
 	`≠pAdvSt›
 ();
 
-850 
+838 
 	`≠pAdvPro˚ssög
 (
-ADV_PROC_STOP_ADV
+ADV_EVT_STOP_ADV
 , 0);
 
-851 
+839 
 	}
 }
 
-855 
+843 
 	$dñëe_b⁄ds
 ()
 
-857 
+845 
 ªt_code_t
  
 îr_code
 ;
 
-859 
+847 
 	`DEBUG_LOG
 ("Erase bonds!");
 
-861 
+849 
 îr_code
  = 
 	`pm_≥îs_dñëe
 ();
 
-862 
+850 
 	`DEBUG_LOG
 ("DELETE ERR %d", 
 îr_code
 );
 
-863 
+851 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-864 
+852 
 	}
 }
 
-867 
+855 
 	$≠pPro˚ssög
 ()
 
-870 if(
+858 if(
 ≠pSèã
 .
 isAµAdv
@@ -83483,21 +83489,21 @@ isAµAdv
 isRólAdv
 )
 
-872 if(
+860 if(
 ≠pSèã
 .
 isAµAdv
 )
 
-874 
+862 
 	`≠pAdvSèπ
 ();
 
-878 
+866 
 	`≠pAdvSt›
 ();
 
-882 if(
+870 if(
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -83507,7 +83513,7 @@ c⁄√˘Sèã
 CONNECTION_DISCONNECT
 )
 
-884 
+872 
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -83515,33 +83521,37 @@ isDñëeB⁄ds
 Ál£
 ;
 
-885 
+873 
 	`timîSt›
 (
 °›SˇnAdvTimîCÆlback
 );
 
-886 
+874 
 	`DEBUG_LOG
 ("Clear bonds");
 
-887 
-	`≠pAdvSëSèπ
+875 if(
+	`≠pGëQu™tôyBLEPìrs
+() == 0)
+
+879 
+	`dñëe_b⁄ds
+();
+
+880 
+	`≠pAdvRun
 (
 ADV_IDLE
 , 0);
 
-888 
-	`dñëe_b⁄ds
-();
-
-890 
+882 
 	`‹dîCÀ™
 (
 devi˚Ordî
 );
 
-891 
+883 
 	`‹dîWrôeFœsh
 (
 devi˚Ordî
@@ -83551,17 +83561,17 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-892 
+884 
 	`DEBUG_LOG
 ("NummÖìr†%d", 
 	`≠pGëQu™tôyBLEPìrs
 ());
 
-894 
+886 
 	}
 }
 
-897 
+889 
 	$ÊashMemWrôeByãs
 (
 uöt32_t
@@ -83575,19 +83585,19 @@ buf„r
 buf„rSize
 )
 
-899 
+891 
 fds_ªc‹d_t
  
 ªc‹d
 ;
 
-900 
+892 
 fds_ªc‹d_desc_t
  
 ªc‹d_desc
 ;
 
-902 
+894 
 ªc‹d
 .
 fûe_id
@@ -83595,7 +83605,7 @@ fûe_id
 FILE_ORDER
 ;
 
-903 
+895 
 ªc‹d
 .
 key
@@ -83603,7 +83613,7 @@ key
 RECORD_KEY_ORDER
 ;
 
-904 
+896 
 ªc‹d
 .
 d©a
@@ -83613,7 +83623,7 @@ p_d©a
 buf„r
 ;
 
-905 
+897 
 ªc‹d
 .
 d©a
@@ -83623,19 +83633,19 @@ d©a
 buf„rSize
 + 3) / 4;
 
-906 
+898 
 ªt_code_t
  
 ªt
 ;
 
-907 
+899 
 fds_föd_tokí_t
  
 ·ok
 ;
 
-910 
+902 
 	`mem£t
 (&
 ·ok
@@ -83643,7 +83653,7 @@ fds_föd_tokí_t
 fds_föd_tokí_t
 ));
 
-912 
+904 
 	`fds_ªc‹d_föd
 (
 FILE_ORDER
@@ -83657,7 +83667,7 @@ RECORD_KEY_ORDER
 FDS_SUCCESS
 )
 
-914 
+906 
 ªt
  = 
 	`fds_ªc‹d_dñëe
@@ -83665,13 +83675,13 @@ FDS_SUCCESS
 ªc‹d_desc
 );
 
-915 i‡(
+907 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-920 
+912 
 ªt
  = 
 	`fds_ªc‹d_wrôe
@@ -83681,17 +83691,17 @@ FDS_SUCCESS
 ªc‹d
 );
 
-921 i‡(
+913 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-925 
+917 
 	}
 }
 
-928 
+920 
 	$ÊashMemRódByãs
 (
 uöt32_t
@@ -83705,25 +83715,25 @@ buf„r
 buf„rSize
 )
 
-930 
+922 
 fds_Êash_ªc‹d_t
  
 Êash_ªc‹d
 ;
 
-931 
+923 
 fds_ªc‹d_desc_t
  
 ªc‹d_desc
 ;
 
-932 
+924 
 fds_föd_tokí_t
  
 ·ok
 ;
 
-935 
+927 
 	`mem£t
 (&
 ·ok
@@ -83731,7 +83741,7 @@ fds_föd_tokí_t
 fds_föd_tokí_t
 ));
 
-938 
+929 
 	`fds_ªc‹d_föd
 (
 FILE_ORDER
@@ -83745,11 +83755,11 @@ RECORD_KEY_ORDER
 FDS_SUCCESS
 )
 
-940 
+931 
 	`DEBUG_LOG
 ("Read start");
 
-941 i‡(
+932 i‡(
 	`fds_ªc‹d_›í
 (&
 ªc‹d_desc
@@ -83759,7 +83769,7 @@ FDS_SUCCESS
 FDS_SUCCESS
 )
 
-946 
+937 
 	`mem˝y
 (
 buf„r
@@ -83773,7 +83783,7 @@ p_d©a
 buf„rSize
 );
 
-949 i‡(
+940 i‡(
 	`fds_ªc‹d_˛o£
 (&
 ªc‹d_desc
@@ -83781,15 +83791,15 @@ buf„rSize
 FDS_SUCCESS
 )
 
-954 
+945 
 	`DEBUG_LOG
 ("Read End");
 
-955 
+946 
 	}
 }
 
-964 
+955 
 	$≥î_li°_gë
 (
 pm_≥î_id_t
@@ -83801,19 +83811,19 @@ uöt32_t
 p_size
 )
 
-966 
+957 
 pm_≥î_id_t
  
 ≥î_id
 ;
 
-967 
+958 
 uöt32_t
  
 ≥îs_to_c›y
 ;
 
-969 
+960 
 ≥îs_to_c›y
  = (*
 p_size
@@ -83821,13 +83831,13 @@ p_size
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ) ?
 
-970 *
+961 *
 p_size
  : 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-972 
+963 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
@@ -83835,11 +83845,11 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 PM_PEER_ID_INVALID
 );
 
-973 *
+964 *
 p_size
  = 0;
 
-975 (
+966 (
 ≥î_id
  !
 PM_PEER_ID_INVALID
@@ -83847,7 +83857,7 @@ PM_PEER_ID_INVALID
 ≥îs_to_c›y
 --))
 
-977 
+968 
 p_≥îs
 [(*
 p_size
@@ -83855,17 +83865,17 @@ p_size
 ≥î_id
 ;
 
-978 
+969 
 ≥î_id
  = 
 	`pm_√xt_≥î_id_gë
 (peer_id);
 
-980 
+971 
 	}
 }
 
-997 
+988 
 	$as£π_ƒf_ˇŒback
 (
 uöt16_t
@@ -83877,7 +83887,7 @@ uöt8_t
 p_fûe_«me
 )
 
-999 
+990 
 	`≠p_îr‹_h™dÀr
 (
 DEAD_BEEF
@@ -83887,11 +83897,11 @@ löe_num
 p_fûe_«me
 );
 
-1000 
+991 
 	}
 }
 
-1007 
+998 
 	$whôñi°_£t
 (
 pm_≥î_id_li°_skù_t
@@ -83899,7 +83909,7 @@ pm_≥î_id_li°_skù_t
 skù
 )
 
-1009 
+1000 
 pm_≥î_id_t
  
 ≥î_ids
@@ -83907,7 +83917,7 @@ pm_≥î_id_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-1010 
+1001 
 uöt32_t
  
 ≥î_id_cou¡
@@ -83915,7 +83925,7 @@ uöt32_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-1012 
+1003 
 ªt_code_t
  
 îr_code
@@ -83931,25 +83941,25 @@ PM_PEER_ID_INVALID
 skù
 );
 
-1013 
+1004 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1015 
+1006 
 	`DEBUG_LOG
 ("\tm_whitelist_peer_cnt %d, MAX_PEERS_WLIST %d",
 
-1016 
+1007 
 ≥î_id_cou¡
  + 1,
 
-1017 
+1008 
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 );
 
-1019 
+1010 
 îr_code
  = 
 	`pm_whôñi°_£t
@@ -83959,17 +83969,17 @@ BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ≥î_id_cou¡
 );
 
-1020 
+1011 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1021 
+1012 
 	}
 }
 
-1028 
+1019 
 	$idítôõs_£t
 (
 pm_≥î_id_li°_skù_t
@@ -83977,7 +83987,7 @@ pm_≥î_id_li°_skù_t
 skù
 )
 
-1030 
+1021 
 pm_≥î_id_t
  
 ≥î_ids
@@ -83985,7 +83995,7 @@ pm_≥î_id_t
 BLE_GAP_DEVICE_IDENTITIES_MAX_COUNT
 ];
 
-1031 
+1022 
 uöt32_t
  
 ≥î_id_cou¡
@@ -83993,7 +84003,7 @@ uöt32_t
 BLE_GAP_DEVICE_IDENTITIES_MAX_COUNT
 ;
 
-1033 
+1024 
 ªt_code_t
  
 îr_code
@@ -84009,13 +84019,13 @@ PM_PEER_ID_INVALID
 skù
 );
 
-1034 
+1025 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1036 
+1027 
 îr_code
  = 
 	`pm_devi˚_idítôõs_li°_£t
@@ -84025,17 +84035,17 @@ skù
 ≥î_id_cou¡
 );
 
-1037 
+1028 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1038 
+1029 
 	}
 }
 
-1043 
+1034 
 	$advîtisög_°¨t
 (
 boﬁ
@@ -84043,23 +84053,23 @@ boﬁ
 îa£_b⁄ds
 )
 
-1045 i‡(
+1036 i‡(
 îa£_b⁄ds
  =
 åue
 )
 
-1047 
+1038 
 	`dñëe_b⁄ds
 ();
 
-1052 
+1043 
 	`whôñi°_£t
 (
 PM_PEER_ID_LIST_SKIP_NO_ID_ADDR
 );
 
-1054 
+1045 
 ªt_code_t
  
 ªt
@@ -84071,17 +84081,17 @@ m_advîtisög
 BLE_ADV_MODE_FAST
 );
 
-1055 
+1046 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1057 
+1048 
 	}
 }
 
-1069 
+1060 
 	$£rvi˚_îr‹_h™dÀr
 (
 uöt32_t
@@ -84089,17 +84099,17 @@ uöt32_t
 ƒf_îr‹
 )
 
-1071 
+1062 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1072 
+1063 
 	}
 }
 
-1079 
+1070 
 	$bÀ_advîtisög_îr‹_h™dÀr
 (
 uöt32_t
@@ -84107,33 +84117,33 @@ uöt32_t
 ƒf_îr‹
 )
 
-1081 
+1072 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1082 
+1073 
 	}
 }
 
-1087 
+1078 
 	$b©ãry_Àvñ_upd©e
 ()
 
-1089 
+1080 
 ªt_code_t
  
 îr_code
 ;
 
-1090 
+1081 
 uöt8_t
  
 b©ãry_Àvñ
 ;
 
-1092 
+1083 
 b©ãry_Àvñ
  = (
 uöt8_t
@@ -84145,7 +84155,7 @@ m_b©ãry_sim_°©e
 m_b©ãry_sim_cfg
 );
 
-1094 
+1085 
 îr_code
  = 
 	`bÀ_bas_b©ãry_Àvñ_upd©e
@@ -84157,95 +84167,95 @@ b©ãry_Àvñ
 BLE_CONN_HANDLE_ALL
 );
 
-1095 i‡((
+1086 i‡((
 îr_code
  !
 NRF_SUCCESS
 ) &&
 
-1096 (
+1087 (
 îr_code
  !
 NRF_ERROR_BUSY
 ) &&
 
-1097 (
+1088 (
 îr_code
  !
 NRF_ERROR_RESOURCES
 ) &&
 
-1098 (
+1089 (
 îr_code
  !
 NRF_ERROR_FORBIDDEN
 ) &&
 
-1099 (
+1090 (
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 ) &&
 
-1100 (
+1091 (
 îr_code
  !
 BLE_ERROR_GATTS_SYS_ATTR_MISSING
 )
 
-1103 
+1094 
 	`APP_ERROR_HANDLER
 (
 îr_code
 );
 
-1105 
+1096 
 	}
 }
 
-1115 
+1106 
 	$b©ãry_Àvñ_mós_timeout_h™dÀr
 (* 
 p_c⁄ãxt
 )
 
-1117 
+1108 
 	`UNUSED_PARAMETER
 (
 p_c⁄ãxt
 );
 
-1118 
+1109 
 	`b©ãry_Àvñ_upd©e
 ();
 
-1119 
+1110 
 	}
 }
 
-1126 
+1117 
 	$timîs_öô
 ()
 
-1128 
+1119 
 ªt_code_t
  
 îr_code
 ;
 
-1130 
+1121 
 îr_code
  = 
 	`≠p_timî_öô
 ();
 
-1131 
+1122 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1134 
+1125 
 îr_code
  = 
 	`≠p_timî_¸óã
@@ -84253,53 +84263,53 @@ p_c⁄ãxt
 m_b©ãry_timî_id
 ,
 
-1135 
+1126 
 APP_TIMER_MODE_REPEATED
 ,
 
-1136 
+1127 
 b©ãry_Àvñ_mós_timeout_h™dÀr
 );
 
-1137 
+1128 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1138 
+1129 
 	}
 }
 
-1146 
+1137 
 	$g≠_∑øms_öô
 ()
 
-1148 
+1139 
 ªt_code_t
  
 îr_code
 ;
 
-1149 
+1140 
 bÀ_g≠_c⁄n_∑øms_t
  
 g≠_c⁄n_∑øms
 ;
 
-1150 
+1141 
 bÀ_g≠_c⁄n_£c_mode_t
  
 £c_mode
 ;
 
-1152 
+1143 
 	`BLE_GAP_CONN_SEC_MODE_SET_OPEN
 (&
 £c_mode
 );
 
-1154 
+1145 
 îr_code
  = 
 	`sd_bÀ_g≠_devi˚_«me_£t
@@ -84307,25 +84317,25 @@ bÀ_g≠_c⁄n_£c_mode_t
 £c_mode
 ,
 
-1155 (c⁄° 
+1146 (c⁄° 
 uöt8_t
  *)
 DEVICE_NAME
 ,
 
-1156 
+1147 
 	`°æí
 (
 DEVICE_NAME
 ));
 
-1157 
+1148 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1159 
+1150 
 îr_code
  = 
 	`sd_bÀ_g≠_≠≥¨™˚_£t
@@ -84333,19 +84343,19 @@ DEVICE_NAME
 BLE_APPEARANCE_HID_MOUSE
 );
 
-1160 
+1151 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1162 
+1153 
 	`mem£t
 (&
 g≠_c⁄n_∑øms
 , 0, (gap_conn_params));
 
-1164 
+1155 
 g≠_c⁄n_∑øms
 .
 mö_c⁄n_öãrvÆ
@@ -84353,7 +84363,7 @@ mö_c⁄n_öãrvÆ
 MIN_CONN_INTERVAL
 ;
 
-1165 
+1156 
 g≠_c⁄n_∑øms
 .
 max_c⁄n_öãrvÆ
@@ -84361,7 +84371,7 @@ max_c⁄n_öãrvÆ
 MAX_CONN_INTERVAL
 ;
 
-1166 
+1157 
 g≠_c⁄n_∑øms
 .
 ¶ave_œãncy
@@ -84369,7 +84379,7 @@ g≠_c⁄n_∑øms
 SLAVE_LATENCY
 ;
 
-1167 
+1158 
 g≠_c⁄n_∑øms
 .
 c⁄n_sup_timeout
@@ -84377,12 +84387,38 @@ c⁄n_sup_timeout
 CONN_SUP_TIMEOUT
 ;
 
-1169 
+1160 
 îr_code
  = 
 	`sd_bÀ_g≠_µ˝_£t
 (&
 g≠_c⁄n_∑øms
+);
+
+1161 
+	`APP_ERROR_CHECK
+(
+îr_code
+);
+
+1162 
+	}
+}
+
+1167 
+	$g©t_öô
+()
+
+1169 
+ªt_code_t
+ 
+îr_code
+ = 
+	`ƒf_bÀ_g©t_öô
+(&
+m_g©t
+, 
+NULL
 );
 
 1170 
@@ -84395,33 +84431,7 @@ g≠_c⁄n_∑øms
 	}
 }
 
-1176 
-	$g©t_öô
-()
-
-1178 
-ªt_code_t
- 
-îr_code
- = 
-	`ƒf_bÀ_g©t_öô
-(&
-m_g©t
-, 
-NULL
-);
-
-1179 
-	`APP_ERROR_CHECK
-(
-îr_code
-);
-
-1180 
-	}
-}
-
-1190 
+1181 
 	$ƒf_qwr_îr‹_h™dÀr
 (
 uöt32_t
@@ -84429,33 +84439,33 @@ uöt32_t
 ƒf_îr‹
 )
 
-1192 
+1183 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1193 
+1184 
 	}
 }
 
-1198 
+1189 
 	$qwr_öô
 ()
 
-1200 
+1191 
 ªt_code_t
  
 îr_code
 ;
 
-1201 
+1192 
 ƒf_bÀ_qwr_öô_t
  
 qwr_öô_obj
  = {0};
 
-1203 
+1194 
 qwr_öô_obj
 .
 îr‹_h™dÀr
@@ -84463,7 +84473,7 @@ qwr_öô_obj
 ƒf_qwr_îr‹_h™dÀr
 ;
 
-1205 
+1196 
 îr_code
  = 
 	`ƒf_bÀ_qwr_öô
@@ -84473,39 +84483,39 @@ m_qwr
 qwr_öô_obj
 );
 
-1206 
+1197 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1207 
+1198 
 	}
 }
 
-1212 
+1203 
 	$dis_öô
 ()
 
-1214 
+1205 
 ªt_code_t
  
 îr_code
 ;
 
-1215 
+1206 
 bÀ_dis_öô_t
  
 dis_öô_obj
 ;
 
-1216 
+1207 
 bÀ_dis_≤p_id_t
  
 ≤p_id
 ;
 
-1218 
+1209 
 ≤p_id
 .
 víd‹_id_sour˚
@@ -84513,7 +84523,7 @@ víd‹_id_sour˚
 PNP_ID_VENDOR_ID_SOURCE
 ;
 
-1219 
+1210 
 ≤p_id
 .
 víd‹_id
@@ -84521,7 +84531,7 @@ víd‹_id
 PNP_ID_VENDOR_ID
 ;
 
-1220 
+1211 
 ≤p_id
 .
 ¥odu˘_id
@@ -84529,7 +84539,7 @@ PNP_ID_VENDOR_ID
 PNP_ID_PRODUCT_ID
 ;
 
-1221 
+1212 
 ≤p_id
 .
 ¥odu˘_vîsi⁄
@@ -84537,13 +84547,13 @@ PNP_ID_PRODUCT_ID
 PNP_ID_PRODUCT_VERSION
 ;
 
-1223 
+1214 
 	`mem£t
 (&
 dis_öô_obj
 , 0, (dis_init_obj));
 
-1225 
+1216 
 	`bÀ_§v_ascii_to_utf8
 (&
 dis_öô_obj
@@ -84553,7 +84563,7 @@ m™uÁ˘_«me_°r
 MANUFACTURER_NAME
 );
 
-1226 
+1217 
 dis_öô_obj
 .
 p_≤p_id
@@ -84561,7 +84571,7 @@ p_≤p_id
 ≤p_id
 ;
 
-1228 
+1219 
 dis_öô_obj
 .
 dis_ch¨_rd_£c
@@ -84569,7 +84579,7 @@ dis_ch¨_rd_£c
 SEC_JUST_WORKS
 ;
 
-1230 
+1221 
 îr_code
  = 
 	`bÀ_dis_öô
@@ -84577,39 +84587,39 @@ SEC_JUST_WORKS
 dis_öô_obj
 );
 
-1231 
+1222 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1232 
+1223 
 	}
 }
 
-1237 
+1228 
 	$bas_öô
 ()
 
-1239 
+1230 
 ªt_code_t
  
 îr_code
 ;
 
-1240 
+1231 
 bÀ_bas_öô_t
  
 bas_öô_obj
 ;
 
-1242 
+1233 
 	`mem£t
 (&
 bas_öô_obj
 , 0, (bas_init_obj));
 
-1244 
+1235 
 bas_öô_obj
 .
 evt_h™dÀr
@@ -84617,7 +84627,7 @@ evt_h™dÀr
 NULL
 ;
 
-1245 
+1236 
 bas_öô_obj
 .
 suµ‹t_nŸifiˇti⁄
@@ -84625,7 +84635,7 @@ suµ‹t_nŸifiˇti⁄
 åue
 ;
 
-1246 
+1237 
 bas_öô_obj
 .
 p_ªp‹t_ªf
@@ -84633,13 +84643,13 @@ p_ªp‹t_ªf
 NULL
 ;
 
-1247 
+1238 
 bas_öô_obj
 .
 öôül_b©t_Àvñ
  = 100;
 
-1249 
+1240 
 bas_öô_obj
 .
 bl_rd_£c
@@ -84647,7 +84657,7 @@ bl_rd_£c
 SEC_JUST_WORKS
 ;
 
-1250 
+1241 
 bas_öô_obj
 .
 bl_cccd_wr_£c
@@ -84655,7 +84665,7 @@ bl_cccd_wr_£c
 SEC_JUST_WORKS
 ;
 
-1251 
+1242 
 bas_öô_obj
 .
 bl_ªp‹t_rd_£c
@@ -84663,7 +84673,7 @@ bl_ªp‹t_rd_£c
 SEC_JUST_WORKS
 ;
 
-1253 
+1244 
 îr_code
  = 
 	`bÀ_bas_öô
@@ -84673,45 +84683,45 @@ m_bas
 bas_öô_obj
 );
 
-1254 
+1245 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1255 
+1246 
 	}
 }
 
-1260 
+1251 
 	$hids_öô
 ()
 
-1262 
+1253 
 ªt_code_t
  
 îr_code
 ;
 
-1263 
+1254 
 bÀ_hids_öô_t
  
 hids_öô_obj
 ;
 
-1264 
+1255 
 bÀ_hids_öp_ªp_öô_t
  * 
 p_öput_ªp‹t
 ;
 
-1265 
+1256 
 uöt8_t
  
 hid_öfo_Êags
 ;
 
-1267 
+1258 
 bÀ_hids_öp_ªp_öô_t
  
 öp_ªp_¨øy
@@ -84719,19 +84729,19 @@ bÀ_hids_öp_ªp_öô_t
 INPUT_REPORT_COUNT
 ];
 
-1268 
+1259 
 uöt8_t
  
 ªp_m≠_d©a
 [] =
 
-1348 
+1339 
 	`mem£t
 (
 öp_ªp_¨øy
 , 0, (inp_rep_array));
 
-1350 
+1341 
 p_öput_ªp‹t
  = &
 öp_ªp_¨øy
@@ -84739,12 +84749,78 @@ p_öput_ªp‹t
 INPUT_REP_BUTTONS_INDEX
 ];
 
-1351 
+1342 
 p_öput_ªp‹t
 ->
 max_Àn
  = 
 INPUT_REP_BUTTONS_LEN
+;
+
+1343 
+p_öput_ªp‹t
+->
+ªp_ªf
+.
+ªp‹t_id
+ = 
+INPUT_REP_REF_BUTTONS_ID
+;
+
+1344 
+p_öput_ªp‹t
+->
+ªp_ªf
+.
+ªp‹t_ty≥
+ = 
+BLE_HIDS_REP_TYPE_INPUT
+;
+
+1346 
+p_öput_ªp‹t
+->
+£c
+.
+cccd_wr
+ = 
+SEC_JUST_WORKS
+;
+
+1347 
+p_öput_ªp‹t
+->
+£c
+.
+wr
+ = 
+SEC_JUST_WORKS
+;
+
+1348 
+p_öput_ªp‹t
+->
+£c
+.
+rd
+ = 
+SEC_JUST_WORKS
+;
+
+1350 
+p_öput_ªp‹t
+ = &
+öp_ªp_¨øy
+[
+INPUT_REP_MOVEMENT_INDEX
+];
+
+1351 
+p_öput_ªp‹t
+->
+max_Àn
+ = 
+INPUT_REP_MOVEMENT_LEN
 ;
 
 1352 
@@ -84754,7 +84830,7 @@ p_öput_ªp‹t
 .
 ªp‹t_id
  = 
-INPUT_REP_REF_BUTTONS_ID
+INPUT_REP_REF_MOVEMENT_ID
 ;
 
 1353 
@@ -84802,7 +84878,7 @@ p_öput_ªp‹t
  = &
 öp_ªp_¨øy
 [
-INPUT_REP_MOVEMENT_INDEX
+INPUT_REP_MPLAYER_INDEX
 ];
 
 1360 
@@ -84810,7 +84886,7 @@ p_öput_ªp‹t
 ->
 max_Àn
  = 
-INPUT_REP_MOVEMENT_LEN
+INPUT_REP_MEDIA_PLAYER_LEN
 ;
 
 1361 
@@ -84820,7 +84896,7 @@ p_öput_ªp‹t
 .
 ªp‹t_id
  = 
-INPUT_REP_REF_MOVEMENT_ID
+INPUT_REP_REF_MPLAYER_ID
 ;
 
 1362 
@@ -84864,72 +84940,6 @@ SEC_JUST_WORKS
 ;
 
 1368 
-p_öput_ªp‹t
- = &
-öp_ªp_¨øy
-[
-INPUT_REP_MPLAYER_INDEX
-];
-
-1369 
-p_öput_ªp‹t
-->
-max_Àn
- = 
-INPUT_REP_MEDIA_PLAYER_LEN
-;
-
-1370 
-p_öput_ªp‹t
-->
-ªp_ªf
-.
-ªp‹t_id
- = 
-INPUT_REP_REF_MPLAYER_ID
-;
-
-1371 
-p_öput_ªp‹t
-->
-ªp_ªf
-.
-ªp‹t_ty≥
- = 
-BLE_HIDS_REP_TYPE_INPUT
-;
-
-1373 
-p_öput_ªp‹t
-->
-£c
-.
-cccd_wr
- = 
-SEC_JUST_WORKS
-;
-
-1374 
-p_öput_ªp‹t
-->
-£c
-.
-wr
- = 
-SEC_JUST_WORKS
-;
-
-1375 
-p_öput_ªp‹t
-->
-£c
-.
-rd
- = 
-SEC_JUST_WORKS
-;
-
-1377 
 hid_öfo_Êags
  = 
 HID_INFO_FLAG_REMOTE_WAKE_MSK
@@ -84937,13 +84947,13 @@ HID_INFO_FLAG_REMOTE_WAKE_MSK
 HID_INFO_FLAG_NORMALLY_CONNECTABLE_MSK
 ;
 
-1379 
+1370 
 	`mem£t
 (&
 hids_öô_obj
 , 0, (hids_init_obj));
 
-1381 
+1372 
 hids_öô_obj
 .
 evt_h™dÀr
@@ -84951,7 +84961,7 @@ evt_h™dÀr
 ⁄_hids_evt
 ;
 
-1382 
+1373 
 hids_öô_obj
 .
 îr‹_h™dÀr
@@ -84959,7 +84969,7 @@ hids_öô_obj
 £rvi˚_îr‹_h™dÀr
 ;
 
-1383 
+1374 
 hids_öô_obj
 .
 is_kb
@@ -84967,7 +84977,7 @@ is_kb
 Ál£
 ;
 
-1384 
+1375 
 hids_öô_obj
 .
 is_mou£
@@ -84975,7 +84985,7 @@ is_mou£
 åue
 ;
 
-1385 
+1376 
 hids_öô_obj
 .
 öp_ªp_cou¡
@@ -84983,7 +84993,7 @@ hids_öô_obj
 INPUT_REPORT_COUNT
 ;
 
-1386 
+1377 
 hids_öô_obj
 .
 p_öp_ªp_¨øy
@@ -84991,13 +85001,13 @@ p_öp_ªp_¨øy
 öp_ªp_¨øy
 ;
 
-1387 
+1378 
 hids_öô_obj
 .
 ouç_ªp_cou¡
  = 0;
 
-1388 
+1379 
 hids_öô_obj
 .
 p_ouç_ªp_¨øy
@@ -85005,13 +85015,13 @@ p_ouç_ªp_¨øy
 NULL
 ;
 
-1389 
+1380 
 hids_öô_obj
 .
 „©uª_ªp_cou¡
  = 0;
 
-1390 
+1381 
 hids_öô_obj
 .
 p_„©uª_ªp_¨øy
@@ -85019,7 +85029,7 @@ p_„©uª_ªp_¨øy
 NULL
 ;
 
-1391 
+1382 
 hids_öô_obj
 .
 ªp_m≠
@@ -85029,7 +85039,7 @@ d©a_Àn
 ªp_m≠_d©a
 );
 
-1392 
+1383 
 hids_öô_obj
 .
 ªp_m≠
@@ -85039,7 +85049,7 @@ p_d©a
 ªp_m≠_d©a
 ;
 
-1393 
+1384 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -85049,7 +85059,7 @@ bcd_hid
 BASE_USB_HID_SPEC_VERSION
 ;
 
-1394 
+1385 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -85057,7 +85067,7 @@ hid_öf‹m©i⁄
 b_cou¡ry_code
  = 0;
 
-1395 
+1386 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -85067,13 +85077,13 @@ hid_öf‹m©i⁄
 hid_öfo_Êags
 ;
 
-1396 
+1387 
 hids_öô_obj
 .
 ö˛uded_£rvi˚s_cou¡
  = 0;
 
-1397 
+1388 
 hids_öô_obj
 .
 p_ö˛uded_£rvi˚s_¨øy
@@ -85081,7 +85091,7 @@ p_ö˛uded_£rvi˚s_¨øy
 NULL
 ;
 
-1399 
+1390 
 hids_öô_obj
 .
 ªp_m≠
@@ -85091,7 +85101,7 @@ rd_£c
 SEC_JUST_WORKS
 ;
 
-1400 
+1391 
 hids_öô_obj
 .
 hid_öf‹m©i⁄
@@ -85101,7 +85111,7 @@ rd_£c
 SEC_JUST_WORKS
 ;
 
-1402 
+1393 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -85111,7 +85121,7 @@ cccd_wr
 SEC_JUST_WORKS
 ;
 
-1403 
+1394 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -85121,7 +85131,7 @@ wr
 SEC_JUST_WORKS
 ;
 
-1404 
+1395 
 hids_öô_obj
 .
 boŸ_mou£_öp_ªp_£c
@@ -85131,7 +85141,7 @@ rd
 SEC_JUST_WORKS
 ;
 
-1406 
+1397 
 hids_öô_obj
 .
 ¥Ÿocﬁ_mode_rd_£c
@@ -85139,7 +85149,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1407 
+1398 
 hids_öô_obj
 .
 ¥Ÿocﬁ_mode_wr_£c
@@ -85147,7 +85157,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1408 
+1399 
 hids_öô_obj
 .
 ˘æ_poöt_wr_£c
@@ -85155,7 +85165,7 @@ hids_öô_obj
 SEC_JUST_WORKS
 ;
 
-1410 
+1401 
 îr_code
  = 
 	`bÀ_hids_öô
@@ -85165,45 +85175,45 @@ m_hids
 hids_öô_obj
 );
 
-1411 
+1402 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1412 
+1403 
 	}
 }
 
-1417 
+1408 
 	$£rvi˚s_öô
 ()
 
-1419 
+1410 
 	`qwr_öô
 ();
 
-1420 
+1411 
 	`dis_öô
 ();
 
-1421 
+1412 
 	`bas_öô
 ();
 
-1422 
+1413 
 	`hids_öô
 ();
 
-1423 
+1414 
 	}
 }
 
-1428 
+1419 
 	$£ns‹_simuœt‹_öô
 ()
 
-1430 
+1421 
 m_b©ãry_sim_cfg
 .
 mö
@@ -85211,7 +85221,7 @@ mö
 MIN_BATTERY_LEVEL
 ;
 
-1431 
+1422 
 m_b©ãry_sim_cfg
 .
 max
@@ -85219,7 +85229,7 @@ max
 MAX_BATTERY_LEVEL
 ;
 
-1432 
+1423 
 m_b©ãry_sim_cfg
 .
 ö¸
@@ -85227,7 +85237,7 @@ m_b©ãry_sim_cfg
 BATTERY_LEVEL_INCREMENT
 ;
 
-1433 
+1424 
 m_b©ãry_sim_cfg
 .
 °¨t_©_max
@@ -85235,7 +85245,7 @@ m_b©ãry_sim_cfg
 åue
 ;
 
-1435 
+1426 
 	`£ns‹sim_öô
 (&
 m_b©ãry_sim_°©e
@@ -85243,11 +85253,11 @@ m_b©ãry_sim_°©e
 m_b©ãry_sim_cfg
 );
 
-1436 
+1427 
 	}
 }
 
-1443 
+1434 
 	$c⁄n_∑øms_îr‹_h™dÀr
 (
 uöt32_t
@@ -85255,39 +85265,39 @@ uöt32_t
 ƒf_îr‹
 )
 
-1445 
+1436 
 	`APP_ERROR_HANDLER
 (
 ƒf_îr‹
 );
 
-1446 
+1437 
 	}
 }
 
-1451 
+1442 
 	$c⁄n_∑øms_öô
 ()
 
-1453 
+1444 
 ªt_code_t
  
 îr_code
 ;
 
-1454 
+1445 
 bÀ_c⁄n_∑øms_öô_t
  
 ˝_öô
 ;
 
-1456 
+1447 
 	`mem£t
 (&
 ˝_öô
 , 0, (cp_init));
 
-1458 
+1449 
 ˝_öô
 .
 p_c⁄n_∑øms
@@ -85295,7 +85305,7 @@ p_c⁄n_∑øms
 NULL
 ;
 
-1459 
+1450 
 ˝_öô
 .
 fú°_c⁄n_∑øms_upd©e_dñay
@@ -85303,7 +85313,7 @@ fú°_c⁄n_∑øms_upd©e_dñay
 FIRST_CONN_PARAMS_UPDATE_DELAY
 ;
 
-1460 
+1451 
 ˝_öô
 .
 √xt_c⁄n_∑øms_upd©e_dñay
@@ -85311,7 +85321,7 @@ FIRST_CONN_PARAMS_UPDATE_DELAY
 NEXT_CONN_PARAMS_UPDATE_DELAY
 ;
 
-1461 
+1452 
 ˝_öô
 .
 max_c⁄n_∑øms_upd©e_cou¡
@@ -85319,7 +85329,7 @@ max_c⁄n_∑øms_upd©e_cou¡
 MAX_CONN_PARAM_UPDATE_COUNT
 ;
 
-1462 
+1453 
 ˝_öô
 .
 °¨t_⁄_nŸify_cccd_h™dÀ
@@ -85327,7 +85337,7 @@ MAX_CONN_PARAM_UPDATE_COUNT
 BLE_GATT_HANDLE_INVALID
 ;
 
-1463 
+1454 
 ˝_öô
 .
 disc⁄√˘_⁄_Áû
@@ -85335,7 +85345,7 @@ disc⁄√˘_⁄_Áû
 Ál£
 ;
 
-1464 
+1455 
 ˝_öô
 .
 evt_h™dÀr
@@ -85343,7 +85353,7 @@ evt_h™dÀr
 NULL
 ;
 
-1465 
+1456 
 ˝_öô
 .
 îr‹_h™dÀr
@@ -85351,7 +85361,7 @@ NULL
 c⁄n_∑øms_îr‹_h™dÀr
 ;
 
-1467 
+1458 
 îr_code
  = 
 	`bÀ_c⁄n_∑øms_öô
@@ -85359,27 +85369,27 @@ c⁄n_∑øms_îr‹_h™dÀr
 ˝_öô
 );
 
-1468 
+1459 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1469 
+1460 
 	}
 }
 
-1474 
+1465 
 	$timîs_°¨t
 ()
 
-1476 
+1467 
 ªt_code_t
  
 îr_code
 ;
 
-1478 
+1469 
 îr_code
  = 
 	`≠p_timî_°¨t
@@ -85391,27 +85401,27 @@ BATTERY_LEVEL_MEAS_INTERVAL
 NULL
 );
 
-1479 
+1470 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1480 
+1471 
 	}
 }
 
-1487 
+1478 
 	$¶ìp_mode_íãr
 ()
 
-1489 
+1480 
 ªt_code_t
  
 îr_code
 ;
 
-1491 
+1482 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -85419,41 +85429,41 @@ NULL
 BSP_INDICATE_IDLE
 );
 
-1492 
+1483 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1495 
+1486 
 îr_code
  = 
 	`b•_bä_bÀ_¶ìp_mode_¥ï¨e
 ();
 
-1496 
+1487 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1499 
+1490 
 îr_code
  = 
 	`sd_powî_sy°em_off
 ();
 
-1500 
+1491 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1501 
+1492 
 	}
 }
 
-1511 
+1502 
 	$⁄_hids_evt
 (
 bÀ_hids_t
@@ -85465,69 +85475,69 @@ bÀ_hids_evt_t
 p_evt
 )
 
-1513 
+1504 
 p_evt
 ->
 evt_ty≥
 )
 
-1515 
+1506 
 BLE_HIDS_EVT_BOOT_MODE_ENTERED
 :
 
-1516 
+1507 
 m_ö_boŸ_mode
  = 
 åue
 ;
 
-1519 
+1510 
 BLE_HIDS_EVT_REPORT_MODE_ENTERED
 :
 
-1520 
+1511 
 m_ö_boŸ_mode
  = 
 Ál£
 ;
 
-1523 
+1514 
 BLE_HIDS_EVT_NOTIF_ENABLED
 :
 
-1530 
+1521 
 	}
 }
 
-1538 
+1529 
 	$bÀ_°ack_öô
 ()
 
-1540 
+1531 
 ªt_code_t
  
 îr_code
 ;
 
-1542 
+1533 
 îr_code
  = 
 	`ƒf_sdh_íabÀ_ªque°
 ();
 
-1543 
+1534 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1547 
+1538 
 uöt32_t
  
 øm_°¨t
  = 0;
 
-1548 
+1539 
 îr_code
  = 
 	`ƒf_sdh_bÀ_deÁu…_cfg_£t
@@ -85537,13 +85547,13 @@ APP_BLE_CONN_CFG_TAG
 øm_°¨t
 );
 
-1549 
+1540 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1552 
+1543 
 îr_code
  = 
 	`ƒf_sdh_bÀ_íabÀ
@@ -85551,13 +85561,13 @@ APP_BLE_CONN_CFG_TAG
 øm_°¨t
 );
 
-1553 
+1544 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1556 
+1547 
 	`NRF_SDH_BLE_OBSERVER
 (
 m_bÀ_ob£rvî
@@ -85569,39 +85579,39 @@ bÀ_evt_h™dÀr
 NULL
 );
 
-1557 
+1548 
 	}
 }
 
-1562 
+1553 
 	$≥î_m™agî_öô
 ()
 
-1564 
+1555 
 bÀ_g≠_£c_∑øms_t
  
 £c_∑øm
 ;
 
-1565 
+1556 
 ªt_code_t
  
 îr_code
 ;
 
-1567 
+1558 
 îr_code
  = 
 	`pm_öô
 ();
 
-1568 
+1559 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1570 
+1561 
 	`mem£t
 (&
 £c_∑øm
@@ -85609,7 +85619,7 @@ bÀ_g≠_£c_∑øms_t
 bÀ_g≠_£c_∑øms_t
 ));
 
-1573 
+1564 
 £c_∑øm
 .
 b⁄d
@@ -85617,7 +85627,7 @@ b⁄d
 SEC_PARAM_BOND
 ;
 
-1574 
+1565 
 £c_∑øm
 .
 môm
@@ -85625,7 +85635,7 @@ môm
 SEC_PARAM_MITM
 ;
 
-1575 
+1566 
 £c_∑øm
 .
 Àsc
@@ -85633,7 +85643,7 @@ SEC_PARAM_MITM
 SEC_PARAM_LESC
 ;
 
-1576 
+1567 
 £c_∑øm
 .
 key¥ess
@@ -85641,7 +85651,7 @@ key¥ess
 SEC_PARAM_KEYPRESS
 ;
 
-1577 
+1568 
 £c_∑øm
 .
 io_ˇps
@@ -85649,7 +85659,7 @@ io_ˇps
 SEC_PARAM_IO_CAPABILITIES
 ;
 
-1578 
+1569 
 £c_∑øm
 .
 oob
@@ -85657,7 +85667,7 @@ oob
 SEC_PARAM_OOB
 ;
 
-1579 
+1570 
 £c_∑øm
 .
 mö_key_size
@@ -85665,7 +85675,7 @@ mö_key_size
 SEC_PARAM_MIN_KEY_SIZE
 ;
 
-1580 
+1571 
 £c_∑øm
 .
 max_key_size
@@ -85673,7 +85683,7 @@ max_key_size
 SEC_PARAM_MAX_KEY_SIZE
 ;
 
-1581 
+1572 
 £c_∑øm
 .
 kdi°_own
@@ -85681,7 +85691,7 @@ kdi°_own
 íc
  = 1;
 
-1582 
+1573 
 £c_∑øm
 .
 kdi°_own
@@ -85689,7 +85699,7 @@ kdi°_own
 id
  = 1;
 
-1583 
+1574 
 £c_∑øm
 .
 kdi°_≥î
@@ -85697,7 +85707,7 @@ kdi°_≥î
 íc
  = 1;
 
-1584 
+1575 
 £c_∑øm
 .
 kdi°_≥î
@@ -85705,7 +85715,7 @@ kdi°_≥î
 id
  = 1;
 
-1586 
+1577 
 îr_code
  = 
 	`pm_£c_∑øms_£t
@@ -85713,13 +85723,13 @@ id
 £c_∑øm
 );
 
-1587 
+1578 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1589 
+1580 
 îr_code
  = 
 	`pm_ªgi°î
@@ -85727,21 +85737,21 @@ id
 pm_evt_h™dÀr
 );
 
-1590 
+1581 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1591 
+1582 
 	}
 }
 
-1594 #i‡
+1585 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-1601 
+1592 
 	$•_advd©a_¥ï¨e
 (
 bÀ_advd©a_t
@@ -85749,13 +85759,13 @@ bÀ_advd©a_t
 p_√w_advd©a
 ,
 
-1602 
+1593 
 bÀ_g≠_adv_d©a_t
  * c⁄° 
 p_√w_advd©a_buf
 )
 
-1604 
+1595 
 ªt_code_t
  
 ªt
@@ -85765,7 +85775,7 @@ p_√w_advd©a_buf
 p_√w_advd©a
 ,
 
-1605 
+1596 
 p_√w_advd©a_buf
 ->
 adv_d©a
@@ -85773,7 +85783,7 @@ adv_d©a
 p_d©a
 ,
 
-1606 &
+1597 &
 p_√w_advd©a_buf
 ->
 adv_d©a
@@ -85781,13 +85791,13 @@ adv_d©a
 Àn
 );
 
-1607 
+1598 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1609 i‡(
+1600 i‡(
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85797,7 +85807,7 @@ p_d©a
 NULL
 )
 
-1611 
+1602 
 ªt
  = 
 	`bÀ_advd©a_ícode
@@ -85805,7 +85815,7 @@ NULL
 p_√w_advd©a
 ,
 
-1612 
+1603 
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85813,7 +85823,7 @@ sˇn_r•_d©a
 p_d©a
 ,
 
-1613 &
+1604 &
 p_√w_advd©a_buf
 ->
 sˇn_r•_d©a
@@ -85821,21 +85831,21 @@ sˇn_r•_d©a
 Àn
 );
 
-1614 
+1605 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1616 
+1607 
 	}
 }
 
-1667 
+1658 
 	$scheduÀr_öô
 ()
 
-1669 
+1660 
 	`APP_SCHED_INIT
 (
 SCHED_MAX_EVENT_DATA_SIZE
@@ -85843,11 +85853,11 @@ SCHED_MAX_EVENT_DATA_SIZE
 SCHED_QUEUE_SIZE
 );
 
-1670 
+1661 
 	}
 }
 
-1678 
+1669 
 	$mou£_movemít_£nd
 (
 öt16_t
@@ -85857,29 +85867,29 @@ x_dñè
 y_dñè
 )
 
-1680 
+1671 
 ªt_code_t
  
 îr_code
 ;
 
-1682 i‡(
+1673 i‡(
 m_ö_boŸ_mode
 )
 
-1684 
+1675 
 x_dñè
  = 
 	`MIN
 (x_delta, 0x00ff);
 
-1685 
+1676 
 y_dñè
  = 
 	`MIN
 (y_delta, 0x00ff);
 
-1687 
+1678 
 îr_code
  = 
 	`bÀ_hids_boŸ_mou£_öp_ªp_£nd
@@ -85887,27 +85897,27 @@ y_dñè
 m_hids
 ,
 
-1689 (
+1680 (
 öt8_t
 )
 x_dñè
 ,
 
-1690 (
+1681 (
 öt8_t
 )
 y_dñè
 ,
 
-1692 
+1683 
 NULL
 ,
 
-1693 
+1684 
 m_c⁄n_h™dÀ
 );
 
-1697 
+1688 
 uöt8_t
  
 buf„r
@@ -85915,31 +85925,31 @@ buf„r
 INPUT_REP_MOVEMENT_LEN
 ];
 
-1699 
+1690 
 	`APP_ERROR_CHECK_BOOL
 (
 INPUT_REP_MOVEMENT_LEN
  == 3);
 
-1701 
+1692 
 x_dñè
  = 
 	`MIN
 (x_delta, 0x0fff);
 
-1702 
+1693 
 y_dñè
  = 
 	`MIN
 (y_delta, 0x0fff);
 
-1704 
+1695 
 buf„r
 [0] = 
 x_dñè
  & 0x00ff;
 
-1705 
+1696 
 buf„r
 [1] = ((
 y_dñè
@@ -85947,13 +85957,13 @@ y_dñè
 x_dñè
  & 0x0f00) >> 8);
 
-1706 
+1697 
 buf„r
 [2] = (
 y_dñè
  & 0x0ff0) >> 4;
 
-1708 
+1699 
 îr_code
  = 
 	`bÀ_hids_öp_ªp_£nd
@@ -85961,63 +85971,63 @@ y_dñè
 m_hids
 ,
 
-1709 
+1700 
 INPUT_REP_MOVEMENT_INDEX
 ,
 
-1710 
+1701 
 INPUT_REP_MOVEMENT_LEN
 ,
 
-1711 
+1702 
 buf„r
 ,
 
-1712 
+1703 
 m_c⁄n_h™dÀ
 );
 
-1715 i‡((
+1706 i‡((
 îr_code
  !
 NRF_SUCCESS
 ) &&
 
-1716 (
+1707 (
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 ) &&
 
-1717 (
+1708 (
 îr_code
  !
 NRF_ERROR_RESOURCES
 ) &&
 
-1718 (
+1709 (
 îr_code
  !
 NRF_ERROR_BUSY
 ) &&
 
-1719 (
+1710 (
 îr_code
  !
 BLE_ERROR_GATTS_SYS_ATTR_MISSING
 )
 
-1722 
+1713 
 	`APP_ERROR_HANDLER
 (
 îr_code
 );
 
-1724 
+1715 
 	}
 }
 
-1731 
+1722 
 	$b•_evít_h™dÀr
 (
 b•_evít_t
@@ -86025,29 +86035,29 @@ b•_evít_t
 evít
 )
 
-1733 
+1724 
 ªt_code_t
  
 îr_code
 ;
 
-1735 
+1726 
 evít
 )
 
-1737 
+1728 
 BSP_EVENT_SLEEP
 :
 
-1738 
+1729 
 	`¶ìp_mode_íãr
 ();
 
-1741 
+1732 
 BSP_EVENT_DISCONNECT
 :
 
-1742 
+1733 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -86055,33 +86065,33 @@ BSP_EVENT_DISCONNECT
 m_c⁄n_h™dÀ
 ,
 
-1743 
+1734 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-1744 i‡(
+1735 i‡(
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 )
 
-1746 
+1737 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1750 
+1741 
 BSP_EVENT_WHITELIST_OFF
 :
 
-1751 i‡(
+1742 i‡(
 m_c⁄n_h™dÀ
  =
 BLE_CONN_HANDLE_INVALID
 )
 
-1753 
+1744 
 îr_code
  = 
 	`bÀ_advîtisög_ª°¨t_wôhout_whôñi°
@@ -86089,59 +86099,59 @@ BLE_CONN_HANDLE_INVALID
 m_advîtisög
 );
 
-1754 i‡(
+1745 i‡(
 îr_code
  !
 NRF_ERROR_INVALID_STATE
 )
 
-1756 
+1747 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1761 
+1752 
 BSP_EVENT_KEY_0
 :
 
-1762 i‡(
+1753 i‡(
 m_c⁄n_h™dÀ
  !
 BLE_CONN_HANDLE_INVALID
 )
 
-1764 
+1755 
 	`mou£_movemít_£nd
 (-
 MOVEMENT_SPEED
 , 0);
 
-1768 
+1759 
 BSP_EVENT_KEY_1
 :
 
-1769 i‡(
+1760 i‡(
 m_c⁄n_h™dÀ
  !
 BLE_CONN_HANDLE_INVALID
 )
 
-1771 
+1762 
 	`mou£_movemít_£nd
 (0, -
 MOVEMENT_SPEED
 );
 
-1775 
+1766 
 BSP_EVENT_KEY_2
 :
 
-1776 
+1767 
 	`DEBUG_LOG
 ("Clearáll bonds");
 
-1777 
+1768 
 ≠pSèã
 .
 isDñëeB⁄ds
@@ -86149,25 +86159,25 @@ isDñëeB⁄ds
 åue
 ;
 
-1781 
+1772 
 BSP_EVENT_KEY_3
 :
 
-1782 
+1773 
 	`DEBUG_LOG
 ("ADD_NEWádv start");
 
-1783 
-	`≠pAdvSëSèπ
+1774 
+	`≠pAdvRun
 (
 ADV_ADD_NEW
 , 0);
 
-1789 
+1780 
 	}
 }
 
-1796 
+1787 
 	$buâ⁄s_Àds_öô
 (
 boﬁ
@@ -86175,19 +86185,19 @@ boﬁ
 p_îa£_b⁄ds
 )
 
-1798 
+1789 
 ªt_code_t
  
 îr_code
 ;
 
-1799 
+1790 
 b•_evít_t
  
 °¨tup_evít
 ;
 
-1801 
+1792 
 îr_code
  = 
 	`b•_öô
@@ -86199,13 +86209,13 @@ BSP_INIT_BUTTONS
 b•_evít_h™dÀr
 );
 
-1803 
+1794 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1805 
+1796 
 îr_code
  = 
 	`b•_bä_bÀ_öô
@@ -86215,13 +86225,13 @@ NULL
 °¨tup_evít
 );
 
-1806 
+1797 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1808 *
+1799 *
 p_îa£_b⁄ds
  = (
 °¨tup_evít
@@ -86229,15 +86239,15 @@ p_îa£_b⁄ds
 BSP_EVENT_CLEAR_BONDING_DATA
 );
 
-1809 
+1800 
 	}
 }
 
-1814 
+1805 
 	$log_öô
 ()
 
-1816 
+1807 
 ªt_code_t
  
 îr_code
@@ -86247,75 +86257,117 @@ BSP_EVENT_CLEAR_BONDING_DATA
 NULL
 );
 
-1817 
+1808 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1819 
+1810 
 	`NRF_LOG_DEFAULT_BACKENDS_INIT
 ();
 
-1820 
+1811 
 	}
 }
 
-1825 
+1816 
 	$powî_m™agemít_öô
 ()
 
-1827 
+1818 
 ªt_code_t
  
 îr_code
 ;
 
-1828 
+1819 
 îr_code
  = 
 	`ƒf_pwr_mgmt_öô
 ();
 
-1829 
+1820 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1830 
+1821 
 	}
 }
 
-1837 
+1828 
 	$idÀ_°©e_h™dÀ
 ()
 
-1839 
+1830 
 	`≠p_sched_execuã
 ();
 
-1840 i‡(
+1831 i‡(
 	`NRF_LOG_PROCESS
 (Ë=
 Ál£
 )
 
-1842 
+1833 
 	`ƒf_pwr_mgmt_run
 ();
 
-1844 
+1835 
 	}
 }
 
-1849 
+1840 
 	$fds_evt_h™dÀr
 (
 fds_evt_t
  c⁄° * 
 p_fds_evt
 )
+
+1842 
+p_fds_evt
+->
+id
+)
+
+1844 
+FDS_EVT_INIT
+: 
+	`DEBUG_LOG
+("FDS_EVT_INIT"); ;
+
+1845 
+FDS_EVT_WRITE
+: 
+	`DEBUG_LOG
+("FDS_EVT_WRITE"); ;
+
+1846 
+FDS_EVT_UPDATE
+: 
+	`DEBUG_LOG
+("FDS_EVT_UPDATE"); ;
+
+1847 
+FDS_EVT_DEL_RECORD
+: 
+	`DEBUG_LOG
+("FDS_EVT_DEL_RECORD"); ;
+
+1848 
+FDS_EVT_DEL_FILE
+: 
+	`DEBUG_LOG
+("FDS_EVT_DEL_FILE"); ;
+
+1849 
+FDS_EVT_GC
+: 
+	`DEBUG_LOG
+("FDS_EVT_GC"); ;
 
 1851 
 p_fds_evt
@@ -86325,51 +86377,9 @@ id
 
 1853 
 FDS_EVT_INIT
-: 
-	`DEBUG_LOG
-("FDS_EVT_INIT"); ;
-
-1854 
-FDS_EVT_WRITE
-: 
-	`DEBUG_LOG
-("FDS_EVT_WRITE"); ;
-
-1855 
-FDS_EVT_UPDATE
-: 
-	`DEBUG_LOG
-("FDS_EVT_UPDATE"); ;
-
-1856 
-FDS_EVT_DEL_RECORD
-: 
-	`DEBUG_LOG
-("FDS_EVT_DEL_RECORD"); ;
-
-1857 
-FDS_EVT_DEL_FILE
-: 
-	`DEBUG_LOG
-("FDS_EVT_DEL_FILE"); ;
-
-1858 
-FDS_EVT_GC
-: 
-	`DEBUG_LOG
-("FDS_EVT_GC"); ;
-
-1860 
-p_fds_evt
-->
-id
-)
-
-1862 
-FDS_EVT_INIT
 :
 
-1863 i‡(
+1854 i‡(
 p_fds_evt
 ->
 ªsu…
@@ -86377,33 +86387,33 @@ p_fds_evt
 FDS_SUCCESS
 )
 
-1871 
+1862 
 	}
 }
 
-1878 
+1869 
 	$maö
 ()
 
-1880 
+1871 
 boﬁ
  
 îa£_b⁄ds
 ;
 
-1883 
+1874 
 	`log_öô
 ();
 
-1884 
+1875 
 	`USER_INFO
 ("APPLICATION STARTED");
 
-1886 
+1877 
 	`öôU£rTimî
 ();
 
-1887 
+1878 
 °›SˇnAdvTimîCÆlback
  = 
 	`timîGëCÆlback
@@ -86411,13 +86421,13 @@ boﬁ
 ≠pAdvSˇnSt›CB
 );
 
-1888 
+1879 
 devi˚Ordî
  = 
 	`‹dîMÆloc
 ();
 
-1890 
+1881 
 ªt_code_t
  
 ªt
@@ -86427,37 +86437,37 @@ devi˚Ordî
 fds_evt_h™dÀr
 );
 
-1891 i‡(
+1882 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-1893 
+1884 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1895 
+1886 
 ªt
  = 
 	`fds_öô
 ();
 
-1896 i‡(
+1887 i‡(
 ªt
  !
 FDS_SUCCESS
 )
 
-1898 
+1889 
 	`APP_ERROR_CHECK
 (
 ªt
 );
 
-1901 
+1892 
 	`‹dîRódFœsh
 (
 devi˚Ordî
@@ -86467,7 +86477,7 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-1902 
+1893 
 	`USER_INFO
 ("Qu™tôy iãm†ö ordî = %d", 
 	`‹dîGëQu™tôy
@@ -86475,7 +86485,7 @@ ORDER_FLASHE_PAGE
 devi˚Ordî
 ));
 
-1903 
+1894 
 uöt8_t
  
 ˙t
@@ -86483,7 +86493,7 @@ uöt8_t
 ORDER_ITEM_QUANTITY
 ; cnt++ )
 
-1905 
+1896 
 	`USER_INFO
 ("ôem = %d", 
 	`‹dîGëIãm
@@ -86493,57 +86503,57 @@ devi˚Ordî
 ˙t
 ));
 
-1908 
+1899 
 	`timîs_öô
 ();
 
-1909 
+1900 
 	`buâ⁄s_Àds_öô
 (&
 îa£_b⁄ds
 );
 
-1910 
+1901 
 	`powî_m™agemít_öô
 ();
 
-1911 
+1902 
 	`bÀ_°ack_öô
 ();
 
-1912 
+1903 
 	`scheduÀr_öô
 ();
 
-1913 
+1904 
 	`g≠_∑øms_öô
 ();
 
-1914 
+1905 
 	`g©t_öô
 ();
 
-1916 
+1907 
 	`£rvi˚s_öô
 ();
 
-1917 
+1908 
 	`£ns‹_simuœt‹_öô
 ();
 
-1918 
+1909 
 	`c⁄n_∑øms_öô
 ();
 
-1919 
+1910 
 	`≥î_m™agî_öô
 ();
 
-1923 
+1914 
 	`timîs_°¨t
 ();
 
-1925 
+1916 
 	`advîtisög_öô
 (
 APP_ADV_GLOBAL_INTERVAL
@@ -86553,29 +86563,29 @@ APP_ADV_GLOBAL_TIMEOUT
 åue
 );
 
-1926 
-	`≠pAdvSëSèπ
+1917 
+	`≠pAdvRun
 (
 ADV_RECONNECT_SCAN
 , 0);
 
-1932 
+1923 
 	`idÀ_°©e_h™dÀ
 ();
 
-1935 
+1926 
 	`≠pPro˚ssög
 ();
 
-1936 
+1927 
 	`u£rPro˚ssögTimîCÆlbackFun
 ();
 
-1939 
+1930 
 	}
 }
 
-1947 
+1938 
 	$bÀ_evt_h™dÀr
 (
 bÀ_evt_t
@@ -86585,13 +86595,13 @@ p_bÀ_evt
 p_c⁄ãxt
 )
 
-1949 
+1940 
 ªt_code_t
  
 îr_code
 ;
 
-1951 
+1942 
 p_bÀ_evt
 ->
 hódî
@@ -86599,127 +86609,127 @@ hódî
 evt_id
 )
 
-1953 
+1944 
 BLE_GAP_EVT_CONNECTED
 : 
 	`DEBUG_LOG
 ("CONNECTED"); ;
 
-1954 
+1945 
 BLE_GAP_EVT_DISCONNECTED
 : 
 	`DEBUG_LOG
 ("DISCONNECTED"); ;
 
-1955 
+1946 
 BLE_GAP_EVT_CONN_PARAM_UPDATE
 : 
 	`DEBUG_LOG
 ("CONN_PARAM_UPDATE"); ;
 
-1956 
+1947 
 BLE_GAP_EVT_SEC_PARAMS_REQUEST
 : 
 	`DEBUG_LOG
 ("SEC_PARAMS_REQUEST"); ;
 
-1957 
+1948 
 BLE_GAP_EVT_SEC_INFO_REQUEST
 : 
 	`DEBUG_LOG
 ("SEC_INFO_REQUEST"); ;
 
-1958 
+1949 
 BLE_GAP_EVT_PASSKEY_DISPLAY
 : 
 	`DEBUG_LOG
 ("PASSKEY_DISPLAY"); ;
 
-1959 
+1950 
 BLE_GAP_EVT_KEY_PRESSED
 : 
 	`DEBUG_LOG
 ("KEY_PRESSED"); ;
 
-1960 
+1951 
 BLE_GAP_EVT_AUTH_KEY_REQUEST
 : 
 	`DEBUG_LOG
 ("AUTH_KEY_REQUEST"); ;
 
-1961 
+1952 
 BLE_GAP_EVT_LESC_DHKEY_REQUEST
 : 
 	`DEBUG_LOG
 ("LESC_DHKEY_REQUEST"); ;
 
-1962 
+1953 
 BLE_GAP_EVT_AUTH_STATUS
 : 
 	`DEBUG_LOG
 ("AUTH_STATUS"); ;
 
-1963 
+1954 
 BLE_GAP_EVT_CONN_SEC_UPDATE
 : 
 	`DEBUG_LOG
 ("CONN_SEC_UPDATE"); ;
 
-1964 
+1955 
 BLE_GAP_EVT_TIMEOUT
 : 
 	`DEBUG_LOG
 ("TIMEOUT"); ;
 
-1965 
+1956 
 BLE_GAP_EVT_RSSI_CHANGED
 : 
 	`DEBUG_LOG
 ("RSSI_CHANGED"); ;
 
-1966 
+1957 
 BLE_GAP_EVT_ADV_REPORT
 : 
 	`DEBUG_LOG
 ("ADV_REPORT"); ;
 
-1967 
+1958 
 BLE_GAP_EVT_SEC_REQUEST
 : 
 	`DEBUG_LOG
 ("SEC_REQUEST"); ;
 
-1968 
+1959 
 BLE_GAP_EVT_CONN_PARAM_UPDATE_REQUEST
 : 
 	`DEBUG_LOG
 ("CONN_PARAM_UPDATE_REQUEST"); ;
 
-1969 
+1960 
 BLE_GAP_EVT_SCAN_REQ_REPORT
 : 
 	`DEBUG_LOG
 ("SCAN_REQ_REPORT"); ;
 
-1970 
+1961 
 BLE_GAP_EVT_PHY_UPDATE
 : 
 	`DEBUG_LOG
 ("PHY_UPDATE"); ;
 
-1971 
+1962 
 BLE_GAP_EVT_DATA_LENGTH_UPDATE_REQUEST
 : 
 	`DEBUG_LOG
 ("DATA_LENGTH_UPDATE_REQUEST"); ;
 
-1972 
+1963 
 BLE_GAP_EVT_DATA_LENGTH_UPDATE
 : 
 	`DEBUG_LOG
 ("DATA_LENGTH_UPDATE"); ;
 
-1976 
+1967 
 p_bÀ_evt
 ->
 hódî
@@ -86727,11 +86737,11 @@ hódî
 evt_id
 )
 
-1978 
+1969 
 BLE_GAP_EVT_CONNECTED
 :
 
-1979 
+1970 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -86739,13 +86749,13 @@ BLE_GAP_EVT_CONNECTED
 BSP_INDICATE_CONNECTED
 );
 
-1980 
+1971 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1981 
+1972 
 m_c⁄n_h™dÀ
  = 
 p_bÀ_evt
@@ -86757,7 +86767,7 @@ g≠_evt
 c⁄n_h™dÀ
 ;
 
-1982 
+1973 
 îr_code
  = 
 	`ƒf_bÀ_qwr_c⁄n_h™dÀ_assign
@@ -86767,31 +86777,31 @@ m_qwr
 m_c⁄n_h™dÀ
 );
 
-1983 
+1974 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-1985 if(
+1976 if(
 	`≠pAdvGëPªvC⁄n
 ())
 
-1987 
+1978 
 	`DEBUG_LOG
 ("CON:Årue");
 
-1990 
+1981 
 	`DEBUG_LOG
 ("CON: false");
 
-1992 
+1983 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-1993 
+1984 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_CONNECT
@@ -86799,27 +86809,27 @@ CONNECTION_CONNECT
 m_c⁄n_h™dÀ
 );
 
-1994 
+1985 
 	`≠pAdvPro˚ssög
 (
-ADV_PROC_CONNECT
+ADV_EVT_CONNECT
 ,0);
 
-1998 
+1989 
 BLE_GAP_EVT_DISCONNECTED
 :
 
-1999 
+1990 
 	`DEBUG_LOG
 ("Disconnected");
 
-2001 
+1992 
 	`≠pAdvSëPªvC⁄n
 (
 Ál£
 );
 
-2002 
+1993 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_DISCONNECT
@@ -86827,39 +86837,39 @@ CONNECTION_DISCONNECT
 BLE_CONN_HANDLE_INVALID
 );
 
-2005 
+1996 
 m_c⁄n_h™dÀ
  = 
 BLE_CONN_HANDLE_INVALID
 ;
 
-2008 
+1999 
 BLE_GAP_EVT_PHY_UPDATE_REQUEST
 :
 
-2010 
+2001 
 	`NRF_LOG_DEBUG
 ("PHY updateÑequest.");
 
-2011 
+2002 
 bÀ_g≠_phys_t
  c⁄° 
 phys
  =
 
-2013 .
+2004 .
 rx_phys
  = 
 BLE_GAP_PHY_AUTO
 ,
 
-2014 .
+2005 .
 tx_phys
  = 
 BLE_GAP_PHY_AUTO
 ,
 
-2016 
+2007 
 îr_code
  = 
 	`sd_bÀ_g≠_phy_upd©e
@@ -86875,21 +86885,21 @@ c⁄n_h™dÀ
 phys
 );
 
-2017 
+2008 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2020 
+2011 
 BLE_GATTC_EVT_TIMEOUT
 :
 
-2022 
+2013 
 	`NRF_LOG_DEBUG
 ("GATT Client Timeout.");
 
-2023 
+2014 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -86903,25 +86913,25 @@ g©tc_evt
 c⁄n_h™dÀ
 ,
 
-2024 
+2015 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-2025 
+2016 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2028 
+2019 
 BLE_GATTS_EVT_TIMEOUT
 :
 
-2030 
+2021 
 	`NRF_LOG_DEBUG
 ("GATT Server Timeout.");
 
-2031 
+2022 
 îr_code
  = 
 	`sd_bÀ_g≠_disc⁄√˘
@@ -86935,21 +86945,21 @@ g©ts_evt
 c⁄n_h™dÀ
 ,
 
-2032 
+2023 
 BLE_HCI_REMOTE_USER_TERMINATED_CONNECTION
 );
 
-2033 
+2024 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2040 
+2031 
 	}
 }
 
-2048 
+2039 
 	$pm_evt_h™dÀr
 (
 pm_evt_t
@@ -86957,149 +86967,149 @@ pm_evt_t
 p_evt
 )
 
-2050 
+2041 
 	`pm_h™dÀr_⁄_pm_evt
 (
 p_evt
 );
 
-2051 
+2042 
 	`pm_h™dÀr_Êash_˛ón
 (
 p_evt
 );
 
-2053 
+2044 
 p_evt
 ->
 evt_id
 )
 
-2055 
+2046 
 PM_EVT_BONDED_PEER_CONNECTED
 : 
 	`DEBUG_LOG
 ("PM_EVT_BONDED_PEER_CONNECTED"); ;
 
-2056 
+2047 
 PM_EVT_CONN_SEC_START
 : 
 	`DEBUG_LOG
 ("PM_EVT_CONN_SEC_START"); ;
 
-2057 
+2048 
 PM_EVT_CONN_SEC_SUCCEEDED
 : 
 	`DEBUG_LOG
 ("PM_EVT_CONN_SEC_SUCCEEDED"); ;
 
-2058 
+2049 
 PM_EVT_CONN_SEC_FAILED
 : 
 	`DEBUG_LOG
 ("PM_EVT_CONN_SEC_FAILED"); ;
 
-2059 
+2050 
 PM_EVT_CONN_SEC_CONFIG_REQ
 : 
 	`DEBUG_LOG
 ("PM_EVT_CONN_SEC_CONFIG_REQ"); ;
 
-2060 
+2051 
 PM_EVT_CONN_SEC_PARAMS_REQ
 : 
 	`DEBUG_LOG
 ("PM_EVT_CONN_SEC_PARAMS_REQ"); ;
 
-2061 
+2052 
 PM_EVT_STORAGE_FULL
 : 
 	`DEBUG_LOG
 ("PM_EVT_STORAGE_FULL"); ;
 
-2062 
+2053 
 PM_EVT_ERROR_UNEXPECTED
 : 
 	`DEBUG_LOG
 ("PM_EVT_ERROR_UNEXPECTED"); ;
 
-2063 
+2054 
 PM_EVT_PEER_DATA_UPDATE_SUCCEEDED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEER_DATA_UPDATE_SUCCEEDED"); ;
 
-2064 
+2055 
 PM_EVT_PEER_DATA_UPDATE_FAILED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEER_DATA_UPDATE_FAILED"); ;
 
-2065 
+2056 
 PM_EVT_PEER_DELETE_SUCCEEDED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEER_DELETE_SUCCEEDED"); ;
 
-2066 
+2057 
 PM_EVT_PEER_DELETE_FAILED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEER_DELETE_FAILED"); ;
 
-2067 
+2058 
 PM_EVT_PEERS_DELETE_SUCCEEDED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEERS_DELETE_SUCCEEDED"); ;
 
-2068 
+2059 
 PM_EVT_PEERS_DELETE_FAILED
 : 
 	`DEBUG_LOG
 ("PM_EVT_PEERS_DELETE_FAILED"); ;
 
-2069 
+2060 
 PM_EVT_LOCAL_DB_CACHE_APPLIED
 : 
 	`DEBUG_LOG
 ("PM_EVT_LOCAL_DB_CACHE_APPLIED"); ;
 
-2070 
+2061 
 PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED
 : 
 	`DEBUG_LOG
 ("PM_EVT_LOCAL_DB_CACHE_APPLY_FAILED"); ;
 
-2071 
+2062 
 PM_EVT_SERVICE_CHANGED_IND_SENT
 : 
 	`DEBUG_LOG
 ("PM_EVT_SERVICE_CHANGED_IND_SENT"); ;
 
-2072 
+2063 
 PM_EVT_SERVICE_CHANGED_IND_CONFIRMED
 : 
 	`DEBUG_LOG
 ("PM_EVT_SERVICE_CHANGED_IND_CONFIRMED"); ;
 
-2073 
+2064 
 PM_EVT_SLAVE_SECURITY_REQ
 : 
 	`DEBUG_LOG
 ("PM_EVT_SLAVE_SECURITY_REQ"); ;
 
-2078 
+2069 
 p_evt
 ->
 evt_id
 )
 
-2081 
+2072 
 PM_EVT_BONDED_PEER_CONNECTED
 :
 
-2083 
+2074 
 	`DEBUG_LOG
 ("Pªv c⁄: %d", 
 p_evt
@@ -87107,19 +87117,19 @@ p_evt
 ≥î_id
 );
 
-2085 
+2076 
 	`≠pAdvSëPªvC⁄n
 (
 åue
 );
 
-2086 
+2077 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-2087 
+2078 
 	`≠pC⁄√˘SëSèã
 (
 CONNECTION_CONNECT
@@ -87129,25 +87139,25 @@ p_evt
 c⁄n_h™dÀ
 );
 
-2088 
+2079 
 	`≠pAdvPro˚ssög
 (
-ADV_PROC_START_CONNECT
+ADV_EVT_START_CONNECT
 , 
 p_evt
 ->
 ≥î_id
 );
 
-2093 
+2084 
 PM_EVT_CONN_SEC_SUCCEEDED
 :
 
-2095 
+2086 
 	`DEBUG_LOG
 ("Connection secured:Ñole: %d, conn_handle: 0x%x,Örocedure: %d.",
 
-2096 
+2087 
 	`bÀ_c⁄n_°©e_rﬁe
 (
 p_evt
@@ -87155,13 +87165,13 @@ p_evt
 c⁄n_h™dÀ
 ),
 
-2097 
+2088 
 p_evt
 ->
 c⁄n_h™dÀ
 ,
 
-2098 
+2089 
 p_evt
 ->
 ∑øms
@@ -87171,7 +87181,7 @@ c⁄n_£c_suc˚eded
 ¥o˚duª
 );
 
-2101 
+2092 
 	`‹dîSëFú°
 (
 devi˚Ordî
@@ -87181,7 +87191,7 @@ p_evt
 ≥î_id
 );
 
-2102 
+2093 
 	`‹dîWrôeFœsh
 (
 devi˚Ordî
@@ -87191,29 +87201,29 @@ devi˚Ordî
 ORDER_FLASHE_PAGE
 ));
 
-2107 
+2098 
 PM_EVT_CONN_SEC_FAILED
 :
 
-2109 
+2100 
 	`≠pAdvSèπ
 ();
 
-2113 
+2104 
 PM_EVT_PEERS_DELETE_SUCCEEDED
 :
 
-2114 
+2105 
 	`advîtisög_°¨t
 (
 Ál£
 );
 
-2117 
+2108 
 PM_EVT_PEER_DATA_UPDATE_SUCCEEDED
 :
 
-2118 i‡–
+2109 i‡–
 p_evt
 ->
 ∑øms
@@ -87223,7 +87233,7 @@ p_evt
 Êash_ch™ged
 
 
-2119 && (
+2110 && (
 p_evt
 ->
 ∑øms
@@ -87235,21 +87245,15 @@ d©a_id
 PM_PEER_DATA_ID_BONDING
 ))
 
-2121 
+2112 
 	`DEBUG_LOG
 ("New Bond,áddÅheÖeerÅoÅhe whitelist ifÖossible");
 
-2124 
-	`whôñi°_£t
-(
-PM_PEER_ID_LIST_SKIP_NO_ID_ADDR
-);
-
-2131 
+2122 
 	}
 }
 
-2141 
+2132 
 	$⁄_adv_evt
 (
 bÀ_adv_evt_t
@@ -87257,19 +87261,19 @@ bÀ_adv_evt_t
 bÀ_adv_evt
 )
 
-2143 
+2134 
 ªt_code_t
  
 îr_code
 ;
 
-2145 
+2136 
 	`DEBUG_LOG
 ("ADV_EV %d", 
 bÀ_adv_evt
 );
 
-2147 if–(
+2138 if–(
 	`≠pAdvGëSèã
 (Ë=
 Ál£
@@ -87279,27 +87283,27 @@ bÀ_adv_evt
 BLE_ADV_EVT_IDLE
 ))
 
-2149 
+2140 
 	`DEBUG_LOG
 ("Stop Adv");
 
-2150 
+2141 
 	`≠pAdvSt›
 ();
 
-2154 
+2145 
 bÀ_adv_evt
 )
 
-2156 
+2147 
 BLE_ADV_EVT_DIRECTED_HIGH_DUTY
 :
 
-2157 
+2148 
 	`DEBUG_LOG
 ("Directedádvertising.");
 
-2158 
+2149 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87307,25 +87311,25 @@ BLE_ADV_EVT_DIRECTED_HIGH_DUTY
 BSP_INDICATE_ADVERTISING_DIRECTED
 );
 
-2159 
+2150 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2162 
+2153 
 BLE_ADV_EVT_FAST
 :
 
-2163 
+2154 
 	`DEBUG_LOG
 ("Fastádvertising.");
 
-2164 #i‡
+2155 #i‡
 SWIFT_PAIR_SUPPORTED
  == 1
 
-2165 
+2156 
 îr_code
  = 
 	`bÀ_advîtisög_advd©a_upd©e
@@ -87337,13 +87341,13 @@ m_•_advd©a_buf
 Ál£
 );
 
-2166 
+2157 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2168 
+2159 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87351,21 +87355,21 @@ m_•_advd©a_buf
 BSP_INDICATE_ADVERTISING
 );
 
-2169 
+2160 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2172 
+2163 
 BLE_ADV_EVT_SLOW
 :
 
-2173 
+2164 
 	`DEBUG_LOG
 ("Slowádvertising.");
 
-2174 
+2165 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87373,21 +87377,21 @@ BLE_ADV_EVT_SLOW
 BSP_INDICATE_ADVERTISING_SLOW
 );
 
-2175 
+2166 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2178 
+2169 
 BLE_ADV_EVT_FAST_WHITELIST
 :
 
-2179 
+2170 
 	`DEBUG_LOG
 ("Fastádvertising with whitelist.");
 
-2180 
+2171 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87395,21 +87399,21 @@ BLE_ADV_EVT_FAST_WHITELIST
 BSP_INDICATE_ADVERTISING_WHITELIST
 );
 
-2181 
+2172 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2184 
+2175 
 BLE_ADV_EVT_SLOW_WHITELIST
 :
 
-2185 
+2176 
 	`DEBUG_LOG
 ("Slowádvertising with whitelist.");
 
-2186 
+2177 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87417,13 +87421,13 @@ BLE_ADV_EVT_SLOW_WHITELIST
 BSP_INDICATE_ADVERTISING_WHITELIST
 );
 
-2187 
+2178 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2188 
+2179 
 îr_code
  = 
 	`bÀ_advîtisög_ª°¨t_wôhout_whôñi°
@@ -87431,17 +87435,17 @@ BSP_INDICATE_ADVERTISING_WHITELIST
 m_advîtisög
 );
 
-2189 
+2180 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2192 
+2183 
 BLE_ADV_EVT_IDLE
 :
 
-2193 
+2184 
 îr_code
  = 
 	`b•_ödiˇti⁄_£t
@@ -87449,23 +87453,31 @@ BLE_ADV_EVT_IDLE
 BSP_INDICATE_IDLE
 );
 
-2194 
+2185 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2196 
+2187 
 	`≠pAdvSëRólSèã
 (
 Ál£
 );
 
-2201 
+2188 
+	`≠pAdvSt›
+();
+
+2189 
+	`USER_INFO
+("ADV was stoped");
+
+2194 
 BLE_ADV_EVT_WHITELIST_REQUEST
 :
 
-2203 
+2196 
 bÀ_g≠_addr_t
  
 whôñi°_addrs
@@ -87473,7 +87485,7 @@ whôñi°_addrs
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-2204 
+2197 
 bÀ_g≠_úk_t
  
 whôñi°_úks
@@ -87481,7 +87493,7 @@ whôñi°_úks
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ];
 
-2205 
+2198 
 uöt32_t
  
 addr_˙t
@@ -87489,7 +87501,7 @@ addr_˙t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-2206 
+2199 
 uöt32_t
  
 úk_˙t
@@ -87497,7 +87509,7 @@ uöt32_t
 BLE_GAP_WHITELIST_ADDR_MAX_COUNT
 ;
 
-2208 
+2201 
 îr_code
  = 
 	`pm_whôñi°_gë
@@ -87507,37 +87519,37 @@ whôñi°_addrs
 addr_˙t
 ,
 
-2209 
+2202 
 whôñi°_úks
 , &
 úk_˙t
 );
 
-2210 
+2203 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2211 
+2204 
 	`NRF_LOG_DEBUG
 ("pm_whitelist_get %dáddránd %d irk ",
 
-2212 
+2205 
 addr_˙t
 ,
 
-2213 
+2206 
 úk_˙t
 );
 
-2216 
+2209 
 	`idítôõs_£t
 (
 PM_PEER_ID_LIST_SKIP_NO_IRK
 );
 
-2219 
+2212 
 îr_code
  = 
 	`bÀ_advîtisög_whôñi°_ª∂y
@@ -87545,45 +87557,45 @@ PM_PEER_ID_LIST_SKIP_NO_IRK
 m_advîtisög
 ,
 
-2220 
+2213 
 whôñi°_addrs
 ,
 
-2221 
+2214 
 addr_˙t
 ,
 
-2222 
+2215 
 whôñi°_úks
 ,
 
-2223 
+2216 
 úk_˙t
 );
 
-2224 
+2217 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2228 
+2221 
 BLE_ADV_EVT_PEER_ADDR_REQUEST
 :
 
-2230 
+2223 
 pm_≥î_d©a_b⁄dög_t
  
 ≥î_b⁄dög_d©a
 ;
 
-2233 i‡(
+2226 i‡(
 m_≥î_id
  !
 PM_PEER_ID_INVALID
 )
 
-2236 
+2229 
 îr_code
  = 
 	`pm_≥î_d©a_b⁄dög_lﬂd
@@ -87593,25 +87605,25 @@ m_≥î_id
 ≥î_b⁄dög_d©a
 );
 
-2237 i‡(
+2230 i‡(
 îr_code
  !
 NRF_ERROR_NOT_FOUND
 )
 
-2239 
+2232 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2242 
+2235 
 	`idítôõs_£t
 (
 PM_PEER_ID_LIST_SKIP_ALL
 );
 
-2244 
+2237 
 bÀ_g≠_addr_t
  * 
 p_≥î_addr
@@ -87623,7 +87635,7 @@ p_≥î_addr
 id_addr_öfo
 );
 
-2245 
+2238 
 îr_code
  = 
 	`bÀ_advîtisög_≥î_addr_ª∂y
@@ -87633,13 +87645,13 @@ m_advîtisög
 p_≥î_addr
 );
 
-2246 
+2239 
 	`APP_ERROR_CHECK
 (
 îr_code
 );
 
-2256 
+2249 
 	}
 }
 
@@ -98159,7 +98171,7 @@ PM_LOG_ENABLED
 
 10169 
 	#PM_LOG_ENABLED
- 1
+ 0
 
 	)
 
